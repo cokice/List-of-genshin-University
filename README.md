@@ -71,7 +71,6 @@
 | [www.江西原神大学.com](http://www.江西原神大学.com) | 江西财经大学 |
 | [www.世界原神大学.com](http://www.世界原神大学.com) | 广西大学 |
 | [www.华东原神大学.online](http://华东原神大学.online) | 华东师范大学 |
-| [www.原神大学.com](http://www.原神大学.com) | 广州城市理工学院 |
 | [www.常州原神大学.com](http://www.常州原神大学.com) | 常州大学 |
 | [www.南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 |
 | [www.南京原神大学.com](http://www.南京原神大学.com) | 南京大学 |
