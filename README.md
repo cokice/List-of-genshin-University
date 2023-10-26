@@ -16,6 +16,7 @@
 ## 高校名单
 | 网站 | 大学 | 
 | --- | --- |
+| [www.提瓦特工业大学.com](http://www.提瓦特工业大学.com) | 哈尔滨工业大学 |
 | [www.中国op大学.com](http://www.中国op大学.com) | 中国海洋大学 |
 | [www.原神学院.com](http://www.原神学院.com) | 黄淮学院 |
 | [www.广东原神大学.com](http://www.广东原神大学.com) | 东莞理工学院 |
@@ -32,7 +33,6 @@
 | [www.湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 |
 | [www.中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 |
 | [www.世界原神大学.com](http://www.世界原神大学.com) | 广西大学 |
-| [www.世界原神大学 com](http://www.世界原神大学.com) | 广西大学 |
 | [www.江西原神大学.com](http://www.江西原神大学.com) | 江西财经大学 |
 | [www.原神启动.space](http://原神启动.space) | 广州商学院 |
 | [www.原神蒸发大学.com](http://www.原神蒸发大学.com) | 华东政法大学 |
