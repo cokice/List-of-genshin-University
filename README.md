@@ -90,7 +90,7 @@
 | [www.南京原神大学.com](http://www.南京原神大学.com) | 南京大学 |
 | [www.山西原神大学.com](http://www.山西原神大学.com) | 中北大学 |
 | [www.澳门原神大学.cn](http://www.澳门原神大学.cn) | 澳门城市大学 |
-| [www.苏州原神大学.cn](https://www.xjtlu.edu.cn/zh) | 西交利物浦大学 |
+| [www.苏州原神大学.com](https://www.xjtlu.edu.cn) | 西交利物浦大学 |
 
 ## 联系方式
 
