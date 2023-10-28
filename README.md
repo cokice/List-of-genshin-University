@@ -95,6 +95,8 @@
 | [www.山西原神大学.com](http://www.山西原神大学.com) | 中北大学 |
 | [www.澳门原神大学.cn](http://www.澳门原神大学.cn) | 澳门城市大学 |
 | [www.苏州原神大学.com](https://www.xjtlu.edu.cn) | 西交利物浦大学 |
+| [加拿大原神大学.com](https://加拿大原神大学.com) | Simon Fraser University |
+| [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa |
 
 ## 联系方式
 
