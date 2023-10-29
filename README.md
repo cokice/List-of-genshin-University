@@ -25,7 +25,7 @@
 | [www.江门原神大学.com](http://www.江门原神大学.com) | 五邑大学 |
 | [www.原神职业技术学院.com](http://www.原神职业技术学院.com) | 五邑大学 |
 | [www.原神.org](http://www.原神.org) | 广东药科大学 |
-| [www.华南原神大学.com](http://www.华南原神大学.com) | 华南师范大学 |
+| [www.华南原神大学.com](http://www.华南原神大学.com) | 华南理工大学 |
 | [www.原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 |
 | [www.合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院    |
 | [www.广轻原神大学.com](http://www.广轻原神大学.com) | 广东轻工职业技术学院|
