@@ -25,7 +25,7 @@
 | [www.江门原神大学.com](http://www.江门原神大学.com) | 五邑大学 |
 | [www.原神职业技术学院.com](http://www.原神职业技术学院.com) | 五邑大学 |
 | [www.原神.org](http://www.原神.org) | 广东药科大学 |
-| [www.华南原神大学.com](http://www.华南原神大学.com) | 华南师范大学 |
+| [www.华南原神大学.com](http://www.华南原神大学.com) | 华南理工大学 |
 | [www.原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 |
 | [www.合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院    |
 | [www.广轻原神大学.com](http://www.广轻原神大学.com) | 广东轻工职业技术学院|
@@ -97,7 +97,7 @@
 | [www.苏州原神大学.com](https://www.xjtlu.edu.cn) | 西交利物浦大学 |
 | [www.长安原神大学.com](https://www.长安原神大学.com) | 西安科技大学 |
 | [www.原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 |
-
+| [www.原神工业大学.icu](https://www.原神工业大学.icu) | 西北工业大学 |
 ## 联系方式
 
 如果你有任何问题，可以通过发起Issue或者直接联系项目维护者。
