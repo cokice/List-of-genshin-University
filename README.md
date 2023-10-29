@@ -106,6 +106,8 @@
 | [www.长安原神大学.com](https://www.长安原神大学.com) | 西安科技大学 |
 | [www.原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 |
 | [www.原神工业大学.icu](https://www.原神工业大学.icu) | 西北工业大学 |
+| [天津原神大学.top](https://天津原神大学.top) | 天津理工大学 |
+| [www.tjut.top](https://www.tjut.top) | 原神 |
 ## 联系方式
 
 如果你有任何问题，可以通过发起Issue或者直接联系项目维护者。
