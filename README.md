@@ -51,6 +51,7 @@
 | [www.山西原神大学.com](http://www.山西原神大学.com) | 中北大学 |
 | [www.南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 |
 | [www.南京原神大学.com](http://www.南京原神大学.com) | 南京大学 |
+| [www.南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 |
 | [www.常州原神大学.com](http://www.常州原神大学.com) | 常州大学 |
 | [www.原神大学.love](http://www.原神大学.love) | 燕山大学 |
 | [www.原神启动.com](http://www.原神启动.com) | 燕山大学MC社团 |
