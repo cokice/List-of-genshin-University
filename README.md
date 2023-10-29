@@ -95,6 +95,7 @@
 | [www.山西原神大学.com](http://www.山西原神大学.com) | 中北大学 |
 | [www.澳门原神大学.cn](http://www.澳门原神大学.cn) | 澳门城市大学 |
 | [www.苏州原神大学.com](https://www.xjtlu.edu.cn) | 西交利物浦大学 |
+| [www.原神工程技术大学.com](https://www.原神工程技术大学.com) | 辽宁工程技术大学 |
 | [www.长安原神大学.com](https://www.长安原神大学.com) | 西安科技大学 |
 | [www.原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 |
 | [www.原神工业大学.icu](https://www.原神工业大学.icu) | 西北工业大学 |
