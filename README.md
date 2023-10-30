@@ -20,12 +20,18 @@
 ## 高校名单
 | 网站 | 大学 | 
 | --- | --- |
+| [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 |
+| [中国原神大学.cc](http://中国原神大学.cc) | 中国石油大学华东 |
+| [国立原神大学.top](http://国立原神大学.top) | 中国海洋大学 |
+| [青岛原神大学.com](http://青岛原神大学.com) | 青岛科技大学 |
+| [原神医科大学.top](http://原神医科大学.top) | 山东第一医科大学 |
+| [加州原神大学.com](http://加州原神大学.com) | 加州大学圣塔芭芭拉分校 |
 | [www.伦敦原神大学.com](http://www.伦敦原神大学.com) | 伦敦帝国理工学院 |
 | [www.原神农业大学.com](http://www.原神农业大学.com) | 河南农业大学 |
 | [www.江门原神大学.com](http://www.江门原神大学.com) | 五邑大学 |
 | [www.原神职业技术学院.com](http://www.原神职业技术学院.com) | 五邑大学 |
 | [www.原神.org](http://www.原神.org) | 广东药科大学 |
-| [www.华南原神大学.com](http://www.华南原神大学.com) | 华南师范大学 |
+| [www.华南原神大学.com](http://www.华南原神大学.com) | 华南理工大学 |
 | [www.原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 |
 | [www.合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院    |
 | [www.广轻原神大学.com](http://www.广轻原神大学.com) | 广东轻工职业技术学院|
@@ -45,6 +51,7 @@
 | [www.山西原神大学.com](http://www.山西原神大学.com) | 中北大学 |
 | [www.南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 |
 | [www.南京原神大学.com](http://www.南京原神大学.com) | 南京大学 |
+| [www.南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 |
 | [www.常州原神大学.com](http://www.常州原神大学.com) | 常州大学 |
 | [www.原神大学.love](http://www.原神大学.love) | 燕山大学 |
 | [www.原神启动.com](http://www.原神启动.com) | 燕山大学MC社团 |
@@ -95,9 +102,14 @@
 | [www.山西原神大学.com](http://www.山西原神大学.com) | 中北大学 |
 | [www.澳门原神大学.cn](http://www.澳门原神大学.cn) | 澳门城市大学 |
 | [www.苏州原神大学.com](https://www.xjtlu.edu.cn) | 西交利物浦大学 |
+| [www.原神工程技术大学.com](https://www.原神工程技术大学.com) | 辽宁工程技术大学 |
+| [www.长安原神大学.com](https://www.长安原神大学.com) | 西安科技大学 |
+| [www.原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 |
+| [www.原神工业大学.icu](https://www.原神工业大学.icu) | 西北工业大学 |
+| [天津原神大学.top](https://天津原神大学.top) | 天津理工大学 |
+| [www.tjut.top](https://www.tjut.top) | 原神 |
 | [加拿大原神大学.com](https://加拿大原神大学.com) | Simon Fraser University |
 | [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa |
-
 ## 联系方式
 
 如果你有任何问题，可以通过发起Issue或者直接联系项目维护者。
