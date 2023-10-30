@@ -1,0 +1,30 @@
+name: Sync README to docusaurus-yuanshen Repo
+
+on:
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout source repo
+      uses: actions/checkout@v2
+
+    - name: Push README to docusaurus-yuanshen repo
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }} # 设置一个包含你的GitHub token的secret
+      run: |
+        git config --global user.name 'howen'
+        git config --global user.email 'howen.huang@qq.com'
+
+        # Clone the destination repo
+        git clone https://x-access-token:$API_TOKEN_GITHUB@github.com/your_username/docusaurus-yuanshen.git
+        cp README.md docusaurus-yuanshen/docs/README.md # Copy the updated README
+
+        cd docusaurus-yuanshen
+        git add docs/README.md
+        git commit -m "Update README from List-of-genshin-University"
+        git push origin master # Or whichever branch you're targeting
+
