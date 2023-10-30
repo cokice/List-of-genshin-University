@@ -20,7 +20,7 @@ jobs:
         git config --global user.email 'howen.huang@qq.com'
 
         # Clone the destination repo
-        git clone https://x-access-token:$API_TOKEN_GITHUB@github.com/your_username/docusaurus-yuanshen.git
+        git clone https://x-access-token:$API_TOKEN_GITHUB@github.com/cokice/docusaurus-yuanshen.git
         cp README.md docusaurus-yuanshen/docs/README.md # Copy the updated README
 
         cd docusaurus-yuanshen
