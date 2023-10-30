@@ -108,7 +108,10 @@
 | [www.原神工业大学.icu](https://www.原神工业大学.icu) | 西北工业大学 |
 | [天津原神大学.top](https://天津原神大学.top) | 天津理工大学 |
 | [www.tjut.top](https://www.tjut.top) | 原神 |
+| [加拿大原神大学.com](https://加拿大原神大学.com) | Simon Fraser University |
+| [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa |
 | [www.米哈游师范大学.com](https://www.米哈游师范大学.com) | 广西师范大学 |
+
 ## 联系方式
 
 如果你有任何问题，可以通过发起Issue或者直接联系项目维护者。
