@@ -117,7 +117,9 @@
 | [加拿大原神大学.com](https://加拿大原神大学.com) | Simon Fraser University |
 | [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa |
 | [www.米哈游师范大学.com](https://www.米哈游师范大学.com) | 广西师范大学 |
+| [www.原神启动.store](https://www.原神启动.store) | 汕头大学 |
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 |
+
 
 ## 联系方式
 如果你有任何问题，可以通过发起Issue或者直接联系项目维护者。
