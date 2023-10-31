@@ -61,7 +61,7 @@
 | [www.南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 |
 | [www.常州原神大学.com](http://www.常州原神大学.com) | 常州大学 |
 | [www.原神大学.love](http://www.原神大学.love) | 燕山大学 |
-| [www.原神启动.com](http://www.原神启动.com) | 燕山大学MC社团 |
+| [www.原神启动.com](http://www.原神启动.com) | 山东理工大学 |
 | [www.原神启动.club](http://www.原神启动.club) | 南开大学 |
 | [www.湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 |
 | [www.中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 |
@@ -73,7 +73,6 @@
 | [www.原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 |
 | [www.原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 |
 | [www.中国原神大学.com](http://www.中国原神大学.com) | 中国石油大学 |
-| [www.原神启动.space](http://原神启动.space) | 广州商学院 |
 | [www.原神商学院.top](http://www.原神商学院.top) | 天津商业大学 |
 | [www.华东原神大学.online](http://华东原神大学.online) | 华东师范大学 |
 | [www.中国科学技术大学.com](http://www.中国科学技术大学.com) | 原神 |
@@ -82,7 +81,6 @@
 | [www.黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 |
 | [www.提瓦特大专.com](http://www.提瓦特大专.com) | 哈尔滨商业大学 |
 | [www.北京原神大专.com](http://www.北京原神大专.com) | 北京理工大学 |
-| [www.原神启动.com](http://www.原神启动.com) | 燕山大学MC社团 |
 | [www.原神大专.com](http://www.原神大专.com) | 广东财贸职业学院 |
 | [www.原神理工大学.com](http://www.原神理工大学.com) | 太原理工大学 |
 | [www.澳门原神大学.com](http://www.澳门原神大学.com) | 澳门理工大学 |
