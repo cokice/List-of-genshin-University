@@ -118,6 +118,7 @@
 | [www.米哈游师范大学.com](https://www.米哈游师范大学.com) | 广西师范大学 |
 | [www.原神启动.store](https://www.原神启动.store) | 汕头大学 |
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 |
+| [www.哈尔滨原神大学.com](https://www.哈尔滨原神大学.com) | 哈尔滨工程大学 |
 
 
 ## 联系方式
