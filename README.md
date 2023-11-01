@@ -119,6 +119,7 @@
 | [www.原神启动.store](https://www.原神启动.store) | 汕头大学 |
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 |
 | [www.哈尔滨原神大学.com](https://www.哈尔滨原神大学.com) | 哈尔滨工程大学 |
+| [www.原神理工学院.com](https://www.原神理工学院.com) | 麻省理工学院 |
 
 
 ## 联系方式
