@@ -129,6 +129,7 @@
 | [www.提瓦特中学.top](https://www.提瓦特中学.top) | 平遥中学 |
 | [www.美国原神大学.com](http://www.美国原神大学.com) | 纽约大学 |
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 |
-
+| [universityofgenshin.com](https://universityofgenshin.com) | University of Melbourne |
+| [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne |
 ## 联系方式
 如果你有任何问题，可以通过发起Issue或者直接联系项目维护者。
