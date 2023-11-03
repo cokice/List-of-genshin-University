@@ -56,6 +56,7 @@
 | [原神螺蛳粉职业技术学院.com](http://www.原神螺蛳粉职业技术学院.com) | 中南林业科技大学 |
 | [www.苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 |
+| [www.上海op大学.com](http://www.上海op大学.com) | 上海海洋大学 |
 | [www.中国op大学.com](http://www.中国op大学.com) | 中国海洋大学 |
 | [www.原神学院.com](http://www.原神学院.com) | 黄淮学院 |
 | [www.广东原神大学.com](http://www.广东原神大学.com) | 东莞理工学院 |
