@@ -131,5 +131,6 @@
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 |
 | [universityofgenshin.com](https://universityofgenshin.com) | University of Melbourne |
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne |
+| [www.原神职业大学.com](https://www.原神职业大学.com) | 海南科技职业大学 |
 ## 联系方式
 如果你有任何问题，可以通过发起Issue或者直接联系项目维护者。
