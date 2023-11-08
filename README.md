@@ -22,6 +22,15 @@
 ## 高校名单
 | 网站 | 大学 | 
 | --- | --- |
+| [www.汕头原神学院.com](http://www.汕头原神学院.com) | 汕头职业技术学院 |
+| [www.中国原神学院.com](http://www.中国原神学院.com) | 北京信息科技大学 |
+| [www.江西原神大专.com](http://www.江西原神大专.com) | 江西理工大学 |
+| [湖南原神大专.top](http://www.湖南原神大专.top) | 郴州职业技术学院 |
+| [www.原神涉外办事处.com](http://www.原神涉外办事处.com) | 西安外事学院 |
+| [www.玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 |
+| [www.浙江原神大学.cn](http://www.浙江原神大学.cn) | 浙江理工大学 |
+| [www.浙江原批大学.com](http://www.浙江原批大学.com) | 浙江理工大学 |
+| [www.四川原神学院.com](http://www.四川原神学院.com) | 四川美术学院 |
 | [www.东北原神大学.com](http://www.东北原神大学.com) | 吉林大学 |
 | [原神消防学院.com](http://原神消防学院.com) | 中国消防救援学院 |
 | [www.厦门原神大学.com](http://www.厦门原神大学.com) | 厦门大学 |
@@ -73,7 +82,7 @@
 | [www.南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 |
 | [www.常州原神大学.com](http://www.常州原神大学.com) | 常州大学 |
 | [www.原神大学.love](http://www.原神大学.love) | 燕山大学 |
-| [www.原神启动.com](http://www.原神启动.com) | 山东理工大学 |
+| [www.原神启动.com](http://www.原神启动.com) | 中南林业科技大学 |
 | [www.原神启动.club](http://www.原神启动.club) | 南开大学 |
 | [www.湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 |
 | [www.中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 |
