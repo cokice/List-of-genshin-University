@@ -22,6 +22,8 @@
 ## 高校名单
 | 网站 | 大学 | 
 | --- | --- |
+| [原神学院.icu](http://www.原神学院.icu) | 中国计量大学现代科技学院 |
+| [www.英国皇家原神学院.com](http://www.xn--8mr31f22edj875iytdc4u1v0b.com/) | 英国皇家艺术学院 |
 | [www.湖北原神大学.xyz](http://www.湖北原神大学.xyz) | 湖北大学 |
 | [www.沈阳原神大学.com](http://www.沈阳原神大学.com) | 沈阳理工大学|
 | [www.汕头原神学院.com](http://www.汕头原神学院.com) | 汕头职业技术学院 |
