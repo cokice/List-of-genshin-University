@@ -23,6 +23,7 @@
 ## 高校名单
 | 网站 | 大学 |
 | --- | --- |
+| [ugensh.in](https://ugensh.in) | University of Sydney |
 | [universityofgenshin.com](https://universityofgenshin.com) | University of Melbourne |
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne |
 | [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa |
