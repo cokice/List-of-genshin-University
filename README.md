@@ -151,7 +151,6 @@
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 |
 | [中国科学技术大学.com](http://www.中国科学技术大学.com) | 原神 |
 | [tjut.top](https://www.tjut.top) | 原神 |
-| [原神师范大学.live](http://www.原神师范大学.live) | 原神师范大学 |
 | [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 |
 | [东方原神大学.com](http://www.东方原神大学.com) | 浙江大学 |
