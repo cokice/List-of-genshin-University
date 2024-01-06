@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单(目前大约有157个高校)，提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单(目前大约有160个高校)，提供一个校园集聚地。
 
 喜欢本项目的话可以在[GitHub](https://github.com/cokice/List-of-genshin-University)内点个star。
 **该名单由学校名称字母顺序排列**
@@ -25,10 +25,10 @@
 ## 高校名单
 | 网站 | 大学 |
 | --- | --- |
-| [ugensh.in](https://ugensh.in) | University of Sydney |
 | [universityofgenshin.com](https://universityofgenshin.com) | University of Melbourne |
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne |
 | [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa |
+| [ugensh.in](https://ugensh.in) | University of Sydney |
 | [澳门原神大学.cn](https://cityu.edu.mo/) | 澳门城市大学 |
 | [原神科技大学.com](https://www.must.edu.mo/) | 澳门科技大学 |
 | [澳门原神大学.com](https://www.mpu.edu.mo/) | 澳门理工大学 |
@@ -39,6 +39,7 @@
 | [北京原神第八中学.com](http://www.北京原神第八中学.com) | 北京市第八中学 |
 | [中国原神学院.com](http://www.中国原神学院.com) | 北京信息科技大学 |
 | [中关村原神中学.com](http://www.中关村原神中学.com) | 北京市中关村中学 |
+| [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 |
 | [苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 |
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 |
 | [湖南原神大专.top](http://湖南原神大专.top) | 郴州职业技术学院 |
@@ -72,6 +73,7 @@
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 |
 | [河北原神大学.com](http://www.河北原神大学.com) | 河北农业大学 |
 | [河北原神大专.com](http://www.河北原神大专.com) | 河北师范大学 |
+| [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 |
 | [原神农业大学.com](http://www.原神农业大学.com) | 河南农业大学 |
 | [湖北原神大学.xyz](http://www.湖北原神大学.xyz) | 湖北大学 |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 |
@@ -91,6 +93,7 @@
 | [江苏原神大学.com](http://www.江苏原神大学.com) | 江苏大学 |
 | [江西原神大专.com](http://www.江西原神大专.com) | 江西理工大学 |
 | [原神中医药大学.fun](http://www.原神中医药大学.fun) | 江西中医药大学 |
+| [北京原神学校.com](https://北京原神学校.com) | 景山学校远洋分校 |
 | [澳大利亚原神大学.com](http://www.澳大利亚原神大学.com) | 昆士兰大学 |
 | [原神怎么你了.top](http://原神怎么你了.top) | 兰州大学 |
 | [原神アジア太平洋大学.jp](https://原神アジア太平洋大学.jp) | 立命館アジア太平洋大学 |
@@ -157,7 +160,6 @@
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 |
 | [中国科学技术大学.com](http://www.中国科学技术大学.com) | 原神 |
 | [tjut.top](https://www.tjut.top) | 原神 |
-| [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 |
 | [东方原神大学.com](http://www.东方原神大学.com) | 浙江大学 |
 | [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 |
@@ -184,8 +186,6 @@
 | [原神林业科技大学.com](http://www.原神林业科技大学.com) | 中南林业科技大学 |
 | [原神螺蛳粉职业技术学院.com](http://www.原神螺蛳粉职业技术学院.com) | 中南林业科技大学 |
 | [不玩原神.fun](http://www.不玩原神.fun) | 重庆水利水电职业技术学院 |
-| [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 |
-| [北京原神学校.com](https://北京原神学校.com) | 景山学校远洋分校 |
 
 
 ## 联系方式
