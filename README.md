@@ -32,6 +32,7 @@
 | [澳门原神大学.cn](https://cityu.edu.mo/) | 澳门城市大学 |
 | [原神科技大学.com](https://www.must.edu.mo/) | 澳门科技大学 |
 | [澳门原神大学.com](https://www.mpu.edu.mo/) | 澳门理工大学 |
+| [中国原神大学.org](https://www.swust.edu.cn/) | 西南科技大学 |
 | [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 |
 | [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 |
 | [北京原神大专.com](http://www.北京原神大专.com) | 北京理工大学 |
