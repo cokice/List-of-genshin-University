@@ -1,0 +1,21 @@
+name: Update Status
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  update-plalist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update Status
+        run: |
+          git config user.name "UpdateBot" || true
+          git config user.email "updatebot@users.noreply.github.com" || true
+          go run main.go
+          git add .
+          git commit --quiet -m "Update Status (GitHub Actions)"
+          git push -f origin main
