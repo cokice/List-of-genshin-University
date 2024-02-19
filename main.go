@@ -112,7 +112,7 @@ func ReplaceTable(table string) {
 	}
 	content := string(bytes)
 	head := strings.Index(content, "## 高校名单")
-	tail := strings.Index(content, "##")
+	tail := strings.Index(content, "## 联系方式")
 	if head == -1 || tail == -1 {
 		// 中止替换
 		return
