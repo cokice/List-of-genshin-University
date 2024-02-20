@@ -84,7 +84,7 @@
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 | :white_check_mark: Redirect 301 |
 | [华南原神大学.com](http://www.华南原神大学.com) | 华南理工大学 | :white_check_mark: Redirect 301 |
 | [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :white_check_mark: Redirect 301 |
-| [湖北原神大学.xyz](http://www.湖北原神大学.xyz) | 湖北大学 | :x: Connection error |
+| [湖北原神大学.xyz](http://www.湖北原神大学.xyz) | 湖北大学 | :x: 500 |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :white_check_mark: Redirect 301 |
 | [原神带专.com](http://www.原神带专.com) | 湖北水利水电职业技术学院 | :x: 500 |
 | [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :white_check_mark: Meta Refresh |
@@ -111,7 +111,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
 | [南京星穹铁道职业技术学院.xyz](https://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
-| [原神师范学院.top](http://www.原神师范学院.top) | 南京晓庄学院 | :x: Connection error |
+| [原神师范学院.top](http://www.原神师范学院.top) | 南京晓庄学院 | :x: 530 |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: Connection error |
 | [原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 302 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :white_check_mark:  |
