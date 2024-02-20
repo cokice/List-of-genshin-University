@@ -75,7 +75,7 @@ func FetchList() (uList [][]string) {
 	if err != nil {
 		logger.Panicln("读取README.md文件失败")
 	}
-	re := regexp.MustCompile(`\[(.*)\]\((https?://.*\.[a-z]+/?)\)\s*\|\s*([\sa-zA-Z\x{3040}-\x{309F}\x{30A0}-\x{30FF}\x{4E00}-\x{9FFF}]+)\s*\|`)
+	re := regexp.MustCompile(`\[(.*)\]\((https?://.*)\)\s*\|\s*([\s\w\(\)\x{3040}-\x{309F}\x{30A0}-\x{30FF}\x{4E00}-\x{9FFF}]+)\s*\|`)
 	uList = re.FindAllStringSubmatch(string(bytes), -1)
 	return
 }
@@ -92,16 +92,19 @@ func TestDomain(domain string) (string, int) {
 
 func ListToMDTable(result []*TestResult) string {
 	var data string
+	var invalid int
 	data += "| 网站 | 大学 | 状态 |\n"
 	data += "| --- | --- | --- |\n"
 	for _, res := range result {
 		status := "✅"
 		if res.code == 0 {
 			status = "❌"
+			invalid++
 		}
 		data += fmt.Sprintf("| [%s](%s) | %s | %s |\n", res.title, res.domain, res.name, status)
 	}
 	data += "\n\n"
+	logger.Printf("有效个数: %d    无效个数: %d", len(result)-invalid, invalid)
 	return data
 }
 
@@ -113,8 +116,9 @@ func ReplaceTable(table string) {
 	content := string(bytes)
 	head := strings.Index(content, "## 高校名单")
 	tail := strings.Index(content, "## 联系方式")
-	if head == -1 || tail == -1 {
+	if head == -1 || tail == -1 || head > tail {
 		// 中止替换
+		logger.Println("文档格式有变更,需要修改脚本")
 		return
 	}
 	loc, _ := time.LoadLocation("Asia/Shanghai")
