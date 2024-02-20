@@ -1,0 +1,62 @@
+name: Update Status
+on:
+  workflow_dispatch: 
+    inputs:
+      no_skip_edu:
+        description: 'Do not skip edu domains'
+        required: true
+        type: 'boolean'
+        default: false
+      count_only:
+        description: 'Only count the number of domains, do not verify'
+        required: true
+        type: 'boolean'
+        default: false
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+      - master
+    paths: 
+      - 'README.md'
+      - '.github/workflows/update_status.yml'
+      - 'verify-url.py'
+permissions: 
+  contents: write
+jobs:
+  update_status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install dnspython requests
+
+      - name: Prepare Proxy
+        run: |
+          echo -e "${{ secrets.PROXY }}" >> proxies.txt
+
+      - name: Update status
+        run: python3 verify-url.py
+        env:
+          NO_SKIP_EDU: ${{ github.event.inputs.no_skip_edu && '1' || '0' }}
+          COUNT_ONLY: ${{ github.event.inputs.count_only && '1' || '0' }}
+
+      - name: Revert Proxy
+        run: |
+          git checkout proxies.txt
+      
+      - name: Commit and push
+        uses: actions4git/add-commit-push@v1
+        with:
+          commit_message: Update status
+        continue-on-error: true
