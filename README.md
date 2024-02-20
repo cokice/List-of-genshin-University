@@ -2,7 +2,7 @@
 
 欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单(目前大约有153个高校)，提供一个校园集聚地。
 非高校也可添加哟~
-
+test
 喜欢本项目的话可以在[GitHub](https://github.com/cokice/List-of-genshin-University)内点个star。
 **该名单由学校名称字母顺序排列**
 
