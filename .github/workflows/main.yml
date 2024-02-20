@@ -1,4 +1,4 @@
-name: Sync README to docusaurus-yuanshen Repo
+name: Check Links and Sync README
 
 on:
   push:
@@ -6,27 +6,39 @@ on:
       - 'README.md'
 
 jobs:
-  sync:
+  check-links-and-update-readme:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout source repo
-      uses: actions/checkout@v2
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run link checker script and update README.md
+        run: python check-links.py # 确保这个脚本更新了README.md文件
 
-    - name: Push README to docusaurus-yuanshen repo
-      env:
-        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }} # 设置一个包含你的GitHub token的secret
-      run: |
-        git config --global user.name 'howen'
-        git config --global user.email 'howen.huang@qq.com'
+  sync-to-docusaurus-repo:
+    needs: check-links-and-update-readme
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v2
+      - name: Push README to docusaurus-yuanshen repo
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }} # 设置secret
+        run: |
+          git config --global user.name 'howen'
+          git config --global user.email 'howen.huang@qq.com'
 
-        # Clone the destination repo
-        git clone https://x-access-token:$API_TOKEN_GITHUB@github.com/cokice/docusaurus-yuanshen.git
-        cp README.md docusaurus-yuanshen/docs/README.md # Copy the updated README
+          # Clone the destination repo
+          git clone https://x-access-token:$API_TOKEN_GITHUB@github.com/cokice/docusaurus-yuanshen.git
+          cp README.md docusaurus-yuanshen/docs/README.md # Copy the updated README
 
-        cd docusaurus-yuanshen
-        git checkout main # 切换到main分支
-        git pull origin main # 拉取最新的更改
-        git add docs/README.md
-        git commit -m "Update README from List-of-genshin-University"
-        git push origin main
-
+          cd docusaurus-yuanshen
+          git checkout main # 切换到main分支
+          git pull origin main # 拉取最新的更改
+          git add docs/README.md
+          git commit -m "Update README from List-of-genshin-University"
+          git push origin main
