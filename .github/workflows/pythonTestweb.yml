@@ -1,10 +1,12 @@
-name: Run Python Script
+name: Run Python Script on README.md Changes
 
-# 触发条件：每当有 push 操作到 main 分支时触发此工作流程
+# 定义触发条件：仅当 README.md 文件被推送修改时触发
 on:
   push:
     branches:
       - main
+    paths:
+      - 'README.md'
 
 jobs:
   check-websites:
