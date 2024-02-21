@@ -112,6 +112,7 @@
 | [广东原神公益大学.com](http://www.广东原神公益大学.com) | 暨南大学 | :white_check_mark: Redirect 301 |
 | [北京原神学校.com](https://北京原神学校.com) | 景山学校远洋分校 | :white_check_mark:  |
 | [澳大利亚原神大学.com](http://www.澳大利亚原神大学.com) | 昆士兰大学 | :white_check_mark: Redirect 302 |
+| [洛阳原神大学.com](http://www.洛阳原神大学.com) | 洛阳职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神怎么你了.top](http://原神怎么你了.top) | 兰州大学 | :x: DNS error |
 | [原神工程技术大学.com](https://www.原神工程技术大学.com) | 辽宁工程技术大学 | :white_check_mark: CNAME |
 | [辽宁原神大学.icu](http://www.辽宁原神大学.icu) | 辽宁石油化工大学 | :x: Connection error |
