@@ -209,6 +209,7 @@
 | [长沙原神大学.com](http://www.长沙原神大学.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [原神林业科技大学.com](http://www.原神林业科技大学.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [原神螺蛳粉职业技术学院.com](http://www.原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
+| [洛阳原神大学.com](http://www.洛阳原神大学.com) | 洛阳职业技术学院 | :white_check_mark: Redirect 301 |
 
 
 ## 联系方式
