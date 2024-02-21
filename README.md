@@ -34,7 +34,7 @@
 | [原神科技大学.com](https://www.must.edu.mo/) | 澳门科技大学 | :white_check_mark:  |
 | [澳门原神大学.com](https://www.mpu.edu.mo/) | 澳门理工大学 | :white_check_mark:  |
 | [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :white_check_mark:  |
-| [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 | :question: SSLError |
+| [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 | :white_check_mark: Redirect 302 |
 | [北京原神大专.com](http://www.北京原神大专.com) | 北京理工大学 | :white_check_mark: Redirect 301 |
 | [北京原神第八中学.com](http://www.北京原神第八中学.com) | 北京市第八中学 | :x: NXDOMAIN |
 | [原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 | :x: NXDOMAIN |
@@ -141,7 +141,7 @@
 | [浙江原神职业技术学院.com](https://浙江原神职业技术学院.com) | 随机跳转至部分浙江省内高职院校官网 | :white_check_mark:  |
 | [苏州原神大学.cn](http://www.苏州原神大学.cn) | 苏州城市学院 | :white_check_mark: Redirect 301 |
 | [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: Connection error |
-| [世界原神中学.com](https://世界原神中学.com/) | 苏州中学 | :white_check_mark:  |
+| [世界原神中学.com](http://世界原神中学.com/) | 苏州中学 | :white_check_mark:  |
 | [原神理工大学.com](http://www.原神理工大学.com) | 太原理工大学 | :white_check_mark: Redirect 301 |
 | [西北原神大学.com](http://www.西北原神大学.com) | 塔里木大学 | :white_check_mark:  |
 | [nku.天津原神大学.icu](https://nku.天津原神大学.icu) | 天津大学 | :white_check_mark: Redirect 301 |

@@ -58,5 +58,5 @@ jobs:
       - name: Commit and push
         uses: actions4git/add-commit-push@v1
         with:
-          commit_message: Update status
+          commit-message: Update status
         continue-on-error: true
