@@ -26,6 +26,8 @@
 ## 高校名单（2024-02-21）
 | 网站 | 大学 | 状态 |
 | --- | --- | --- |
+| [加利福尼亚原神大学.com](https://ucsc.edu) | 加州大学圣克鲁兹分校 | :white_check_mark: Redirect 301 |
+| [美国原神大学.top](https://jhu.edu) | 约翰斯·霍普金斯大学 | :white_check_mark: Redirect 301 |
 | [universityofgenshin.com](https://universityofgenshin.com) | University of Melbourne | :white_check_mark: Redirect 301 |
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne | :x: NXDOMAIN |
 | [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 307 |
