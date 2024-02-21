@@ -130,7 +130,8 @@ def replace_table_row(m: re.Match, file=sys.stdout):
             method = ("", None)
         elif method[0] == "EDU Domain":
             return f"| [{m.group(1)}]({url}) | {m.group(3)} | :warning: {method[0]} |"
-        return "|".join(m.group(0).split("|")[:3]) + f"| :white_check_mark: {method[0]} |"
+        suggestion_removed = re.sub(r"\*.*?\*", "", m.group(3))
+        return f"| [{m.group(1)}]({url}) | {suggestion_removed} | :white_check_mark: {method[0]} |"
     else:
         successes[success].append((url, method))
         print_error("Failed, trying other possible URLs", file=file)
@@ -139,7 +140,8 @@ def replace_table_row(m: re.Match, file=sys.stdout):
             if success == 1:
                 if method1[0] == "Unknown":
                     method1 = ("", None)
-                return f"| [{m.group(1)}]({new_url}) | {m.group(3)} | :white_check_mark: {method1[0]} |"
+                suggestion_removed = re.sub(r"\*.*?\*", "", m.group(3))
+                return f"| [{m.group(1)}]({new_url}) | {suggestion_removed} | :white_check_mark: {method1[0]} |"
             successes[success].append((new_url, method1))
         if successes[2]:
             if sum(1 for i in successes[2] if i[1] == "NXDOMAIN") != len(successes[2]):
@@ -147,7 +149,7 @@ def replace_table_row(m: re.Match, file=sys.stdout):
                 while successes[2][i][1] == "NXDOMAIN":
                     i += 1
                 return f"| [{m.group(1)}]({successes[2][i][0]}) | {m.group(3)} | :question: {successes[2][i][1]} |"
-        return "|".join(m.group(0).split("|")[:3]) + f"| :x: {method} |"
+        return f"| [{m.group(1)}]({url}) | {m.group(3)} | :x: {method} |"
 
 
 # Try to remove or add https and www.
