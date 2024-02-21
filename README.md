@@ -34,7 +34,7 @@
 | [原神科技大学.com](https://www.must.edu.mo/) | 澳门科技大学 | :white_check_mark:  |
 | [澳门原神大学.com](https://www.mpu.edu.mo/) | 澳门理工大学 | :white_check_mark:  |
 | [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :white_check_mark:  |
-| [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 | :white_check_mark: Redirect 302 |
+| [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 | :question: SSLError |
 | [北京原神大专.com](http://www.北京原神大专.com) | 北京理工大学 | :white_check_mark: Redirect 301 |
 | [北京原神第八中学.com](http://www.北京原神第八中学.com) | 北京市第八中学 | :x: NXDOMAIN |
 | [原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 | :x: NXDOMAIN |
