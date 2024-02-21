@@ -128,6 +128,8 @@ def replace_table_row(m: re.Match, file=sys.stdout):
     if success == 1:
         if method[0] == "Unknown":
             method = ("", None)
+        elif method[0] == "EDU Domain":
+            return f"| [{m.group(1)}]({url}) | {m.group(3)} | :warning: {method[0]} |"
         return "|".join(m.group(0).split("|")[:3]) + f"| :white_check_mark: {method[0]} |"
     else:
         successes[success].append((url, method))
@@ -169,16 +171,22 @@ def get_other_possible_url(url):
     return sorted(new_urls, reverse=True)
 
 
+def get_domain(url):
+    if not re.match(r"https?://", url):
+        url = "http://" + url
+    return url.split("/")[2]
+
+
 def check_url(url, ignore_ssl=False, file=sys.stdout):
     global proxies, resolver
     print(f"Checking [{url}]...", end=" ", flush=True, file=file)
     method = ("", None)
-    if "edu" in url.split("/")[2] and os.environ.get("NO_SKIP_EDU") not in ("1", "true", "True"):
+    if "edu" in get_domain(url) and os.environ.get("NO_SKIP_EDU") not in ("1", "true", "True"):
         print_success("EDU domain, skipped", file=file)
-        return 1, method
+        return 1, ("EDU Domain", None)
     error = "Unknown error"
     try:
-        res = resolver.resolve(url.split("/")[2], "CNAME")
+        res = resolver.resolve(get_domain(url), "CNAME")
         print(f"CNAME to [{res[0].target.to_text()[:-1]}]", end=" ", flush=True, file=file)
         method = ("CNAME", res[0].target.to_text()[:-1])
     except dns.resolver.NoAnswer:
@@ -190,7 +198,7 @@ def check_url(url, ignore_ssl=False, file=sys.stdout):
         error = "DNS CNAME error"
     if not method[0]:
         try:
-            res = resolver.resolve(url.split("/")[2], "A")
+            res = resolver.resolve(get_domain(url), "A")
             print(f"A to [{res[0].address}]", end=" ", flush=True, file=file)
             method = ("Unknown", res[0].address)
         except dns.resolver.NoAnswer:
@@ -224,7 +232,7 @@ def check_url(url, ignore_ssl=False, file=sys.stdout):
                     print(f"Redirect to [{target}] with status code {r.status_code}", file=file)
                     print("-- Checking redirect...", end=" ", flush=True, file=file)
                     success, submethod = check_url(target, file=file)
-                    if method[0] == "CNAME":
+                    if method[0] == "CNAME" and (get_domain(url) in target or get_domain(target) in url):
                         method = (submethod[0], method[1])
                     if success != 1:
                         return 2, submethod
