@@ -5,8 +5,6 @@ on:
     paths:
       - 'README.md'
 
-if: ${{ github.repository == 'cokice/List-of-genshin-University' && github.ref == 'refs/heads/main' }}
-
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -17,6 +15,7 @@ jobs:
     - name: Push README to docusaurus-yuanshen repo
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }} # 设置一个secret
+      if: ${{ github.repository == 'cokice/List-of-genshin-University' && github.ref == 'refs/heads/main' }}
       run: |
         git config --global user.name 'howen'
         git config --global user.email 'howen.huang@qq.com'
