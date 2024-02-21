@@ -5,6 +5,8 @@ on:
     paths:
       - 'README.md'
 
+if: ${{ github.repository == 'cokice/List-of-genshin-University' && github.ref == 'refs/heads/main' }}
+
 jobs:
   sync:
     runs-on: ubuntu-latest
