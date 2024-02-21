@@ -196,20 +196,19 @@ def check_url(url, ignore_ssl=False, file=sys.stdout):
     except:
         print("DNS CNAME error", end=" ", flush=True, file=file)
         error = "DNS CNAME error"
-    if not method[0]:
-        try:
-            res = resolver.resolve(get_domain(url), "A")
-            print(f"A to [{res[0].address}]", end=" ", flush=True, file=file)
-            method = ("Unknown", res[0].address)
-        except dns.resolver.NoAnswer:
-            print("A NXDOMAIN", end=" ", flush=True, file=file)
-            error = "NXDOMAIN"
-        except dns.resolver.NXDOMAIN:
-            print("DNS A error", end=" ", flush=True, file=file)
-            error = "NXDOMAIN"
-        except:
-            print("DNS A error", end=" ", flush=True, file=file)
-            error = "DNS error"
+    try:
+        res = resolver.resolve(get_domain(url), "A")
+        print(f"A to [{res[0].address}]", end=" ", flush=True, file=file)
+        method = ("Unknown", res[0].address)
+    except dns.resolver.NoAnswer:
+        print("A NXDOMAIN", end=" ", flush=True, file=file)
+        error = "NXDOMAIN"
+    except dns.resolver.NXDOMAIN:
+        print("DNS A error", end=" ", flush=True, file=file)
+        error = "NXDOMAIN"
+    except:
+        print("DNS A error", end=" ", flush=True, file=file)
+        error = "DNS error"
     if method[0]:
         for idx, p in enumerate(proxies):
             try:

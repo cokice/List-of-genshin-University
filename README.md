@@ -32,9 +32,9 @@
 - :x: 服务器无法访问对应地址，并显示错误原因。此处为站长提供常见原因及解决方案：
   - `NXDOMAIN` 域名不可解析（请注册域名并设置完解析再来吧！）
   - `Connection error` 服务器不可访问。这种情况可能由于检测服务器导致，并不一定说明服务器无效。（可以尝试换一个服务器）
-  - （数字） HTTP状态码无效（请检查服务器设置）
+  - `（数字）` HTTP状态码无效（请检查服务器设置）
 
-由于网络波动，状态仅供参考。
+由于网络波动，状态仅供参考。如果使用了CloudFlare服务商作为中间代理，此处可能也会显示不可访问。
 
 | 网站 | 大学 | 状态 |
 | --- | --- | --- |
@@ -47,7 +47,7 @@
 | [澳门原神大学.com](https://www.mpu.edu.mo/) | 澳门理工大学 | :warning: EDU Domain |
 | [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :white_check_mark:  |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
-| [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 | :question: SSLError |
+| [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 *建议：升级到SSLv2* | :question: SSLError |
 | [北京原神大专.com](http://www.北京原神大专.com) | 北京理工大学 | :white_check_mark: Redirect 301 |
 | [北京原神第八中学.com](http://www.北京原神第八中学.com) | 北京市第八中学 | :x: NXDOMAIN |
 | [原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 | :x: NXDOMAIN |
