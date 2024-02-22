@@ -39,7 +39,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install dnspython requests
+          pip install dnspython requests pypinyin
 
       - name: Prepare Proxy
         run: |
