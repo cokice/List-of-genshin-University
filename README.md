@@ -182,6 +182,7 @@
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神学院.中国](http://原神学院.中国) | 宜宾学院 *请解析到自己的服务器跳转* | :question: 403 |
 | [英国皇家原神学院.com](http://www.xn--8mr31f22edj875iytdc4u1v0b.com/) | 英国皇家艺术学院 | :white_check_mark: Redirect 301 |
+| [云南原神大学.com](http://www.云南原神大学.com) | 云南财经大学 |
 | [中国科学技术大学.com](http://www.中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :white_check_mark: Redirect 301 |
 | [tjut.top](https://www.tjut.top) | 原神 | :white_check_mark: Redirect 302 |
