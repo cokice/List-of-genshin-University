@@ -1,6 +1,6 @@
 # 原神高校联盟
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有171个高校）（其中136个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有171个高校）（其中137个有效），提供一个校园集聚地。
 非高校也可添加哟~
 
 喜欢本项目的话可以在[GitHub](https://github.com/cokice/List-of-genshin-University)内点个star。
@@ -23,7 +23,7 @@
 
    **例: 哈佛大学 www.原神大学.com**
 
-## 高校名单（2024-02-21）
+## 高校名单（2024-02-22）
 
 状态说明：
 - :white_check_mark: 经服务器验证可成功访问、跳转，并显示跳转方式。
@@ -45,7 +45,7 @@
 | [澳门原神大学.cn](https://cityu.edu.mo/) | 澳门城市大学 | :warning: EDU Domain |
 | [原神科技大学.com](https://www.must.edu.mo/) | 澳门科技大学 | :warning: EDU Domain |
 | [澳门原神大学.com](https://www.mpu.edu.mo/) | 澳门理工大学 | :warning: EDU Domain |
-| [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :x: 404 |
+| [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :white_check_mark:  |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
 | [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 *建议：升级到SSLv2* | :question: SSLError |
 | [北京原神大专.com](http://www.北京原神大专.com) | 北京理工大学 | :white_check_mark: Redirect 301 |
@@ -83,7 +83,7 @@
 | [哈尔滨原神大学.com](https://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: CNAME |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark:  |
-| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
+| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
 | [原神职业大学.com](https://www.原神职业大学.com) | 海南科技职业大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :white_check_mark:  |
 | [河北原神大学.com](http://www.河北原神大学.com) | 河北农业大学 | :white_check_mark: Redirect 301 |
@@ -99,7 +99,7 @@
 | [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :white_check_mark: Redirect 301 |
 | [湖北原神大学.xyz](http://www.湖北原神大学.xyz) | 湖北大学 | :x: Connection error |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :white_check_mark: Redirect 301 |
-| [原神带专.com](http://www.原神带专.com) | 湖北水利水电职业技术学院 | :x: 404 |
+| [原神带专.com](http://原神带专.com) | 湖北水利水电职业技术学院 | :white_check_mark: Redirect 301 |
 | [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :white_check_mark: Meta Refresh |
 | [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :white_check_mark: Redirect 301 |
 | [江苏原神大学.com](http://www.江苏原神大学.com) | 江苏大学 | :white_check_mark: Redirect 301 |
@@ -136,7 +136,7 @@
 | [青岛原神大学.com](http://青岛原神大学.com) | 青岛科技大学 | :white_check_mark: Redirect 301 |
 | [原神启动中学.cn](http://原神启动中学.cn) | 人大附中ICC | :white_check_mark: Redirect 301 |
 | [国立原神大学.com](http://国立原神大学.com) | 山东大学 | :white_check_mark: Redirect 301 |
-| [提瓦特大学.com](http://www.提瓦特大学.com) | 山东大学 | :white_check_mark: Redirect 301 |
+| [提瓦特大学.com](http://www.提瓦特大学.com) | 山东大学 | :x: 404 |
 | [原神医科大学.top](http://原神医科大学.top) | 山东第一医科大学 | :white_check_mark: Redirect 301 |
 | [原神电力大学.com](http://www.原神电力大学.com) | 上海电力大学 | :x: Connection error |
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :white_check_mark: Redirect 302 |
