@@ -2,6 +2,7 @@ import concurrent.futures
 import datetime
 import dns.resolver
 import functools
+import idna
 import io
 import os
 import pypinyin
@@ -126,6 +127,9 @@ def replace_table_row(m: re.Match, file=sys.stdout):
     url = m.group(2)
     if not re.match(r"https?://", url):
         url = "http://" + url
+    url_split = "/".split(url)
+    url_split[2] = idna.decode(url_split[2])
+    url = "/".join(url_split)
     successes = {0: [], 1: [], 2: []}
     success, method = check_url(url, file=file)
     if success == 1:
