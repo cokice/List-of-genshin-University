@@ -4,6 +4,9 @@ import dns.resolver
 import functools
 import io
 import os
+import pypinyin
+import pypinyin.contrib.tone_convert
+import pypinyin.style
 import re
 import requests
 import sys
@@ -280,8 +283,55 @@ def check_url(url, ignore_ssl=False, file=sys.stdout):
     return 0, error
 
 
+@pypinyin.style.register("tone_with_original")
+def tone_with_original(pinyin, han, **kwargs):
+    return [pypinyin.contrib.tone_convert.to_tone3(pinyin), han]
+
+
+def handle_no_pinyin(s):
+    if sum(1 for i in s if 65 <= ord(i) <= 90 or 97 <= ord(i) <= 122) == 0:
+        return [[[i]] for i in s]
+    return [[["", i]] for i in s]
+
+
+def reshape_pinyin(l):
+    o = []
+    first = []
+    second = []
+    for i in l:
+        if len(i[0]) == 1 or i[0][0] == "":
+            if first:
+                o.append(first)
+                o.append(second)
+                first = []
+                second = []
+            o.append(i[0])
+        else:
+            first.append(i[0][0])
+            second.append(i[0][1])
+    if first:
+        o.append(first)
+        o.append(second)
+    return o
+
+
+def sort_key(s):
+    m = re.match(r"\| *\[(.*?)\]\((?P<link>.*?)\) *\| *(?P<name>.*?) *\|.*", s)
+    return [
+        reshape_pinyin(pypinyin.pinyin(m["name"], style="tone_with_original", errors=handle_no_pinyin)),
+        reshape_pinyin(pypinyin.pinyin(m["link"], style="tone_with_original", errors=handle_no_pinyin)),
+    ]
+
+
 if not "COUNT_ONLY" in os.environ or os.environ["COUNT_ONLY"] not in ("1", "true", "True"):
     md_out = resub_concurrent(r"\| *\[(.*?)\]\((.*?)\) *\| *(.*?) *\|.*", replace_table_row, md_content)
+    print("Sorting...")
+    m = re.match(
+        r"(?P<header>.*?)(?P<table>(\| *\[[^\n]*?\]\([^\n]*?\) *\|[^\n]*?\|[^\n]*?\|\n?)+)(?P<footer>.*)",
+        md_out,
+        re.DOTALL,
+    )
+    md_out = m["header"] + "".join(sorted(m["table"].splitlines(True), key=sort_key)) + m["footer"]
 else:
     md_out = md_content
 md_out = re.sub(r"目前有\d+", "目前有%d" % len(re.findall(r"\| *\[(.*?)\]\((.*?)\) *\| *(.*?) *\|.*", md_out)), md_out)
@@ -293,3 +343,12 @@ md_out = re.sub(
 md_out = re.sub(r"\d{4}-\d{2}-\d{2}", datetime.date.today().isoformat(), md_out)
 with open("README.md", "wt", encoding="utf-8") as f:
     f.write(md_out)
+
+# Detect GitHub Actions
+if "GITHUB_ACTIONS" in os.environ and os.environ["GITHUB_ACTIONS"] == "true":
+    print("::group::Output Markdown")
+    print(md_out)
+    print("::endgroup::")
+else:
+    print("-" * 20, "Output Markdown")
+    print(md_out)
