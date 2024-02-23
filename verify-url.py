@@ -279,7 +279,7 @@ def check_url(url, ignore_ssl=False, file=sys.stdout):
                 print_error("SSLError, retrying without SSL...", end=" ", flush=True, file=file)
                 return check_url(url, True, file=file)
             except requests.exceptions.RequestException as e:
-                print_error(f"Failed with exception {e}", file=file)
+                print_error(f"Failed with exception {e.__class__.__name__}", file=file)
                 error = "Connection error"
     else:
         print_error(file=file)
@@ -344,7 +344,12 @@ md_out = re.sub(
     "其中%d个有效" % len(re.findall(r"\| *\[(.*?)\]\((.*?)\) *\| *(.*?) *\|.*(:white_check_mark:|:question:)", md_out)),
     md_out,
 )
-md_out = re.sub(r"\d{4}-\d{2}-\d{2}", datetime.date.today().isoformat(), md_out)
+md_out = re.sub(
+    r"\d{4}-\d{2}-\d{2}.*?(?=）)",
+    lambda _: datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M UTC+8"),
+    md_out,
+    count=1,
+)
 with open("README.md", "wt", encoding="utf-8") as f:
     f.write(md_out)
 
