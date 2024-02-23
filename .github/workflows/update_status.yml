@@ -15,7 +15,7 @@ on:
         type: 'boolean'
         default: false
   schedule:
-    - cron: '30 11,23 * * *'
+    - cron: '30 3/4 * * *'
   push:
     branches:
       - main
@@ -34,6 +34,7 @@ concurrency:
 
 jobs:
   update_status:
+    name: Update Status
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -68,3 +69,9 @@ jobs:
         with:
           commit-message: Update status
         continue-on-error: true
+
+  push_to_website:
+    name: Push to website
+    uses: ./.github/workflows/main.yml
+    needs: update_status
+    if: ${{ github.repository == 'cokice/List-of-genshin-University' }}
