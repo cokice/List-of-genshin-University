@@ -1,9 +1,6 @@
 name: Sync README to docusaurus-yuanshen Repo
 
 on:
-  push:
-    paths:
-      - 'README.md'
   workflow_call:
     secrets:
       API_TOKEN_GITHUB:
@@ -33,5 +30,5 @@ jobs:
         git pull origin main # 拉取最新的更改
         cp ../README.md docs/README.md # Copy the updated README
         git add docs/README.md
-        git commit -m "Update README from List-of-genshin-University"
+        git commit --allow-empty -m "Update README from List-of-genshin-University"
         git push origin main
