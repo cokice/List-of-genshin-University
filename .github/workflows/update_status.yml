@@ -1,4 +1,6 @@
 name: Update Status
+run-name: Update Status
+
 on:
   workflow_dispatch: 
     inputs:
@@ -13,7 +15,7 @@ on:
         type: 'boolean'
         default: false
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '30 11,23 * * *'
   push:
     branches:
       - main
@@ -22,8 +24,14 @@ on:
       - 'README.md'
       - '.github/workflows/update_status.yml'
       - 'verify-url.py'
-permissions: 
+
+permissions:
   contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
 jobs:
   update_status:
     runs-on: ubuntu-latest
