@@ -4,13 +4,18 @@ on:
   push:
     paths:
       - 'README.md'
+  workflow_call:
+    secrets:
+      API_TOKEN_GITHUB:
+        required: true
+  workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout source repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Push README to docusaurus-yuanshen repo
       env:
@@ -22,11 +27,11 @@ jobs:
 
         # Clone the destination repo
         git clone https://x-access-token:$API_TOKEN_GITHUB@github.com/cokice/docusaurus-yuanshen.git
-        cp README.md docusaurus-yuanshen/docs/README.md # Copy the updated README
 
         cd docusaurus-yuanshen
         git checkout main # 切换到main分支
         git pull origin main # 拉取最新的更改
+        cp ../README.md docs/README.md # Copy the updated README
         git add docs/README.md
         git commit -m "Update README from List-of-genshin-University"
         git push origin main

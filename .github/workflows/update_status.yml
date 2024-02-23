@@ -15,7 +15,7 @@ on:
         type: 'boolean'
         default: false
   schedule:
-    - cron: '30 11,23 * * *'
+    - cron: '30 3/4 * * *'
   push:
     branches:
       - main
@@ -34,6 +34,7 @@ concurrency:
 
 jobs:
   update_status:
+    name: Update Status
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -56,8 +57,8 @@ jobs:
       - name: Update status
         run: python3 verify-url.py
         env:
-          NO_SKIP_EDU: ${{ github.event.inputs.no_skip_edu && '1' || '0' }}
-          COUNT_ONLY: ${{ github.event.inputs.count_only && '1' || '0' }}
+          NO_SKIP_EDU: ${{ github.event.inputs.no_skip_edu == true && '1' || '0' }}
+          COUNT_ONLY: ${{ github.event.inputs.count_only == true && '1' || '0' }}
 
       - name: Revert Proxy
         run: |
@@ -68,3 +69,11 @@ jobs:
         with:
           commit-message: Update status
         continue-on-error: true
+
+  push_to_website:
+    name: Push to website
+    uses: ./.github/workflows/main.yml
+    needs: update_status
+    if: ${{ github.repository == 'cokice/List-of-genshin-University' }}
+    secrets:
+      API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
