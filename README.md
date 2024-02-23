@@ -5,7 +5,7 @@
 
 喜欢本项目的话可以在[GitHub](https://github.com/cokice/List-of-genshin-University)内点个star。
 **该名单由学校名称字母顺序排列**
-
+1
 ## 如何提交
 :::caution
 **一定要在云厂商购买域名后配置相应的解析和跳转才能挂到此站点，且要经过测试能在浏览器正常访问该域名，否则无法上架到此站点**
