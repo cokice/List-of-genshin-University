@@ -10,6 +10,7 @@ import pypinyin.contrib.tone_convert
 import pypinyin.style
 import re
 import requests
+import subprocess
 import sys
 import threading
 import traceback
@@ -32,7 +33,7 @@ def stack_func_stdout(func):
     return wrapper
 
 
-def resub_concurrent(pattern, repl, string, count=0, flags=0, thread_count=8):
+def resub_concurrent(pattern, repl, string, count=0, flags=0, thread_count=16):
     assert callable(repl)
     pool = concurrent.futures.ThreadPoolExecutor(thread_count)
     futures = []
@@ -327,6 +328,33 @@ def sort_key(s):
     ]
 
 
+# Detect new merged PR
+new = []
+remove_pending = []
+co_authors = set()
+for i in os.listdir("new"):
+    if not i.endswith(".add.md"):
+        continue
+    with open(os.path.join("new", i), "rt", encoding="utf-8") as f:
+        add_content = f.read()
+    while m := re.search(r"\| *\[(.*?)\]\((.*?)\) *\| *(.*?) *\|.*", add_content):
+        new.append(replace_table_row(m))
+        add_content = add_content[m.end() :]
+    l = subprocess.check_output(["git", "log", os.path.join("new", i)]).decode()
+    co_authors.update(
+        [
+            i
+            for i in (
+                re.findall(r"(?<=Author: ).*? <.*?>", l)
+                + re.findall(r"(?<=Co-authored-by: ).*? <.*?>", l)
+                + re.findall(r"(?<=Signed-off-by: ).*? <.*?>", l)
+            )
+            if not "[bot]" in i
+        ]
+    )
+    remove_pending.append(os.path.join("new", i))
+
+
 if not "COUNT_ONLY" in os.environ or os.environ["COUNT_ONLY"] not in ("1", "true", "True"):
     md_out = resub_concurrent(r"\| *\[(.*?)\]\((.*?)\) *\| *(.*?) *\|.*", replace_table_row, md_content)
     print("Sorting...")
@@ -335,7 +363,8 @@ if not "COUNT_ONLY" in os.environ or os.environ["COUNT_ONLY"] not in ("1", "true
         md_out,
         re.DOTALL,
     )
-    md_out = m["header"] + "".join(sorted(m["table"].splitlines(True), key=sort_key)) + m["footer"]
+    table = m["table"].splitlines(False) + new
+    md_out = m["header"] + "\n".join(sorted(set(table), key=sort_key)) + "\n" + m["footer"]
 else:
     md_out = md_content
 md_out = re.sub(r"目前有\d+", "目前有%d" % len(re.findall(r"\| *\[(.*?)\]\((.*?)\) *\| *(.*?) *\|.*", md_out)), md_out)
@@ -344,12 +373,8 @@ md_out = re.sub(
     "其中%d个有效" % len(re.findall(r"\| *\[(.*?)\]\((.*?)\) *\| *(.*?) *\|.*(:white_check_mark:|:question:)", md_out)),
     md_out,
 )
-md_out = re.sub(
-    r"\d{4}-\d{2}-\d{2}.*?(?=）)",
-    lambda _: datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M UTC+8"),
-    md_out,
-    count=1,
-)
+now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M UTC+8")
+md_out = re.sub(r"\d{4}-\d{2}-\d{2}.*?(?=）)", now, md_out, count=1)
 with open("README.md", "wt", encoding="utf-8") as f:
     f.write(md_out)
 
@@ -361,3 +386,18 @@ if "GITHUB_ACTIONS" in os.environ and os.environ["GITHUB_ACTIONS"] == "true":
 else:
     print("-" * 20, "Output Markdown")
     print(md_out)
+
+# Generate commit message
+commit_message = f"Update Status ({now})\n\n\n"
+for i in co_authors:
+    commit_message += f"Co-authored-by: {i}\n"
+delimiter = "EOF"
+while delimiter in commit_message:
+    delimiter += "EOF"
+os.system(f'echo "commit_message<<{delimiter}" >> "$GITHUB_OUTPUT"')
+for i in commit_message.splitlines(False):
+    os.system(f'echo "{i}" >> "$GITHUB_OUTPUT"')
+os.system(f'echo "{delimiter}" >> "$GITHUB_OUTPUT"')
+
+for i in remove_pending:
+    os.remove(i)

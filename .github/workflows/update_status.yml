@@ -19,11 +19,11 @@ on:
   push:
     branches:
       - main
-      - master
     paths: 
       - 'README.md'
       - '.github/workflows/update_status.yml'
       - 'verify-url.py'
+      - 'new'
 
 permissions:
   contents: write
@@ -36,6 +36,7 @@ jobs:
   update_status:
     name: Update Status
     runs-on: ubuntu-latest
+    if: ${{ github.repository == 'cokice/List-of-genshin-University' }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -56,6 +57,7 @@ jobs:
 
       - name: Update status
         run: python3 verify-url.py
+        id: update_status
         env:
           NO_SKIP_EDU: ${{ github.event.inputs.no_skip_edu == true && '1' || '0' }}
           COUNT_ONLY: ${{ github.event.inputs.count_only == true && '1' || '0' }}
@@ -67,7 +69,7 @@ jobs:
       - name: Commit and push
         uses: actions4git/add-commit-push@v1
         with:
-          commit-message: Update status
+          commit-message: ${{ steps.update_status.outputs.commit_message }}
         continue-on-error: true
 
   push_to_website:
