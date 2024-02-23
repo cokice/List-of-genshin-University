@@ -1,6 +1,6 @@
 # 原神高校联盟
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有176个高校）（其中141个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有176个高校）（其中140个有效），提供一个校园集聚地。
 非高校也可添加哟~
 
 喜欢本项目的话可以在[GitHub](https://github.com/cokice/List-of-genshin-University)内点个star。
@@ -23,7 +23,7 @@
 
    **例: 哈佛大学 www.原神大学.com**
 
-## 高校名单（2024-02-23 20:27 UTC+8）
+## 高校名单（2024-02-23 21:50 UTC+8）
 
 状态说明：
 - :white_check_mark: 经服务器验证可成功访问、跳转，并显示跳转方式。
@@ -45,7 +45,7 @@
 | [澳门原神大学.cn](https://cityu.edu.mo/) | 澳门城市大学 | :warning: EDU Domain |
 | [原神科技大学.com](https://www.must.edu.mo/) | 澳门科技大学 | :warning: EDU Domain |
 | [澳门原神大学.com](https://www.mpu.edu.mo/) | 澳门理工大学 | :warning: EDU Domain |
-| [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :white_check_mark:  |
+| [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :x: 404 |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
 | [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 *建议：升级到SSLv2* | :question: SSLError |
 | [北京原神大专.com](http://www.北京原神大专.com) | 北京理工大学 | :white_check_mark: Redirect 301 |
