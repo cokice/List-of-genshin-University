@@ -5,7 +5,7 @@
 
 喜欢本项目的话可以在[GitHub](https://github.com/cokice/List-of-genshin-University)内点个star。
 **该名单由学校名称字母顺序排列**
-1
+
 ## 如何提交
 :::caution
 **一定要在云厂商购买域名后配置相应的解析和跳转才能挂到此站点，且要经过测试能在浏览器正常访问该域名，否则无法上架到此站点**
@@ -15,7 +15,7 @@
 3. **克隆仓库**: 克隆你刚刚fork的仓库到你的本地计算机上。
 4. **创建新的分支**: 基于你要做的修改创建一个新的分支。
 5. **进行修改**: 在你的分支上进行修改，并提交你的改动。
-6. **发起 Pull Request**: 在GitHub上发起一个Pull Request，请求将你的修改合并进原仓库。在发起Pull Request之前，请确保你的修改是准确无误的，并且已经过了测试。
+6. **发起 Pull Request**: 在GitHub上发起一个Pull Request请求，将你的修改合并进原仓库。在发起Pull Request之前，请确保你的修改是准确无误的，并且已经过了测试。
 7. **不会github操作的小伙伴直接填写问卷提交信息[原神高校信息收集](https://wj.qq.com/s2/14161038/95a1/)要确保你已经注册了域名并实现跳转**
 8. **其他问题：邮箱howen.huang@qq.com**
 
@@ -213,6 +213,7 @@
 | [原神林业科技大学.com](http://www.原神林业科技大学.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [原神螺蛳粉职业技术学院.com](http://www.原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [原神启动.com](http://www.原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
+| [武汉原神大学.org](http://www.武汉原神大学.org) | 武汉科技大学 |  |
 
 
 ## 联系方式
