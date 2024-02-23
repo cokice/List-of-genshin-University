@@ -23,7 +23,7 @@
 
    **例: 哈佛大学 www.原神大学.com**
 
-## 高校名单（2024-02-23 20:23 UTC+8）
+## 高校名单（2024-02-23 20:27 UTC+8）
 
 状态说明：
 - :white_check_mark: 经服务器验证可成功访问、跳转，并显示跳转方式。
@@ -83,7 +83,7 @@
 | [哈尔滨原神大学.com](https://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: CNAME |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark:  |
-| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
+| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
 | [原神职业大学.com](https://原神职业大学.com) | 海南科技职业大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :white_check_mark:  |
 | [河北原神大学.com](http://www.河北原神大学.com) | 河北农业大学 | :white_check_mark: Redirect 301 |
