@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有178个高校）（其中142个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有178个高校）（其中141个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-02-27 20:28 UTC+8）
+## 高校名单（2024-02-27 23:38 UTC+8）
 
 
 状态说明：
@@ -49,7 +49,7 @@
 | [澳门原神大学.cn](https://cityu.edu.mo/) | 澳门城市大学 | :warning: EDU Domain |
 | [原神科技大学.com](https://www.must.edu.mo/) | 澳门科技大学 | :warning: EDU Domain |
 | [澳门原神大学.com](https://www.mpu.edu.mo/) | 澳门理工大学 | :warning: EDU Domain |
-| [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :white_check_mark:  |
+| [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :x: 404 |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
 | [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 *建议：升级到SSLv2* | :question: SSLError |
 | [北京原神大专.com](http://www.北京原神大专.com) | 北京理工大学 | :white_check_mark: Redirect 301 |
@@ -92,7 +92,7 @@
 | [原神职业大学.com](https://原神职业大学.com) | 海南科技职业大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :white_check_mark:  |
 | [河北原神大学.com](http://www.河北原神大学.com) | 河北农业大学 | :white_check_mark: Redirect 301 |
-| [河北原神大专.com](http://www.河北原神大专.com) | 河北师范大学 | :x: Connection error |
+| [河北原神大专.com](http://www.河北原神大专.com) | 河北师范大学 | :white_check_mark: Redirect 302 |
 | [中国原神中学.com](https://中国原神中学.com) | 合肥八中 | :question: 403 |
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: Connection error |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
@@ -132,7 +132,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
 | [南京星穹铁道职业技术学院.xyz](https://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
-| [原神师范学院.top](http://www.原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
+| [原神师范学院.top](http://www.原神师范学院.top) | 南京晓庄学院 | :x: Connection error |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: Connection error |
 | [原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 302 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :white_check_mark:  |
