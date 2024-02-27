@@ -23,7 +23,7 @@ on:
       - 'README.md'
       - '.github/workflows/update_status.yml'
       - 'verify-url.py'
-      - 'new'
+      - 'new/**'
 
 permissions:
   contents: write
