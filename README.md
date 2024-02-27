@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有177个高校）（其中142个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有178个高校）（其中142个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-02-27 19:39 UTC+8）
+## 高校名单（2024-02-27 20:28 UTC+8）
 
 
 状态说明：
@@ -92,7 +92,7 @@
 | [原神职业大学.com](https://原神职业大学.com) | 海南科技职业大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :white_check_mark:  |
 | [河北原神大学.com](http://www.河北原神大学.com) | 河北农业大学 | :white_check_mark: Redirect 301 |
-| [河北原神大专.com](http://www.河北原神大专.com) | 河北师范大学 | :white_check_mark: Redirect 302 |
+| [河北原神大专.com](http://www.河北原神大专.com) | 河北师范大学 | :x: Connection error |
 | [中国原神中学.com](https://中国原神中学.com) | 合肥八中 | :question: 403 |
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: Connection error |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
@@ -197,6 +197,7 @@
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :white_check_mark: Redirect 301 |
 | [东方原神大学.com](http://www.东方原神大学.com) | 浙江大学 | :white_check_mark: Meta Refresh |
 | [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :white_check_mark:  |
+| [不玩原神导致的.com](https://www.不玩原神导致的.com/) | 浙江工商大学 | :white_check_mark: Redirect 301 |
 | [提瓦特科技大学.com](http://www.提瓦特科技大学.com) | 浙江科技学院 | :white_check_mark: Redirect 301 |
 | [浙江原批大学.com](http://www.浙江原批大学.com) | 浙江理工大学 | :white_check_mark: Redirect 302 |
 | [浙江原神大学.cn](http://www.浙江原神大学.cn) | 浙江理工大学 | :white_check_mark: Redirect 302 |
