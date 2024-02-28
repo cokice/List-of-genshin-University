@@ -391,6 +391,7 @@ else:
 commit_message = f"Update Status ({now})\n\n\n"
 for i in co_authors:
     commit_message += f"Co-authored-by: {i}\n"
+print("Commit message:", commit_message)
 delimiter = "EOF"
 while delimiter in commit_message:
     delimiter += "EOF"
