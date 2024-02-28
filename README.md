@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-02-28 23:38 UTC+8）
+## 高校名单（2024-02-29 03:38 UTC+8）
 
 
 状态说明：
@@ -147,7 +147,7 @@
 | [国立原神大学.com](http://国立原神大学.com) | 山东大学 | :white_check_mark: Redirect 301 |
 | [原神医科大学.top](http://原神医科大学.top) | 山东第一医科大学 | :white_check_mark: Redirect 301 |
 | [原神启动.store](https://www.原神启动.store) | 汕头大学 | :white_check_mark: Meta Refresh |
-| [汕头原神学院.com](http://www.汕头原神学院.com) | 汕头职业技术学院 | :white_check_mark:  |
+| [汕头原神学院.com](http://www.汕头原神学院.com) | 汕头职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神电力大学.com](http://www.原神电力大学.com) | 上海电力大学 | :white_check_mark: Redirect 301 |
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :white_check_mark: Redirect 302 |
 | [上海op大学.com](http://www.上海op大学.com) | 上海海洋大学 | :white_check_mark: Redirect 301 |
