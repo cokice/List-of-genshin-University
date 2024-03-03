@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有179个高校）（其中143个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有179个高校）（其中144个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-03-03 15:38 UTC+8）
+## 高校名单（2024-03-03 19:38 UTC+8）
 
 
 状态说明：
@@ -84,7 +84,7 @@
 | [广州原神大学.icu](https://广州原神大学.icu) | 广州南洋理工职业学院 | :white_check_mark: Redirect 301 |
 | [原神启动.space](https://www.原神启动.space) | 广州商学院 | :white_check_mark: Redirect 301 |
 | [原神理工大学.icu](http://www.原神理工大学.icu) | 桂林理工大学南宁分校 | :white_check_mark:  |
-| [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :x: 404 |
+| [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :white_check_mark: Redirect 301 |
 | [哈尔滨原神大学.com](https://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: CNAME |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark:  |
@@ -170,7 +170,7 @@
 | [天津原神大学.top](https://天津原神大学.top) | 天津理工大学 | :white_check_mark: Redirect 302 |
 | [原神商学院.top](http://www.原神商学院.top) | 天津商业大学 | :x: NXDOMAIN |
 | [原神师范大学.online](http://www.原神师范大学.online) | 天津师范大学 | :x: 403 |
-| [玩原神考上的.cn](http://www.玩原神考上的.cn) | 天津医科大学临床医学院 | :white_check_mark: Redirect 301 |
+| [玩原神考上的.cn](http://www.玩原神考上的.cn) | 天津医科大学临床医学院 | :white_check_mark:  |
 | [威海原神大学.cn](http://www.威海原神大学.cn) | 威海海洋职业学院 | :white_check_mark: Redirect 302 |
 | [无锡原神职业技术学院.xyz](https://无锡原神职业技术学院.xyz) | 无锡商业职业技术学院 | :white_check_mark: Redirect 302 |
 | [武汉原神大学.site](http://武汉原神大学.site) | 武汉工程大学 | :white_check_mark: Redirect 301 |
