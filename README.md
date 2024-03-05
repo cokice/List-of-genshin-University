@@ -221,6 +221,8 @@
 | [原神林业科技大学.com](http://www.原神林业科技大学.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [原神螺蛳粉职业技术学院.com](http://www.原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [原神启动.com](http://www.原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
+| [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 |  |
+
 
 
 ## 联系方式
