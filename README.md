@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-03-06 23:39 UTC+8）
+## 高校名单（2024-03-07 03:38 UTC+8）
 
 
 状态说明：
@@ -54,7 +54,7 @@
 | [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 *建议：升级到SSLv2* | :question: SSLError |
 | [北京原神大专.com](http://www.北京原神大专.com) | 北京理工大学 | :white_check_mark: Redirect 301 |
 | [原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 | :x: NXDOMAIN |
-| [提瓦特高等师范学院.com/](http://提瓦特高等师范学院.com/) | 北京师范大学 | :x: Connection error |
+| [提瓦特高等师范学院.com/](http://提瓦特高等师范学院.com/) | 北京师范大学 | :question: 403 |
 | [北京原神第八中学.com](http://www.北京原神第八中学.com) | 北京市第八中学 | :x: NXDOMAIN |
 | [中关村原神中学.com](http://www.中关村原神中学.com) | 北京市中关村中学 | :white_check_mark: Redirect 301 |
 | [中国原神学院.com](http://www.中国原神学院.com) | 北京信息科技大学 | :white_check_mark:  |
@@ -88,7 +88,7 @@
 | [哈尔滨原神大学.com](https://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: CNAME |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark:  |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
 | [原神职业大学.com](https://原神职业大学.com) | 海南科技职业大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :white_check_mark:  |
 | [河北原神大学.com](http://www.河北原神大学.com) | 河北农业大学 | :white_check_mark: Redirect 301 |
@@ -99,7 +99,7 @@
 | [原神农业大学.com](http://www.原神农业大学.com) | 河南农业大学 | :x: NXDOMAIN |
 | [湖北原神大学.xyz](http://www.湖北原神大学.xyz) | 湖北大学 | :x: Connection error |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :white_check_mark: Redirect 301 |
-| [原神带专.com](http://原神带专.com) | 湖北水利水电职业技术学院 | :white_check_mark: Redirect 301 |
+| [原神带专.com](http://原神带专.com) | 湖北水利水电职业技术学院 | :x: Connection error |
 | [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :x: 503 |
 | [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :white_check_mark: Redirect 301 |
 | [华东原神大学.online](http://华东原神大学.online) | 华东师范大学 | :white_check_mark: Redirect 301 |
