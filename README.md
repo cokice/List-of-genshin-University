@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-03-06 11:38 UTC+8）
+## 高校名单（2024-03-06 15:38 UTC+8）
 
 
 状态说明：
@@ -77,7 +77,7 @@
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :white_check_mark: Redirect 301 |
 | [广轻原神大学.com](http://www.广轻原神大学.com) | 广东轻工职业技术学院 | :x: NXDOMAIN |
 | [原神.org](http://www.原神.org) | 广东药科大学 | :question: 403 |
-| [广西原神大学.cn](http://www.广西原神大学.cn) | 广西安全工程职业技术学院 | :white_check_mark: Redirect 301 |
+| [广西原神大学.cn](http://www.广西原神大学.cn) | 广西安全工程职业技术学院 | :white_check_mark:  |
 | [世界原神大学.com](http://www.世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
 | [米哈游师范大学.com](https://www.米哈游师范大学.com) | 广西师范大学 | :white_check_mark: Redirect 301 |
 | [原神医科大学.com](http://www.原神医科大学.com) | 广西医科大学 | :white_check_mark: Redirect 301 |
