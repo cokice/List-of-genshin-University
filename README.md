@@ -46,9 +46,9 @@
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne | :x: NXDOMAIN |
 | [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 307 |
 | [ugensh.in](https://ugensh.in) | University of Sydney | :x: Connection error |
-| [澳门原神大学.cn](https://cityu.edu.mo/) | 澳门城市大学 | :warning: EDU Domain |
-| [原神科技大学.com](https://www.must.edu.mo/) | 澳门科技大学 | :warning: EDU Domain |
-| [澳门原神大学.com](https://www.mpu.edu.mo/) | 澳门理工大学 | :warning: EDU Domain |
+| [澳门原神大学.cn](澳门原神大学.cn) | 澳门城市大学 | :warning: EDU Domain |
+| [原神科技大学.com](原神科技大学.com) | 澳门科技大学 | :warning: EDU Domain |
+| [澳门原神大学.com](澳门原神大学.com) | 澳门理工大学 | :warning: EDU Domain |
 | [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :x: 404 |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
 | [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 *建议：升级到SSLv2* | :question: SSLError |
@@ -110,7 +110,7 @@
 | [东北原神大学.com](http://www.东北原神大学.com) | 吉林大学 | :white_check_mark: Redirect 301 |
 | [广东原神公益大学.com](http://www.广东原神公益大学.com) | 暨南大学 | :white_check_mark: Redirect 301 |
 | [加州原神工业大学.club](https://加州原神工业大学.club) | 加州大学伯克利分校 | :white_check_mark: Redirect 301 |
-| [加利福尼亚原神大学.com](https://ucsc.edu) | 加州大学圣克鲁兹分校 | :warning: EDU Domain |
+| [加利福尼亚原神大学.com](加利福尼亚原神大学.com) | 加州大学圣克鲁兹分校 | :warning: EDU Domain |
 | [加州原神大学.com](http://加州原神大学.com) | 加州大学圣塔芭芭拉分校 | :white_check_mark: Redirect 301 |
 | [江苏原神大学.com](http://www.江苏原神大学.com) | 江苏大学 | :white_check_mark: Redirect 301 |
 | [江西原神大学.com](http://www.江西原神大学.com) | 江西财经大学 | :x: Connection error |
@@ -183,7 +183,7 @@
 | [长安原神大学.com](https://www.长安原神大学.com) | 西安科技大学 | :white_check_mark: Redirect 302 |
 | [原神涉外办事处.com](http://www.原神涉外办事处.com) | 西安外事学院 | :x: NXDOMAIN |
 | [原神工业大学.icu](https://www.原神工业大学.icu) | 西北工业大学 | :white_check_mark: Redirect 301 |
-| [中国原神大学.org](https://www.swust.edu.cn/) | 西南科技大学 | :warning: EDU Domain |
+| [中国原神大学.org](中国原神大学.org) | 西南科技大学 | :warning: EDU Domain |
 | [厦门原神大学.com](http://www.厦门原神大学.com) | 厦门大学 | :question: 502 |
 | [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :white_check_mark: Redirect 301 |
 | [璃月师范大学.com](http://www.璃月师范大学.com/) | 许昌学院 | :x: NXDOMAIN |
@@ -194,7 +194,7 @@
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
 | [tjut.top](https://www.tjut.top) | 原神 | :white_check_mark: Redirect 302 |
-| [美国原神大学.top](https://jhu.edu) | 约翰斯·霍普金斯大学 | :warning: EDU Domain |
+| [美国原神大学.top](美国原神大学.top) | 约翰斯·霍普金斯大学 | :warning: EDU Domain |
 | [云南原神大学.com](http://www.云南原神大学.com) | 云南财经大学 | :white_check_mark: Redirect 302 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :white_check_mark: Redirect 301 |
 | [东方原神大学.com](http://www.东方原神大学.com) | 浙江大学 | :white_check_mark: Meta Refresh |
