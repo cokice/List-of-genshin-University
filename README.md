@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-03-13 11:38 UTC+8）
+## 高校名单（2024-03-13 15:39 UTC+8）
 
 
 状态说明：
@@ -76,7 +76,7 @@
 | [广州原神大学.com](http://www.广州原神大学.com) | 广东技术师范大学 | :white_check_mark: Redirect 301 |
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :white_check_mark: Redirect 301 |
 | [广轻原神大学.com](http://www.广轻原神大学.com) | 广东轻工职业技术学院 | :x: NXDOMAIN |
-| [原神.org](http://www.原神.org) | 广东药科大学 | :white_check_mark: Redirect 301 |
+| [原神.org](http://www.原神.org) | 广东药科大学 | :question: 403 |
 | [广西原神大学.cn](http://www.广西原神大学.cn) | 广西安全工程职业技术学院 | :white_check_mark: CNAME |
 | [世界原神大学.com](http://www.世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
 | [广西原神职业技术学院.com](https://广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :white_check_mark: Redirect 302 |
@@ -118,7 +118,7 @@
 | [江西原神大专.com](http://www.江西原神大专.com) | 江西理工大学 | :x: NXDOMAIN |
 | [原神中医药大学.fun](https://原神中医药大学.fun) | 江西中医药大学 | :white_check_mark:  |
 | [江西原神带砖.top](http://www.江西原神带砖.top/) | 井冈山大学 | :white_check_mark: Redirect 301 |
-| [北京原神学校.com](https://北京原神学校.com) | 景山学校远洋分校 | :x: 530 |
+| [北京原神学校.com](https://北京原神学校.com) | 景山学校远洋分校 | :x: 502 |
 | [澳大利亚原神大学.com](http://www.澳大利亚原神大学.com) | 昆士兰大学 | :white_check_mark: Redirect 302 |
 | [原神怎么你了.top](http://原神怎么你了.top) | 兰州大学 | :x: DNS error |
 | [原神アジア太平洋大学.jp](http://原神アジア太平洋大学.jp) | 立命館アジア太平洋大学 | :white_check_mark: Redirect 302 |
