@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有184个高校）（其中155个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有184个高校）（其中154个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-03-14 15:38 UTC+8）
+## 高校名单（2024-03-14 19:38 UTC+8）
 
 
 状态说明：
@@ -119,7 +119,7 @@
 | [江西原神大专.com](http://www.江西原神大专.com) | 江西理工大学 | :x: NXDOMAIN |
 | [原神中医药大学.fun](https://原神中医药大学.fun) | 江西中医药大学 | :white_check_mark:  |
 | [江西原神带砖.top](http://www.江西原神带砖.top/) | 井冈山大学 | :white_check_mark: Redirect 301 |
-| [北京原神学校.com](https://北京原神学校.com) | 景山学校远洋分校 | :x: 530 |
+| [北京原神学校.com](https://北京原神学校.com) | 景山学校远洋分校 | :x: 502 |
 | [澳大利亚原神大学.com](http://www.澳大利亚原神大学.com) | 昆士兰大学 | :white_check_mark: Redirect 302 |
 | [原神怎么你了.top](http://原神怎么你了.top) | 兰州大学 | :x: DNS error |
 | [原神アジア太平洋大学.jp](http://原神アジア太平洋大学.jp) | 立命館アジア太平洋大学 | :white_check_mark: Redirect 302 |
@@ -152,7 +152,7 @@
 | [原神医科大学.top](http://原神医科大学.top) | 山东第一医科大学 | :white_check_mark: Redirect 301 |
 | [原神启动.store](https://www.原神启动.store) | 汕头大学 | :white_check_mark: Meta Refresh |
 | [汕头原神学院.com](https://汕头原神学院.com) | 汕头职业技术学院 | :white_check_mark: Redirect 301 |
-| [原神电力大学.com](http://www.原神电力大学.com) | 上海电力大学 | :white_check_mark: Redirect 301 |
+| [原神电力大学.com](http://www.原神电力大学.com) | 上海电力大学 | :x: Connection error |
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :white_check_mark: Redirect 302 |
 | [上海op大学.com](http://www.上海op大学.com) | 上海海洋大学 | :white_check_mark: Redirect 301 |
 | [上海原批大学.com](http://www.上海原批大学.com) | 上海建桥学院 | :white_check_mark: Redirect 301 |
