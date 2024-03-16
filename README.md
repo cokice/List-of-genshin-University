@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有184个高校）（其中151个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有184个高校）（其中150个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-03-16 07:39 UTC+8）
+## 高校名单（2024-03-16 11:38 UTC+8）
 
 
 状态说明：
@@ -90,7 +90,7 @@
 | [哈尔滨原神大学.com](https://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: CNAME |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark:  |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
 | [原神职业大学.com](https://原神职业大学.com) | 海南科技职业大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :white_check_mark:  |
 | [河北原神大学.com](http://www.河北原神大学.com) | 河北农业大学 | :white_check_mark: Redirect 301 |
@@ -166,7 +166,7 @@
 | [原神民族学院.cn](http://www.原神民族学院.cn/) | 四川民族学院 | :white_check_mark: Redirect 301 |
 | [苏州原神大学.cn](https://苏州原神大学.cn) | 苏州城市学院 | :white_check_mark:  |
 | [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: Connection error |
-| [世界原神中学.com](http://世界原神中学.com/) | 苏州中学 | :white_check_mark:  |
+| [世界原神中学.com](http://www.世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
 | [浙江原神职业技术学院.com](https://浙江原神职业技术学院.com) | 随机跳转至部分浙江省内高职院校官网 | :white_check_mark:  |
 | [西北原神大学.com](http://www.西北原神大学.com) | 塔里木大学 | :white_check_mark:  |
 | [原神理工大学.com](http://www.原神理工大学.com) | 太原理工大学 | :white_check_mark: Redirect 301 |
@@ -211,7 +211,7 @@
 | [原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 | :white_check_mark: Redirect 302 |
 | [浙江原神大学.com](http://www.浙江原神大学.com) | 浙江万里学院 | :white_check_mark: Redirect 302 |
 | [河南原神大学.com](http://www.河南原神大学.com) | 郑州轻工业大学 | :white_check_mark: Redirect 301 |
-| [山西原神大学.com](http://www.山西原神大学.com) | 中北大学 | :white_check_mark:  |
+| [山西原神大学.com](http://www.山西原神大学.com) | 中北大学 | :x: Connection error |
 | [中国op大学.com](http://www.中国op大学.com) | 中国海洋大学 | :white_check_mark: Redirect 301 |
 | [国立原神大学.top](http://国立原神大学.top) | 中国海洋大学 | :white_check_mark: Redirect 301 |
 | [原神学院.icu](https://原神学院.icu) | 中国计量大学现代科技学院 | :white_check_mark: Redirect 302 |
