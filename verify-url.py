@@ -29,11 +29,11 @@ def stack_func_stdout(func):
             ret = func(*args, **kwargs)
         except Exception as e:
             with print_lock:
-                print("-" * 20, "Error occurred:")
-                print(traceback.format_exc(), file=sys.stderr)
-                print("-" * 20, "Output:")
+                print("-" * 20, "Error occurred:", file=sys.stdout, flush=True)
+                print(traceback.format_exc(), file=sys.stderr, flush=True)
+                print("-" * 20, "Output:", file=sys.stdout, flush=True)
                 print(temp_stdout.getvalue(), end="", file=sys.stdout, flush=True)
-            raise
+            sys.exit(1)
         with print_lock:
             print(temp_stdout.getvalue(), end="", file=sys.stdout, flush=True)
         return ret
