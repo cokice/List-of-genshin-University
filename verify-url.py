@@ -25,7 +25,15 @@ def stack_func_stdout(func):
     def wrapper(*args, **kwargs):
         temp_stdout = io.StringIO()
         kwargs["file"] = temp_stdout
-        ret = func(*args, **kwargs)
+        try:
+            ret = func(*args, **kwargs)
+        except Exception as e:
+            with print_lock:
+                print("-" * 20, "Error occurred:")
+                print(traceback.format_exc(), file=sys.stderr)
+                print("-" * 20, "Output:")
+                print(temp_stdout.getvalue(), end="", file=sys.stdout, flush=True)
+            raise
         with print_lock:
             print(temp_stdout.getvalue(), end="", file=sys.stdout, flush=True)
         return ret
