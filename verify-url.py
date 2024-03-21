@@ -256,7 +256,7 @@ def check_url(url, ignore_ssl=False, file=sys.stdout):
                         return 2, submethod
                     method = (f"Redirect {r.status_code}", target)
                 elif 'http-equiv="refresh"' in r.text:
-                    target = re.search(r'content="\d+;url=(.*?)"', r.text, re.I).group(1)
+                    target = re.search(r'content="\d+; *url=(.*?)"', r.text, re.I).group(1)
                     if not re.match(r"https?://", target):
                         if target.startswith("/"):
                             target = "/".join(url.split("/")[:3]) + target
