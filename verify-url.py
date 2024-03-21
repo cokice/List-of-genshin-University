@@ -233,7 +233,7 @@ def check_url(url, ignore_ssl=False, file=sys.stdout):
             try:
                 if p is not None:
                     print(f"  -- Using proxy {idx}...", end=" ", flush=True, file=file)
-                r = s.get(url, allow_redirects=False, timeout=3, verify=not ignore_ssl, proxies=p)
+                r = s.get(url, allow_redirects=False, timeout=3, verify=not ignore_ssl, proxies=p, headers=header)
                 if not 200 <= r.status_code < 400:
                     print_error(f"Failed with status code {r.status_code}", file=file)
                     error = str(r.status_code)
