@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有186个高校）（其中157个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有186个高校）（其中155个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-03-22 19:38 UTC+8）
+## 高校名单（2024-03-22 23:40 UTC+8）
 
 
 状态说明：
@@ -90,7 +90,7 @@
 | [哈尔滨原神大学.com](https://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: CNAME |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark:  |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
 | [原神职业大学.com](https://原神职业大学.com) | 海南科技职业大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :white_check_mark:  |
 | [河北原神大学.com](http://www.河北原神大学.com) | 河北农业大学 | :white_check_mark: Redirect 301 |
@@ -102,7 +102,7 @@
 | [湖北原神大学.xyz](http://www.湖北原神大学.xyz) | 湖北大学 | :white_check_mark:  |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :white_check_mark: Redirect 301 |
 | [原神带专.com](http://原神带专.com) | 湖北水利水电职业技术学院 | :white_check_mark: Redirect 301 |
-| [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :white_check_mark: Meta Refresh |
+| [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :x: Connection error |
 | [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :white_check_mark: Redirect 301 |
 | [原来你也玩原神.com](https://www.原来你也玩原神.com) | 华北科技学院 | :x: Connection error |
 | [华东原神大学.online](http://华东原神大学.online) | 华东师范大学 | :white_check_mark: Redirect 301 |
@@ -138,7 +138,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
 | [南京星穹铁道职业技术学院.xyz](https://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
-| [原神师范学院.top](https://原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
+| [原神师范学院.top](https://原神师范学院.top) | 南京晓庄学院 | :x: Connection error |
 | [原神工程大学.com](http://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 302 |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: 403 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: Connection error |
