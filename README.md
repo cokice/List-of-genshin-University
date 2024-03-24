@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-03-24 23:38 UTC+8）
+## 高校名单（2024-03-25 03:38 UTC+8）
 
 
 状态说明：
@@ -213,7 +213,7 @@
 | [原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 | :white_check_mark: Redirect 302 |
 | [浙江原神大学.com](http://www.浙江原神大学.com) | 浙江万里学院 | :white_check_mark: Redirect 302 |
 | [河南原神大学.com](http://www.河南原神大学.com) | 郑州轻工业大学 | :white_check_mark: Redirect 301 |
-| [山西原神大学.com](https://www.山西原神大学.com) | 中北大学 | :white_check_mark:  |
+| [山西原神大学.com](http://www.山西原神大学.com) | 中北大学 | :white_check_mark:  |
 | [中国op大学.com](http://www.中国op大学.com) | 中国海洋大学 | :white_check_mark: Redirect 301 |
 | [国立原神大学.top](http://国立原神大学.top) | 中国海洋大学 | :white_check_mark: Redirect 301 |
 | [原神学院.icu](https://原神学院.icu) | 中国计量大学现代科技学院 | :white_check_mark: Redirect 302 |
