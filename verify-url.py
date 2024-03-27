@@ -4,6 +4,7 @@ import dns.resolver
 import functools
 import idna
 import io
+import json
 import os
 import pypinyin
 import pypinyin.contrib.tone_convert
@@ -72,6 +73,10 @@ def resub_concurrent(pattern, repl, string, count=0, flags=0, thread_count=16):
 
 warnings.filterwarnings("ignore", category=requests.packages.urllib3.exceptions.InsecureRequestWarning)
 sys.setrecursionlimit(64)
+
+# Whitelist json file, contains an array of regex strings
+with open("whitelist.json", mode="rt", encoding="utf8") as f:
+    whitelist = json.load(f)
 
 resolver = dns.resolver.Resolver()
 resolver.nameservers += ["114.114.114.114", "8.8.8.8"]
@@ -195,12 +200,19 @@ def get_domain(url):
     return url.split("/")[2]
 
 
+def check_whitelist(url):
+    for i in whitelist:
+        if re.search(i, url):
+            return True
+    return False
+
+
 def check_url(url, ignore_ssl=False, file=sys.stdout):
     global proxies, resolver
     print(f"Checking [{url}]...", end=" ", flush=True, file=file)
     method = ("", None)
-    if "edu" in get_domain(url) and os.environ.get("NO_SKIP_EDU") not in ("1", "true", "True"):
-        print_success("EDU domain, skipped", file=file)
+    if check_whitelist(get_domain(url)) and os.environ.get("NO_SKIP_EDU") not in {"1", "true", "True", "yes"}:
+        print_success("Found in whitelist, skipped", file=file)
         return 1, ("EDU Domain", None)
     error = "Unknown error"
     try:
@@ -211,7 +223,7 @@ def check_url(url, ignore_ssl=False, file=sys.stdout):
         pass
     except dns.resolver.NXDOMAIN:
         print("CNAME NXDOMAIN", end=" ", flush=True, file=file)
-    except:
+    except Exception:
         print("DNS CNAME error", end=" ", flush=True, file=file)
         error = "DNS CNAME error"
     if not method[0]:
@@ -225,7 +237,7 @@ def check_url(url, ignore_ssl=False, file=sys.stdout):
         except dns.resolver.NXDOMAIN:
             print("DNS A error", end=" ", flush=True, file=file)
             error = "NXDOMAIN"
-        except:
+        except Exception:
             print("DNS A error", end=" ", flush=True, file=file)
             error = "DNS error"
     if method[0]:
