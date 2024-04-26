@@ -232,6 +232,8 @@
 | [长沙原神大学.com](http://长沙原神大学.com) | 中南林业科技大学 | :question: 503 |
 | [原神螺蛳粉职业技术学院.com](http://原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :question: 503 |
 | [原神启动.com](https://原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
+| [中国原神.com](http://中国原神.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
+| [玩绝区零玩的.com](http://玩绝区零玩的.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
 
 
 
