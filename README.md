@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有192个高校）（其中156个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有192个高校）（其中158个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-04-27 17:07 UTC+8）
+## 高校名单（2024-04-27 19:39 UTC+8）
 
 
 状态说明：
@@ -145,7 +145,7 @@
 | [南京星穹铁道职业技术学院.xyz](https://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
 | [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: 403 |
-| [原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 | :x: Connection error |
+| [原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 302 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: Connection error |
 | [原神启动.club](http://www.原神启动.club) | 南开大学 | :x: 404 |
 | [nku.天津原神大学.icu](https://nku.天津原神大学.icu) | 南开大学 | :white_check_mark: Redirect 301 |
@@ -191,7 +191,7 @@
 | [原神职业技术学院.com](http://www.原神职业技术学院.com) | 五邑大学 | :white_check_mark: Redirect 308 |
 | [西安电子科技大学.com](http://www.西安电子科技大学.com) | 西安电子科技大学 | :x: NXDOMAIN |
 | [西安原神大学.com](http://www.西安原神大学.com) | 西安电子科技大学 | :white_check_mark: Redirect 301 |
-| [长安原神大学.com](https://www.长安原神大学.com) | 西安科技大学 | :x: Connection error |
+| [长安原神大学.com](https://www.长安原神大学.com) | 西安科技大学 | :white_check_mark: Redirect 302 |
 | [原神涉外办事处.com](http://www.原神涉外办事处.com) | 西安外事学院 | :x: NXDOMAIN |
 | [原神工业大学.icu](https://www.原神工业大学.icu) | 西北工业大学 | :white_check_mark: Redirect 301 |
 | [中国原神大学.org](http://中国原神大学.org) | 西南科技大学 | :white_check_mark: Redirect 302 |
