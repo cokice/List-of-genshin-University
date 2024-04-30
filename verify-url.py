@@ -361,17 +361,10 @@ for i in os.listdir("new"):
         new.append(replace_table_row(m))
         add_content = add_content[m.end() :]
     l = subprocess.check_output(["git", "log", os.path.join("new", i)]).decode()
-    co_authors.update(
-        [
-            i
-            for i in (
-                re.findall(r"(?<=Author: ).*? <.*?>", l)
-                + re.findall(r"(?<=Co-authored-by: ).*? <.*?>", l)
-                + re.findall(r"(?<=Signed-off-by: ).*? <.*?>", l)
-            )
-            if not "[bot]" in i
-        ]
-    )
+    for i in re.findall(r"(?:(?:Author|Co-authored-by|Signed-off-by): )(.*? <.*?>)", l):
+        if "[bot]" in i:
+            break
+        co_authors.add(i)
     remove_pending.append(os.path.join("new", i))
 
 
