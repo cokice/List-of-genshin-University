@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有195个高校）（其中162个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有195个高校）（其中160个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-05-13 19:38 UTC+8）
+## 高校名单（2024-05-13 23:39 UTC+8）
 
 
 状态说明：
@@ -144,7 +144,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
 | [南京星穹铁道职业技术学院.xyz](http://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
-| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
+| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :x: Connection error |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: 403 |
 | [原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 302 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: Connection error |
@@ -154,7 +154,7 @@
 | [提瓦特中学.top](https://www.提瓦特中学.top) | 平遥中学 | :white_check_mark: Redirect 302 |
 | [青岛原神大学.com](http://青岛原神大学.com) | 青岛科技大学 | :white_check_mark: Redirect 301 |
 | [原神启动中学.cn](http://原神启动中学.cn) | 人大附中ICC | :white_check_mark: Redirect 301 |
-| [提瓦特大学.com](http://www.提瓦特大学.com) | 山东大学 | :white_check_mark: Redirect 301 |
+| [提瓦特大学.com](http://www.提瓦特大学.com) | 山东大学 | :x: 404 |
 | [国立原神大学.com](http://国立原神大学.com) | 山东大学 | :white_check_mark: Redirect 301 |
 | [原神医科大学.top](http://原神医科大学.top) | 山东第一医科大学 | :white_check_mark: Redirect 301 |
 | [原神启动.store](https://www.原神启动.store) | 汕头大学 | :white_check_mark: Meta Refresh |
