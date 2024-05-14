@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有195个高校）（其中158个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有195个高校）（其中157个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-05-14 23:41 UTC+8）
+## 高校名单（2024-05-15 03:41 UTC+8）
 
 
 状态说明：
@@ -79,7 +79,7 @@
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :white_check_mark: Redirect 301 |
 | [广轻原神大学.com](http://www.广轻原神大学.com) | 广东轻工职业技术学院 | :x: NXDOMAIN |
 | [原神.org](https://原神.org) | 广东药科大学 | :white_check_mark: Redirect 302 |
-| [广西原神大学.cn](http://www.广西原神大学.cn) | 广西安全工程职业技术学院 | :white_check_mark: Redirect 301 |
+| [广西原神大学.cn](http://www.广西原神大学.cn) | 广西安全工程职业技术学院 | :x: Connection error |
 | [世界原神大学.com](http://www.世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
 | [广西原神职业技术学院.com](https://www.广西原神职业技术学院.com) | 广西民族大学相思湖学院 | :white_check_mark: Redirect 302 |
 | [广西原神职业技术学院.com](https://广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :white_check_mark: Redirect 302 |
@@ -92,7 +92,7 @@
 | [哈尔滨原神大学.com](https://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: CNAME |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :x: Connection error |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
 | [原神职业大学.com](https://原神职业大学.com) | 海南科技职业大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :white_check_mark: Redirect 301 |
 | [河北原神大学.com](http://河北原神大学.com) | 河北农业大学 | :white_check_mark: Redirect 301 |
@@ -217,7 +217,7 @@
 | [提瓦特科技大学.com](http://www.提瓦特科技大学.com) | 浙江科技学院 | :white_check_mark: Redirect 301 |
 | [浙江原批大学.com](http://www.浙江原批大学.com) | 浙江理工大学 | :white_check_mark: Redirect 302 |
 | [浙江原神大学.cn](http://www.浙江原神大学.cn) | 浙江理工大学 | :white_check_mark: Redirect 302 |
-| [临安原神大学.xyz](http://临安原神大学.xyz) | 浙江农林大学 | :question: 530 |
+| [临安原神大学.xyz](http://临安原神大学.xyz) | 浙江农林大学 | :white_check_mark: Redirect 301 |
 | [原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 | :white_check_mark: Redirect 302 |
 | [浙江原神大学.com](http://www.浙江原神大学.com) | 浙江万里学院 | :white_check_mark: Redirect 302 |
 | [河南原神大学.com](http://www.河南原神大学.com) | 郑州轻工业大学 | :white_check_mark: Redirect 301 |
