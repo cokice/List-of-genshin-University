@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有195个高校）（其中162个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有195个高校）（其中159个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-05-14 11:40 UTC+8）
+## 高校名单（2024-05-14 15:40 UTC+8）
 
 
 状态说明：
@@ -202,7 +202,7 @@
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :white_check_mark: Redirect 301 |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :white_check_mark: Redirect 301 |
-| [原神学院.中国](http://原神学院.中国) | 宜宾学院 *请解析到自己的服务器跳转* | :question: 403 |
+| [原神学院.中国](http://原神学院.中国) | 宜宾学院 *请解析到自己的服务器跳转* | :question: Connection error |
 | [英国皇家原神学院.com](http://英国皇家原神学院.com/) | 英国皇家艺术学院 | :white_check_mark: Redirect 301 |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
@@ -233,9 +233,9 @@
 | [原神消防学院.com](http://原神消防学院.com) | 中国消防救援学院 | :x: NXDOMAIN |
 | [原神高级中学.com](http://www.原神高级中学.com) | 中国药科大学 | :white_check_mark: Redirect 301 |
 | [原神高级中学.com](https://www.原神高级中学.com) | 中国药科大学 | :white_check_mark: Redirect 301 |
-| [原神林业科技大学.com](http://www.原神林业科技大学.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
-| [长沙原神大学.com](http://长沙原神大学.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
-| [原神螺蛳粉职业技术学院.com](http://原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
+| [原神林业科技大学.com](http://www.原神林业科技大学.com) | 中南林业科技大学 | :x: Connection error |
+| [长沙原神大学.com](http://长沙原神大学.com) | 中南林业科技大学 | :x: Connection error |
+| [原神螺蛳粉职业技术学院.com](http://原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :x: Connection error |
 | [原神启动.com](https://原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 
 
