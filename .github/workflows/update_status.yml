@@ -24,6 +24,7 @@ on:
       - '.github/workflows/update_status.yml'
       - 'verify-url.py'
       - 'new/**'
+      - 'whitelist.json'
 
 permissions:
   contents: write
