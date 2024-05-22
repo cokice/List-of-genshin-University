@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-05-22 19:39 UTC+8）
+## 高校名单（2024-05-22 23:38 UTC+8）
 
 
 状态说明：
@@ -85,7 +85,7 @@
 | [广西原神职业技术学院.com](https://www.广西原神职业技术学院.com) | 广西民族大学相思湖学院 | :white_check_mark: Redirect 302 |
 | [广西原神职业技术学院.com](https://广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :white_check_mark: Redirect 302 |
 | [米哈游师范大学.com](https://www.米哈游师范大学.com) | 广西师范大学 | :white_check_mark: Redirect 301 |
-| [原神医科大学.com](http://www.原神医科大学.com) | 广西医科大学 | :x: 409 |
+| [原神医科大学.com](http://www.原神医科大学.com) | 广西医科大学 | :white_check_mark: Redirect 301 |
 | [广州原神大学.icu](https://广州原神大学.icu) | 广州南洋理工职业学院 | :x: NXDOMAIN |
 | [原神启动.space](https://www.原神启动.space) | 广州商学院 | :white_check_mark: Redirect 301 |
 | [原神理工大学.icu](http://原神理工大学.icu) | 桂林理工大学南宁分校 | :question: SSLError |
@@ -144,8 +144,8 @@
 | [玄武区原神大学.xyz](http://玄武区原神大学.xyz) | 南京林业大学 | :white_check_mark: Redirect 302 |
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
-| [南京星穹铁道职业技术学院.xyz](http://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
-| [原神师范学院.top](https://原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
+| [南京星穹铁道职业技术学院.xyz](https://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
+| [原神师范学院.top](https://原神师范学院.top) | 南京晓庄学院 | :x: Connection error |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: 403 |
 | [原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 302 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :white_check_mark:  |
