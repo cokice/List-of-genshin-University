@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-06-01 07:38 UTC+8）
+## 高校名单（2024-06-01 11:39 UTC+8）
 
 
 状态说明：
@@ -49,7 +49,7 @@
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
 | [原神科技大学.com](https://原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
 | [澳门原神大学.com](http://澳门原神大学.com) | 澳门理工大学 | :white_check_mark: Redirect 301 |
-| [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :white_check_mark: Redirect 302 |
+| [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :white_check_mark: Redirect 303 |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
 | [原神风之翼技术大学.fontlos.com](https://原神风之翼技术大学.fontlos.com) | 北京航空航天大学 | :white_check_mark: Redirect 301 |
 | [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 *建议：升级到SSLv2* | :question: SSLError |
@@ -161,7 +161,7 @@
 | [原神医科大学.top](http://原神医科大学.top) | 山东第一医科大学 | :white_check_mark: Redirect 301 |
 | [原神启动.store](https://www.原神启动.store) | 汕头大学 | :white_check_mark: Meta Refresh |
 | [汕头原神学院.com](https://汕头原神学院.com) | 汕头职业技术学院 | :white_check_mark: Redirect 301 |
-| [原神电力大学.com](http://www.原神电力大学.com) | 上海电力大学 | :white_check_mark: Redirect 301 |
+| [原神电力大学.com](https://www.原神电力大学.com) | 上海电力大学 | :white_check_mark: Redirect 301 |
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :white_check_mark: Redirect 302 |
 | [上海op大学.com](http://上海op大学.com) | 上海海洋大学 | :white_check_mark: Redirect 301 |
 | [上海原批大学.com](http://www.上海原批大学.com) | 上海建桥学院 | :white_check_mark: Redirect 301 |
@@ -204,7 +204,7 @@
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :white_check_mark: Redirect 301 |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :white_check_mark: Redirect 301 |
-| [原神学院.中国](http://原神学院.中国) | 宜宾学院 *请解析到自己的服务器跳转* | :question: Connection error |
+| [原神学院.中国](http://原神学院.中国) | 宜宾学院 *请解析到自己的服务器跳转* | :question: 403 |
 | [英国皇家原神学院.com](http://英国皇家原神学院.com/) | 英国皇家艺术学院 | :white_check_mark: Redirect 301 |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
