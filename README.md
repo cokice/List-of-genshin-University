@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-06-01 11:39 UTC+8）
+## 高校名单（2024-06-01 15:38 UTC+8）
 
 
 状态说明：
@@ -228,7 +228,7 @@
 | [国立原神大学.top](http://国立原神大学.top) | 中国海洋大学 | :white_check_mark: Redirect 301 |
 | [中国op大学.com](http://中国op大学.com) | 中国海洋大学 | :white_check_mark: Redirect 301 |
 | [原神学院.icu](https://原神学院.icu) | 中国计量大学现代科技学院 | :white_check_mark: Redirect 302 |
-| [玩原神玩的.com](http://www.玩原神玩的.com) | 中国科学技术大学 | :white_check_mark: Redirect 301 |
+| [玩原神玩的.com](http://玩原神玩的.com) | 中国科学技术大学 | :white_check_mark: Redirect 301 |
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 | :white_check_mark: Redirect 301 |
 | [中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 | :white_check_mark: Redirect 301 |
 | [中国原神大学.com](http://中国原神大学.com) | 中国石油大学 | :white_check_mark: Redirect 301 |
