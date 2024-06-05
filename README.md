@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-06-05 23:38 UTC+8）
+## 高校名单（2024-06-06 03:38 UTC+8）
 
 
 状态说明：
@@ -102,7 +102,7 @@
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: Connection error |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
 | [原神农业大学.com](http://www.原神农业大学.com) | 河南农业大学 | :white_check_mark: Redirect 301 |
-| [湖北原神大学.xyz](http://www.湖北原神大学.xyz) | 湖北大学 | :white_check_mark:  |
+| [湖北原神大学.xyz](http://湖北原神大学.xyz) | 湖北大学 | :white_check_mark:  |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :white_check_mark: Redirect 301 |
 | [原神带专.com](http://原神带专.com) | 湖北水利水电职业技术学院 | :white_check_mark: Redirect 301 |
 | [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :white_check_mark: Meta Refresh |
