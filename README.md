@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-06-15 15:38 UTC+8）
+## 高校名单（2024-06-15 19:38 UTC+8）
 
 
 状态说明：
@@ -214,7 +214,7 @@
 | [须弥教令院.中国](https://须弥教令院.中国/) | 云南大学 | :white_check_mark: Redirect 301 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :white_check_mark: Redirect 301 |
 | [东方原神大学.com](http://东方原神大学.com) | 浙江大学 | :white_check_mark: Meta Refresh |
-| [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :x: 500 |
+| [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :x: Connection error |
 | [不玩原神导致的.com](https://www.不玩原神导致的.com/) | 浙江工商大学 | :white_check_mark: Redirect 301 |
 | [浙江原神大专.icu](https://www.浙江原神大专.icu) | 浙江经济职业技术学院 | :white_check_mark: Redirect 301 |
 | [提瓦特科技大学.com](http://www.提瓦特科技大学.com) | 浙江科技学院 | :white_check_mark: Redirect 301 |
