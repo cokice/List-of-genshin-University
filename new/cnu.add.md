@@ -1,0 +1,1 @@
+| [提瓦特初等师范学院.aicnal.fun](https://提瓦特初等师范学院.aicnal.fun) | 首都师范大学 |
