@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有203个高校）（其中170个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有203个高校）（其中172个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-06-29 07:39 UTC+8）
+## 高校名单（2024-06-29 11:40 UTC+8）
 
 
 状态说明：
@@ -223,8 +223,8 @@
 | [不玩原神导致的.com](https://www.不玩原神导致的.com/) | 浙江工商大学 | :white_check_mark: Redirect 301 |
 | [浙江原神大专.icu](https://www.浙江原神大专.icu) | 浙江经济职业技术学院 | :white_check_mark: Redirect 301 |
 | [提瓦特科技大学.com](http://www.提瓦特科技大学.com) | 浙江科技学院 | :white_check_mark: Redirect 301 |
-| [浙江原批大学.com](http://www.浙江原批大学.com) | 浙江理工大学 | :x: Connection error |
-| [浙江原神大学.cn](http://www.浙江原神大学.cn) | 浙江理工大学 | :x: Connection error |
+| [浙江原批大学.com](http://www.浙江原批大学.com) | 浙江理工大学 | :white_check_mark: Redirect 302 |
+| [浙江原神大学.cn](http://www.浙江原神大学.cn) | 浙江理工大学 | :white_check_mark: Redirect 302 |
 | [临安原神大学.xyz](http://临安原神大学.xyz) | 浙江农林大学 | :white_check_mark: Redirect 301 |
 | [原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 | :white_check_mark: Redirect 302 |
 | [浙江原神大学.com](http://www.浙江原神大学.com) | 浙江万里学院 | :white_check_mark: Redirect 302 |
