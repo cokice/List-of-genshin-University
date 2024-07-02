@@ -145,7 +145,13 @@ def replace_table_row(m: re.Match, file=sys.stdout):
     url_split[2] = idna.decode(url_split[2])
     url = "/".join(url_split)
     successes = {0: [], 1: [], 2: []}
-    success, method = check_url(url, file=file)
+    try:
+        success, method = check_url(url, file=file)
+    except Exception:
+        success = 0
+        method = "Other Error"
+        print("\n", end="", flush=True, file=file)
+        print_error(traceback.format_exc(), flush=True, file=file)
     if success == 1:
         if method[0] == "Unknown":
             method = ("", None)
@@ -157,7 +163,13 @@ def replace_table_row(m: re.Match, file=sys.stdout):
         successes[success].append((url, method))
         print_error("Failed, trying other possible URLs", file=file)
         for new_url in get_other_possible_url(url):
-            success, method1 = check_url(new_url, file=file)
+            try:
+                success, method1 = check_url(new_url, file=file)
+            except Exception:
+                success = 0
+                method1 = "Other Error"
+                print("\n", end="", flush=True, file=file)
+                print_error(traceback.format_exc(), flush=True, file=file)
             if success == 1:
                 if method1[0] == "Unknown":
                     method1 = ("", None)
