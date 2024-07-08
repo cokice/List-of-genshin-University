@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有205个高校）（其中169个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有206个高校）（其中170个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-07-08 15:39 UTC+8）
+## 高校名单（2024-07-08 16:44 UTC+8）
 
 
 状态说明：
@@ -65,6 +65,7 @@
 | [苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 | :x: NXDOMAIN |
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 | :white_check_mark: Redirect 301 |
 | [湖南原神大专.top](http://湖南原神大专.top) | 郴州职业技术学院 | :white_check_mark: Redirect 301 |
+| [原神学校.com](http://原神学校.com) | 重庆市第八中学 | :white_check_mark: Redirect 301 |
 | [原神学校.com](https://www.原神学校.com) | 重庆市第八中学 | :white_check_mark: Redirect 301 |
 | [不玩原神.fun](http://不玩原神.fun) | 重庆水利水电职业技术学院 | :white_check_mark: Redirect 302 |
 | [cqupt.原友聚集地.top](http://cqupt.原友聚集地.top) | 重庆邮电大学 | :white_check_mark: Redirect 308 |
@@ -96,7 +97,7 @@
 | [哈尔滨原神大学.com](https://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :x: Other Error |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :x: Connection error |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
 | [原神职业大学.com](https://原神职业大学.com) | 海南科技职业大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :white_check_mark: Redirect 301 |
 | [河北原神大学.com](http://河北原神大学.com) | 河北农业大学 | :white_check_mark: Redirect 301 |
