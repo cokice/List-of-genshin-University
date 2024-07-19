@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-07-19 07:39 UTC+8）
+## 高校名单（2024-07-19 11:41 UTC+8）
 
 
 状态说明：
@@ -157,7 +157,7 @@
 | [原神启动.club](http://www.原神启动.club) | 南开大学 | :white_check_mark: Redirect 301 |
 | [nku.天津原神大学.icu](https://nku.天津原神大学.icu) | 南开大学 | :white_check_mark: Redirect 301 |
 | [genshin.university](https://genshin.university) | 南通大学 | :white_check_mark:  |
-| [原神农业大学.com](http://原神农业大学.com/) | 内蒙古农业大学 | :question: 523 |
+| [原神农业大学.com](http://原神农业大学.com/) | 内蒙古农业大学 | :question: Connection error |
 | [美国原神大学.com](http://美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
 | [提瓦特中学.top](https://www.提瓦特中学.top) | 平遥中学 | :white_check_mark: Redirect 302 |
 | [青岛原神大学.com](http://青岛原神大学.com) | 青岛科技大学 | :white_check_mark: Redirect 301 |
