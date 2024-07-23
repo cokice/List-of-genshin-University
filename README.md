@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-07-23 15:40 UTC+8）
+## 高校名单（2024-07-23 19:39 UTC+8）
 
 
 状态说明：
@@ -47,7 +47,7 @@
 | [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 307 |
 | [ugensh.in](https://ugensh.in) | University of Sydney | :x: Connection error |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
-| [原神科技大学.com](https://www.原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
+| [原神科技大学.com](https://原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
 | [澳门原神大学.com](http://www.澳门原神大学.com) | 澳门理工大学 | :white_check_mark: CNAME |
 | [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :white_check_mark: Redirect 303 |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
@@ -120,7 +120,7 @@
 | [华中原神大学.com](https://华中原神大学.com/) | 华中科技大学 | :white_check_mark: Redirect 308 |
 | [华中原神大学.cn](https://www.华中原神大学.cn/) | 华中师范大学 | :white_check_mark:  |
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 | :white_check_mark: Redirect 301 |
-| [原神学院.com](http://原神学院.com) | 黄淮学院 | :white_check_mark: Redirect 301 |
+| [原神学院.com](http://原神学院.com) | 黄淮学院 | :question: Connection error |
 | [东北原神大学.com](http://www.东北原神大学.com) | 吉林大学 | :white_check_mark: Redirect 301 |
 | [广东原神公益大学.com](http://www.广东原神公益大学.com) | 暨南大学 | :white_check_mark: Redirect 301 |
 | [加州原神工业大学.club](https://加州原神工业大学.club) | 加州大学伯克利分校 | :white_check_mark: Redirect 301 |
