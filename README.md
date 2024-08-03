@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有218个高校）（其中179个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有220个高校）（其中181个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-08-03 19:38 UTC+8）
+## 高校名单（2024-08-03 21:43 UTC+8）
 
 
 状态说明：
@@ -46,6 +46,7 @@
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne | :x: NXDOMAIN |
 | [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 307 |
 | [ugensh.in](https://ugensh.in) | University of Sydney | :x: Connection error |
+| [安徽原神大学.icu](https://安徽原神大学.icu) | 安徽大学 | :white_check_mark:  |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
 | [原神科技大学.com](https://www.原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
 | [澳门原神大学.com](http://www.澳门原神大学.com) | 澳门理工大学 | :white_check_mark: CNAME |
@@ -159,7 +160,7 @@
 | [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: 403 |
 | [原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 302 |
-| [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: 530 |
+| [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: Connection error |
 | [原神启动.club](http://www.原神启动.club) | 南开大学 | :white_check_mark: Redirect 301 |
 | [nku.天津原神大学.icu](https://nku.天津原神大学.icu) | 南开大学 | :white_check_mark: Redirect 301 |
 | [genshin.university](https://genshin.university) | 南通大学 | :white_check_mark:  |
@@ -245,6 +246,7 @@
 | [浙江原神大学.com](http://www.浙江原神大学.com) | 浙江万里学院 | :white_check_mark: Redirect 302 |
 | [河南原神大学.com](http://www.河南原神大学.com) | 郑州轻工业大学 | :white_check_mark: Redirect 301 |
 | [山西原神大学.com](http://www.山西原神大学.com) | 中北大学 | :x: 403 |
+| [人民原神第一校.fun](https://人民原神第一校.fun) | 中北大学 | :white_check_mark: Redirect 301 |
 | [国立原神大学.top](http://国立原神大学.top) | 中国海洋大学 | :white_check_mark: Redirect 301 |
 | [中国op大学.com](http://中国op大学.com) | 中国海洋大学 | :white_check_mark: Redirect 301 |
 | [原神学院.icu](https://原神学院.icu) | 中国计量大学现代科技学院 | :white_check_mark: Redirect 302 |
