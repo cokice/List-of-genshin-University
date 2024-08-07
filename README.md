@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-08-08 03:39 UTC+8）
+## 高校名单（2024-08-08 07:39 UTC+8）
 
 
 状态说明：
@@ -49,7 +49,7 @@
 | [安徽原神大学.icu](https://安徽原神大学.icu) | 安徽大学 | :white_check_mark:  |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
 | [原神科技大学.com](https://www.原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
-| [澳门原神大学.com](http://www.澳门原神大学.com) | 澳门理工大学 | :white_check_mark: CNAME |
+| [澳门原神大学.com](http://www.澳门原神大学.com) | 澳门理工大学 | :x: Connection error |
 | [北方原神大学.top](https://www.北方原神大学.top) | 北方工业大学 | :white_check_mark:  |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
 | [原神风之翼技术大学.fontlos.com](https://原神风之翼技术大学.fontlos.com) | 北京航空航天大学 | :white_check_mark: Redirect 301 |
@@ -117,7 +117,7 @@
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :white_check_mark: Redirect 301 |
 | [原神带专.com](http://原神带专.com) | 湖北水利水电职业技术学院 | :x: 404 |
 | [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :x: 400 |
-| [湖南原神大学.cn](https://湖南原神大学.cn) | 湖南理工学院 | :white_check_mark: Redirect 301 |
+| [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :white_check_mark:  |
 | [原来你也玩原神.com](https://www.原来你也玩原神.com) | 华北科技学院 | :x: Connection error |
 | [华东原神大学.online](http://华东原神大学.online) | 华东师范大学 | :white_check_mark: Redirect 301 |
 | [原神蒸发大学.com](http://www.原神蒸发大学.com) | 华东政法大学 | :white_check_mark: Redirect 301 |
@@ -158,7 +158,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
 | [南京星穹铁道职业技术学院.xyz](https://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
-| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :x: Connection error |
+| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: 403 |
 | [原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 302 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: Connection error |
