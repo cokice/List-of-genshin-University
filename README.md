@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-08-07 19:39 UTC+8）
+## 高校名单（2024-08-07 23:40 UTC+8）
 
 
 状态说明：
@@ -58,7 +58,7 @@
 | [原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 | :x: NXDOMAIN |
 | [提瓦特高等师范学院.com/](http://提瓦特高等师范学院.com/) | 北京师范大学 | :white_check_mark: Redirect 301 |
 | [广东原神学院.com](http://广东原神学院.com) | 北京师范大学-香港浸会大学联合国际学院 | :white_check_mark: Redirect 302 |
-| [提瓦特初等师范学院.xyz](http://提瓦特初等师范学院.xyz) | 北京师范学院 | :x: Connection error |
+| [提瓦特初等师范学院.xyz](http://提瓦特初等师范学院.xyz) | 北京师范学院 | :x: 500 |
 | [北京原神第八中学.com](http://www.北京原神第八中学.com) | 北京市第八中学 | :x: NXDOMAIN |
 | [中关村原神中学.com](https://www.中关村原神中学.com) | 北京市中关村中学 | :white_check_mark:  |
 | [中国原神学院.com](http://www.中国原神学院.com) | 北京信息科技大学 | :white_check_mark:  |
@@ -102,7 +102,7 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :white_check_mark: Redirect 301 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :x: Connection error |
-| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
+| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
 | [河北原神大学.com](http://河北原神大学.com) | 河北科技大学 | :white_check_mark: Redirect 301 |
 | [原神科技学院.lol](https://www.原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
@@ -158,7 +158,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
 | [南京星穹铁道职业技术学院.xyz](https://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
-| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
+| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :x: Connection error |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: 403 |
 | [原神工程大学.com](https://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 302 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: Connection error |
@@ -202,7 +202,7 @@
 | [原神科技大专.com](http://www.原神科技大专.com) | 太原科技大学 | :white_check_mark: Redirect 302 |
 | [原神理工大学.com](http://原神理工大学.com) | 太原理工大学 | :white_check_mark: Redirect 301 |
 | [tju.天津原神大学.icu](https://tju.天津原神大学.icu) | 天津大学 | :white_check_mark: Redirect 301 |
-| [天津原神大学.top](https://天津原神大学.top) | 天津理工大学 | :x: Connection error |
+| [天津原神大学.top](https://天津原神大学.top) | 天津理工大学 | :x: SSLError |
 | [原神商学院.top](http://www.原神商学院.top) | 天津商业大学 | :white_check_mark: Redirect 308 |
 | [原神师范大学.online](http://www.原神师范大学.online) | 天津师范大学 | :x: 403 |
 | [玩原神考上的.cn](http://www.玩原神考上的.cn) | 天津医科大学临床医学院 | :white_check_mark: Redirect 301 |
@@ -230,13 +230,13 @@
 | [英国皇家原神学院.com](http://英国皇家原神学院.com/) | 英国皇家艺术学院 | :white_check_mark: Redirect 301 |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
-| [tjut.top](https://tjut.top) | 原神 | :x: Connection error |
+| [tjut.top](https://tjut.top) | 原神 | :x: SSLError |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :white_check_mark: Redirect 302 |
 | [云南原神大学.com](https://www.云南原神大学.com) | 云南财经大学 | :white_check_mark: Redirect 302 |
 | [须弥教令院.中国](https://须弥教令院.中国/) | 云南大学 | :white_check_mark: Redirect 301 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :white_check_mark: Redirect 301 |
 | [东方原神大学.com](http://东方原神大学.com) | 浙江大学 | :white_check_mark: Meta Refresh |
-| [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :x: Connection error |
+| [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :x: 500 |
 | [不玩原神导致的.com](https://www.不玩原神导致的.com/) | 浙江工商大学 | :white_check_mark: Redirect 301 |
 | [浙江原神大专.icu](https://www.浙江原神大专.icu) | 浙江经济职业技术学院 | :white_check_mark: Redirect 301 |
 | [浙江原神大学.icu](http://浙江原神大学.icu/) | 浙江科技大学 | :white_check_mark: Redirect 301 |
@@ -244,7 +244,7 @@
 | [浙江原批大学.com](http://www.浙江原批大学.com) | 浙江理工大学 | :white_check_mark: Redirect 302 |
 | [浙江原神大学.cn](http://www.浙江原神大学.cn) | 浙江理工大学 | :white_check_mark: Redirect 302 |
 | [临安原神大学.xyz](http://临安原神大学.xyz) | 浙江农林大学 | :white_check_mark: Redirect 301 |
-| [原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 | :x: Connection error |
+| [原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 | :white_check_mark: Redirect 302 |
 | [浙江原神大学.com](http://www.浙江原神大学.com) | 浙江万里学院 | :white_check_mark: Redirect 302 |
 | [河南原神大学.com](http://www.河南原神大学.com) | 郑州轻工业大学 | :white_check_mark: Redirect 301 |
 | [山西原神大学.com](http://www.山西原神大学.com) | 中北大学 | :x: 403 |
