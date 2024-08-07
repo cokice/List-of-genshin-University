@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-08-07 07:39 UTC+8）
+## 高校名单（2024-08-07 11:40 UTC+8）
 
 
 状态说明：
@@ -80,7 +80,7 @@
 | [原神财经大学.com](http://www.原神财经大学.com) | 东北财经大学 | :white_check_mark: Redirect 302 |
 | [原神分校.com](http://原神分校.com) | 东北大学秦皇岛分校 | :white_check_mark: Redirect 301 |
 | [提瓦特林业大学.xyz](https://提瓦特林业大学.xyz/) | 东北林业大学 | :white_check_mark:  |
-| [广东原神大学.com](https://www.广东原神大学.com) | 东莞理工学院 | :white_check_mark: Redirect 301 |
+| [广东原神大学.com](https://广东原神大学.com) | 东莞理工学院 | :white_check_mark:  |
 | [原神启动大学.top](http://www.原神启动大学.top) | 东华理工大学 | :white_check_mark: CNAME |
 | [原神启动大学.com](https://原神启动大学.com/) | 东南大学 | :white_check_mark: Redirect 301 |
 | [美国原神学院.com](http://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
