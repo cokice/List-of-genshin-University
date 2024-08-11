@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-08-11 15:39 UTC+8）
+## 高校名单（2024-08-11 19:38 UTC+8）
 
 
 状态说明：
@@ -60,7 +60,7 @@
 | [广东原神学院.com](http://广东原神学院.com) | 北京师范大学-香港浸会大学联合国际学院 | :white_check_mark: Redirect 302 |
 | [提瓦特初等师范学院.xyz](http://提瓦特初等师范学院.xyz) | 北京师范学院 | :x: Connection error |
 | [北京原神第八中学.com](http://www.北京原神第八中学.com) | 北京市第八中学 | :x: NXDOMAIN |
-| [中关村原神中学.com](https://www.中关村原神中学.com) | 北京市中关村中学 | :white_check_mark:  |
+| [中关村原神中学.com](http://中关村原神中学.com) | 北京市中关村中学 | :question: Connection error |
 | [中国原神学院.com](http://www.中国原神学院.com) | 北京信息科技大学 | :white_check_mark:  |
 | [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 | :white_check_mark: Redirect 301 |
 | [苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 | :x: NXDOMAIN |
