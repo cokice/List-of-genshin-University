@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有222个高校）（其中182个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有222个高校）（其中183个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-08-14 11:41 UTC+8）
+## 高校名单（2024-08-14 15:39 UTC+8）
 
 
 状态说明：
@@ -178,7 +178,7 @@
 | [原神启动.store](https://www.原神启动.store) | 汕头大学 | :white_check_mark: Meta Refresh |
 | [汕头原神学院.com](https://汕头原神学院.com) | 汕头职业技术学院 | :white_check_mark: Redirect 301 |
 | [上海原神大学.top](http://上海原神大学.top) | 上海大学 | :white_check_mark:  |
-| [原神电力大学.com](https://www.原神电力大学.com) | 上海电力大学 | :x: Connection error |
+| [原神电力大学.com](https://www.原神电力大学.com) | 上海电力大学 | :white_check_mark: Redirect 301 |
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :white_check_mark: Redirect 302 |
 | [上海op大学.com](http://上海op大学.com) | 上海海洋大学 | :white_check_mark: Redirect 301 |
 | [上海原批大学.com](http://www.上海原批大学.com) | 上海建桥学院 | :white_check_mark: Redirect 301 |
