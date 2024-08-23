@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-08-24 03:39 UTC+8）
+## 高校名单（2024-08-24 07:39 UTC+8）
 
 
 状态说明：
@@ -158,7 +158,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
 | [南京星穹铁道职业技术学院.xyz](http://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
-| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :x: Connection error |
+| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
 | [原神工程大学.com](http://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 302 |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: 403 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: Connection error |
@@ -202,7 +202,7 @@
 | [原神科技大专.com](http://www.原神科技大专.com) | 太原科技大学 | :white_check_mark: Redirect 302 |
 | [原神理工大学.com](http://原神理工大学.com) | 太原理工大学 | :white_check_mark:  |
 | [tju.天津原神大学.icu](https://tju.天津原神大学.icu) | 天津大学 | :white_check_mark: Redirect 301 |
-| [天津原神大学.top](http://天津原神大学.top) | 天津理工大学 | :question: Connection error |
+| [天津原神大学.top](http://天津原神大学.top) | 天津理工大学 | :x: 403 |
 | [原神商学院.top](http://www.原神商学院.top) | 天津商业大学 | :white_check_mark: Redirect 308 |
 | [原神师范大学.online](http://www.原神师范大学.online) | 天津师范大学 | :x: 403 |
 | [玩原神考上的.cn](http://www.玩原神考上的.cn) | 天津医科大学临床医学院 | :white_check_mark: Redirect 301 |
