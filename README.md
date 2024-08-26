@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-08-27 03:38 UTC+8）
+## 高校名单（2024-08-27 07:39 UTC+8）
 
 
 状态说明：
@@ -101,12 +101,12 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :white_check_mark: Redirect 301 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :x: Connection error |
-| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
+| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
 | [河北原神大学.com](http://河北原神大学.com) | 河北科技大学 | :white_check_mark: Redirect 301 |
 | [原神科技学院.lol](https://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
 | [河北原神大专.com](http://河北原神大专.com) | 河北师范大学 | :white_check_mark: Redirect 302 |
-| [中国原神中学.com](https://中国原神中学.com) | 合肥八中 | :white_check_mark: Redirect 301 |
+| [中国原神中学.com](https://中国原神中学.com) | 合肥八中 | :x: Connection error |
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: Connection error |
 | [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :white_check_mark: CNAME |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
@@ -157,7 +157,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
 | [南京星穹铁道职业技术学院.xyz](https://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
-| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :x: Connection error |
+| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
 | [原神工程大学.com](http://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 302 |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: 403 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: Connection error |
