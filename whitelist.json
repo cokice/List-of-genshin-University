@@ -1,5 +1,5 @@
 [
-    "edu",
+    "\\.edu(\\.[a-zA-Z0-9]+)*$",
     "hfbz\\.com",
     "sz\\.gov\\.cn"
 ]
