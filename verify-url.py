@@ -16,6 +16,7 @@ import sys
 import threading
 import traceback
 import warnings
+import tldextract
 
 
 print_lock = threading.Lock()
@@ -213,8 +214,14 @@ def get_domain(url):
 
 
 def check_whitelist(url):
-    for i in whitelist:
-        if re.search(i, url):
+    extracted = tldextract.extract(url)
+    domain = f"{extracted.domain}.{extracted.suffix}"
+    
+    for pattern in whitelist:
+        if pattern == "edu":
+            if extracted.suffix == "edu":
+                return True
+        elif re.search(pattern, domain):
             return True
     return False
 

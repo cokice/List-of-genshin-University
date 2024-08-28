@@ -1,0 +1,5 @@
+dnspython
+idna
+pypinyin
+requests
+tldextract
