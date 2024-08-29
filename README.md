@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有222个高校）（其中180个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有222个高校）（其中179个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-08-29 23:40 UTC+8）
+## 高校名单（2024-08-30 03:39 UTC+8）
 
 
 状态说明：
@@ -50,7 +50,7 @@
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
 | [原神科技大学.com](https://原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
 | [澳门原神大学.com](http://www.澳门原神大学.com) | 澳门理工大学 | :white_check_mark: CNAME |
-| [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :white_check_mark: Redirect 302 |
+| [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 | :white_check_mark:  |
 | [pku.原神.org](https://pku.原神.org) | 北京大学 | :white_check_mark: Redirect 302 |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
 | [原神风之翼技术大学.fontlos.com](https://原神风之翼技术大学.fontlos.com) | 北京航空航天大学 | :white_check_mark: Redirect 301 |
@@ -221,7 +221,7 @@
 | [原神工业大学.icu](http://原神工业大学.icu) | 西北工业大学 | :white_check_mark: Redirect 301 |
 | [中国原神大学.org](http://中国原神大学.org) | 西南科技大学 | :white_check_mark: Redirect 302 |
 | [厦门原神大学.com](http://www.厦门原神大学.com) | 厦门大学 | :question: 502 |
-| [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :white_check_mark: Redirect 302 |
+| [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :x: Connection error |
 | [璃月师范大学.com](http://www.璃月师范大学.com/) | 许昌学院 | :x: NXDOMAIN |
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :white_check_mark: Redirect 301 |
