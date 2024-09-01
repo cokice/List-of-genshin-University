@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有222个高校）（其中181个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有222个高校）（其中180个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-09-01 07:41 UTC+8）
+## 高校名单（2024-09-01 11:43 UTC+8）
 
 
 状态说明：
@@ -49,7 +49,7 @@
 | [安徽原神大学.icu](https://安徽原神大学.icu) | 安徽大学 | :white_check_mark:  |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
 | [原神科技大学.com](https://原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
-| [澳门原神大学.com](http://www.澳门原神大学.com) | 澳门理工大学 | :white_check_mark: CNAME |
+| [澳门原神大学.com](http://www.澳门原神大学.com) | 澳门理工大学 | :x: Connection error |
 | [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :white_check_mark: Redirect 303 |
 | [pku.原神.org](https://pku.原神.org) | 北京大学 | :white_check_mark: Redirect 302 |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
