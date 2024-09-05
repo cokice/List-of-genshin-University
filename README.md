@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有223个高校）（其中178个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有223个高校）（其中176个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-09-05 15:38 UTC+8）
+## 高校名单（2024-09-05 19:40 UTC+8）
 
 
 状态说明：
@@ -101,7 +101,7 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :white_check_mark: Redirect 301 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :x: Connection error |
-| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
+| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
 | [河北原神大学.com](http://河北原神大学.com) | 河北科技大学 | :white_check_mark: Redirect 301 |
 | [原神科技学院.lol](https://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
@@ -116,7 +116,7 @@
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :white_check_mark: Redirect 301 |
 | [原神带专.com](http://原神带专.com) | 湖北水利水电职业技术学院 | :x: 404 |
 | [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :x: 400 |
-| [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :white_check_mark:  |
+| [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :x: Connection error |
 | [原来你也玩原神.com](https://www.原来你也玩原神.com) | 华北科技学院 | :x: Connection error |
 | [华东原神大学.online](http://华东原神大学.online) | 华东师范大学 | :white_check_mark: Redirect 301 |
 | [原神蒸发大学.com](http://www.原神蒸发大学.com) | 华东政法大学 | :white_check_mark: Redirect 301 |
@@ -178,7 +178,7 @@
 | [原神医科大学.top](http://原神医科大学.top) | 山东第一医科大学 | :white_check_mark: Redirect 301 |
 | [原神启动.store](https://www.原神启动.store) | 汕头大学 | :white_check_mark: Meta Refresh |
 | [汕头原神学院.com](https://汕头原神学院.com) | 汕头职业技术学院 | :white_check_mark: Redirect 301 |
-| [上海原神大学.top](http://上海原神大学.top) | 上海大学 | :white_check_mark:  |
+| [上海原神大学.top](http://上海原神大学.top) | 上海大学 | :x: Connection error |
 | [原神电力大学.com](https://www.原神电力大学.com) | 上海电力大学 | :white_check_mark: Redirect 301 |
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :white_check_mark: Redirect 302 |
 | [上海op大学.com](http://上海op大学.com) | 上海海洋大学 | :white_check_mark: Redirect 301 |
