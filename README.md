@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-09-12 11:42 UTC+8）
+## 高校名单（2024-09-12 15:40 UTC+8）
 
 
 状态说明：
@@ -101,7 +101,7 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :x: 404 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :x: Connection error |
-| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
+| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
 | [河北原神大学.com](http://河北原神大学.com) | 河北科技大学 | :white_check_mark: Redirect 301 |
 | [原神科技学院.lol](https://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
@@ -197,7 +197,7 @@
 | [苏州原神大学.cn](https://苏州原神大学.cn) | 苏州城市学院 | :white_check_mark:  |
 | [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: 403 |
 | [usts.原友聚集地.top](http://usts.原友聚集地.top) | 苏州科技大学 | :white_check_mark: Meta Refresh |
-| [世界原神中学.com](https://世界原神中学.com/) | 苏州中学 | :question: DNS error |
+| [世界原神中学.com](https://世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
 | [浙江原神职业技术学院.com](https://浙江原神职业技术学院.com) | 随机跳转至部分浙江省内高职院校官网 | :white_check_mark:  |
 | [西北原神大学.com](http://www.西北原神大学.com) | 塔里木大学 | :white_check_mark:  |
 | [原神科技大专.com](http://www.原神科技大专.com) | 太原科技大学 | :white_check_mark: Redirect 302 |
