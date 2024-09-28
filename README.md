@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-09-28 15:40 UTC+8）
+## 高校名单（2024-09-28 19:39 UTC+8）
 
 
 状态说明：
@@ -149,7 +149,7 @@
 | [中国原神.com](http://中国原神.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
 | [璃月石化大学.icu](http://www.璃月石化大学.icu) | 辽宁石油化工大学 | :question: Connection error |
 | [辽宁原神大学.icu](http://www.辽宁原神大学.icu) | 辽宁石油化工大学 | :question: Connection error |
-| [伦敦原神大学.com](http://伦敦原神大学.com) | 伦敦帝国理工学院 | :question: 403 |
+| [伦敦原神大学.com](http://伦敦原神大学.com) | 伦敦帝国理工学院 | :white_check_mark: Redirect 301 |
 | [罗定原神中学.top](https://罗定原神中学.top) | 罗定实验中学 | :white_check_mark:  |
 | [洛阳原神大学.com](http://www.洛阳原神大学.com) | 洛阳职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神理工学院.com](https://www.原神理工学院.com) | 麻省理工学院 | :white_check_mark: Redirect 302 |
