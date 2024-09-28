@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-09-28 11:44 UTC+8）
+## 高校名单（2024-09-28 15:40 UTC+8）
 
 
 状态说明：
@@ -125,7 +125,7 @@
 | [原神蒸发大学.com](http://www.原神蒸发大学.com) | 华东政法大学 | :white_check_mark: Redirect 301 |
 | [华南原神大学.com](http://www.华南原神大学.com) | 华南理工大学 | :white_check_mark: Redirect 301 |
 | [华中原神大学.com](https://华中原神大学.com/) | 华中科技大学 | :white_check_mark: Redirect 308 |
-| [华中原神大学.cn](http://www.华中原神大学.cn/) | 华中师范大学 | :white_check_mark:  |
+| [华中原神大学.cn](https://www.华中原神大学.cn/) | 华中师范大学 | :white_check_mark:  |
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 | :white_check_mark: Redirect 301 |
 | [原神学院.com](http://原神学院.com) | 黄淮学院 | :white_check_mark: Redirect 301 |
 | [东北原神大学.com](http://www.东北原神大学.com) | 吉林大学 | :x: NXDOMAIN |
@@ -149,7 +149,7 @@
 | [中国原神.com](http://中国原神.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
 | [璃月石化大学.icu](http://www.璃月石化大学.icu) | 辽宁石油化工大学 | :question: Connection error |
 | [辽宁原神大学.icu](http://www.辽宁原神大学.icu) | 辽宁石油化工大学 | :question: Connection error |
-| [伦敦原神大学.com](http://伦敦原神大学.com) | 伦敦帝国理工学院 | :white_check_mark: Redirect 301 |
+| [伦敦原神大学.com](http://伦敦原神大学.com) | 伦敦帝国理工学院 | :question: 403 |
 | [罗定原神中学.top](https://罗定原神中学.top) | 罗定实验中学 | :white_check_mark:  |
 | [洛阳原神大学.com](http://www.洛阳原神大学.com) | 洛阳职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神理工学院.com](https://www.原神理工学院.com) | 麻省理工学院 | :white_check_mark: Redirect 302 |
@@ -189,7 +189,7 @@
 | [上海原神大学.cn](http://上海原神大学.cn) | 上海交通大学 | :white_check_mark: Redirect 301 |
 | [上海原神学院.net](http://上海原神学院.net) | 上海立达学院 | :white_check_mark: Redirect 302 |
 | [原神.ltd](http://原神.ltd) | 上海立达学院 | :white_check_mark: Redirect 302 |
-| [上海市原神中学.xyz](http://www.上海市原神中学.xyz) | 上海市控江中学 | :x: DNS error |
+| [上海市原神中学.xyz](http://www.上海市原神中学.xyz) | 上海市控江中学 | :x: NXDOMAIN |
 | [深圳原神大学.com](http://深圳原神大学.com) | 深圳大学 | :white_check_mark: Redirect 301 |
 | [原神高级中学.lol](http://原神高级中学.lol) | 深圳市高级中学 | :white_check_mark: Redirect 301 |
 | [深圳原神高级中学.fun](https://深圳原神高级中学.fun) | 深圳盐田高级中学 | :white_check_mark: Meta Refresh |
