@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有233个高校）（其中177个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有233个高校）（其中176个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-09-30 15:39 UTC+8）
+## 高校名单（2024-09-30 19:39 UTC+8）
 
 
 状态说明：
@@ -49,7 +49,7 @@
 | [安徽原神大学.icu](https://安徽原神大学.icu) | 安徽大学 | :white_check_mark:  |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
 | [原神科技大学.com](https://原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
-| [澳门原神大学.com](https://澳门原神大学.com) | 澳门理工大学 | :white_check_mark:  |
+| [澳门原神大学.com](https://澳门原神大学.com) | 澳门理工大学 | :x: Connection error |
 | [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :white_check_mark: Redirect 303 |
 | [pku.原神.org](https://pku.原神.org) | 北京大学 | :white_check_mark: Redirect 302 |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
@@ -70,7 +70,7 @@
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 | :white_check_mark: Redirect 301 |
 | [湖南原神大专.top](http://湖南原神大专.top) | 郴州职业技术学院 | :white_check_mark: Redirect 301 |
 | [重庆原神大学.online](https://重庆原神大学.online) | 重庆航天职业技术学院 | :white_check_mark:  |
-| [原神学校.com](https://原神学校.com) | 重庆市第八中学 | :white_check_mark: Redirect 301 |
+| [原神学校.com](https://原神学校.com) | 重庆市第八中学 | :question: Connection error |
 | [原神第一中学.xyz](http://www.原神第一中学.xyz) | 重庆市第一中学校 | :white_check_mark:  |
 | [www.cqyuanshenjgxx.nyaneko.uk](https://www.cqyuanshenjgxx.nyaneko.uk/.com) | 重庆市风景园林技工学校 | :x: NXDOMAIN |
 | [重庆原神技工学校.top](https://www.重庆原神技工学校.top) | 重庆市风景园林技工学校 | :white_check_mark: Redirect 301 |
@@ -106,7 +106,7 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :x: 404 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :x: Connection error |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
 | [河北原神大学.com](http://河北原神大学.com) | 河北科技大学 | :white_check_mark: Redirect 301 |
 | [原神科技学院.lol](https://www.原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
