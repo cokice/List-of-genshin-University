@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-10-01 15:40 UTC+8）
+## 高校名单（2024-10-01 19:39 UTC+8）
 
 
 状态说明：
@@ -106,7 +106,7 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :x: 404 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :x: Connection error |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
 | [河北原神大学.com](http://河北原神大学.com) | 河北科技大学 | :white_check_mark: Redirect 301 |
 | [原神科技学院.lol](https://www.原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
@@ -115,8 +115,8 @@
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: Connection error |
 | [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :white_check_mark: CNAME |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
-| [湖北原神大学.xyz](http://湖北原神大学.xyz) | 湖北大学 | :white_check_mark:  |
-| [湖北原神大学.xyz](http://www.湖北原神大学.xyz/原神联合学院) | 湖北大学曼城联合学院 | :white_check_mark:  |
+| [湖北原神大学.xyz](http://www.湖北原神大学.xyz) | 湖北大学 | :white_check_mark:  |
+| [湖北原神大学.xyz](http://湖北原神大学.xyz/原神联合学院) | 湖北大学曼城联合学院 | :white_check_mark:  |
 | [原神民族大学.com](https://www.原神民族大学.com) | 湖北民族大学 | :white_check_mark: Redirect 301 |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :white_check_mark: Redirect 301 |
 | [原神带专.com](http://原神带专.com) | 湖北水利水电职业技术学院 | :x: 404 |
@@ -173,7 +173,7 @@
 | [nku.天津原神大学.icu](https://nku.天津原神大学.icu) | 南开大学 | :white_check_mark: Redirect 301 |
 | [genshin.university](https://genshin.university) | 南通大学 | :white_check_mark:  |
 | [原神农业大学.com](https://原神农业大学.com/) | 内蒙古农业大学 | :white_check_mark: Redirect 301 |
-| [诺丁汉原神大学.xyz](http://诺丁汉原神大学.xyz) | 宁波诺丁汉大学 | :white_check_mark:  |
+| [诺丁汉原神大学.xyz](http://诺丁汉原神大学.xyz) | 宁波诺丁汉大学 | :white_check_mark: Redirect 301 |
 | [美国原神大学.com](http://美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
 | [提瓦特中学.top](https://www.提瓦特中学.top) | 平遥中学 | :white_check_mark: Redirect 302 |
 | [青岛城市学院原神.club](https://www.青岛城市学院原神.club) | 青岛城市学院 | :white_check_mark: Redirect 301 |
