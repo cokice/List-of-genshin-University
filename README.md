@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有233个高校）（其中173个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有233个高校）（其中174个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-10-06 03:40 UTC+8）
+## 高校名单（2024-10-06 07:41 UTC+8）
 
 
 状态说明：
@@ -106,7 +106,7 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :x: 404 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :x: Connection error |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
 | [河北原神大学.com](http://河北原神大学.com) | 河北科技大学 | :white_check_mark: Redirect 301 |
 | [原神科技学院.lol](http://www.原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
@@ -119,7 +119,7 @@
 | [湖北原神大学.xyz](http://湖北原神大学.xyz/原神联合学院) | 湖北大学曼城联合学院 | :white_check_mark:  |
 | [原神民族大学.com](https://www.原神民族大学.com) | 湖北民族大学 | :white_check_mark: Redirect 301 |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :white_check_mark: Redirect 301 |
-| [原神带专.com](http://原神带专.com) | 湖北水利水电职业技术学院 | :x: Connection error |
+| [原神带专.com](http://原神带专.com) | 湖北水利水电职业技术学院 | :x: 404 |
 | [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :white_check_mark: Meta Refresh |
 | [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :x: NXDOMAIN |
 | [原来你也玩原神.com](https://www.原来你也玩原神.com) | 华北科技学院 | :x: Connection error |
@@ -165,7 +165,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
 | [南京星穹铁道职业技术学院.xyz](https://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
-| [原神师范学院.top](https://原神师范学院.top) | 南京晓庄学院 | :x: Connection error |
+| [原神师范学院.top](https://原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
 | [原神工程大学.com](http://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 301 |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: 403 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: NXDOMAIN |
@@ -206,7 +206,7 @@
 | [苏州原神大学.cn](https://苏州原神大学.cn) | 苏州城市学院 | :white_check_mark:  |
 | [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: 403 |
 | [usts.原友聚集地.top](http://usts.原友聚集地.top) | 苏州科技大学 | :white_check_mark: Meta Refresh |
-| [世界原神中学.com](https://www.世界原神中学.com/) | 苏州中学 | :question: Connection error |
+| [世界原神中学.com](https://www.世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
 | [浙江原神职业技术学院.com](https://浙江原神职业技术学院.com) | 随机跳转至部分浙江省内高职院校官网 | :white_check_mark:  |
 | [西北原神大学.com](http://www.西北原神大学.com) | 塔里木大学 | :white_check_mark:  |
 | [原神科技大专.com](http://www.原神科技大专.com) | 太原科技大学 | :white_check_mark: Redirect 302 |
