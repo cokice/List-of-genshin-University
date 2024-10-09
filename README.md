@@ -276,7 +276,7 @@
 | [长沙原神大学.com](http://长沙原神大学.com) | 中南林业科技大学 | :white_check_mark: CNAME |
 | [原神螺蛳粉职业技术学院.com](http://原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :white_check_mark: CNAME |
 | [原神启动.com](https://www.原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
-
+| [提瓦特现代原神学院.cn](http://提瓦特现代原神学院.cn) | 辽宁现代服务职业技术学院 | :white_check_mark: Redirect 301 |
 
 
 ## 联系方式
