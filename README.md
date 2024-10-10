@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有235个高校）（其中175个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有235个高校）（其中177个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-10-11 03:41 UTC+8）
+## 高校名单（2024-10-11 07:41 UTC+8）
 
 
 状态说明：
@@ -60,7 +60,7 @@
 | [原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 | :x: NXDOMAIN |
 | [提瓦特高等师范学院.com](http://提瓦特高等师范学院.com) | 北京师范大学 | :white_check_mark: Redirect 301 |
 | [广东原神学院.com](http://广东原神学院.com) | 北京师范大学-香港浸会大学联合国际学院 | :white_check_mark: Redirect 302 |
-| [提瓦特初等师范学院.xyz](http://提瓦特初等师范学院.xyz) | 北京师范学院 | :x: Connection error |
+| [提瓦特初等师范学院.xyz](http://提瓦特初等师范学院.xyz) | 北京师范学院 | :question: 404 |
 | [北京原神第八中学.com](http://www.北京原神第八中学.com) | 北京市第八中学 | :x: NXDOMAIN |
 | [中关村原神中学.com](http://中关村原神中学.com) | 北京市中关村中学 | :white_check_mark: Redirect 301 |
 | [中国原神学院.com](http://www.中国原神学院.com) | 北京信息科技大学 | :white_check_mark:  |
@@ -167,7 +167,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
 | [南京星穹铁道职业技术学院.xyz](https://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
-| [原神师范学院.top](http://原神师范学院.top) | 南京晓庄学院 | :x: Connection error |
+| [原神师范学院.top](http://原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
 | [原神工程大学.com](http://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 301 |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: 403 |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: NXDOMAIN |
