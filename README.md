@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有235个高校）（其中178个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有235个高校）（其中179个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-10-12 11:43 UTC+8）
+## 高校名单（2024-10-12 15:39 UTC+8）
 
 
 状态说明：
@@ -49,12 +49,12 @@
 | [安徽原神大学.icu](https://安徽原神大学.icu) | 安徽大学 | :white_check_mark:  |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
 | [原神科技大学.com](https://www.原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
-| [澳门原神大学.com](https://www.澳门原神大学.com) | 澳门理工大学 | :x: Connection error |
+| [澳门原神大学.com](https://www.澳门原神大学.com) | 澳门理工大学 | :white_check_mark: CNAME |
 | [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :white_check_mark: Redirect 303 |
 | [pku.原神.org](https://pku.原神.org) | 北京大学 | :white_check_mark: Redirect 302 |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
 | [原神风之翼技术大学.fontlos.com](https://原神风之翼技术大学.fontlos.com) | 北京航空航天大学 | :white_check_mark: Redirect 301 |
-| [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学  | :white_check_mark: Redirect 302 |
+| [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 | :white_check_mark: Redirect 302 |
 | [北京原神大学.net](https://北京原神大学.net) | 北京交通大学 | :white_check_mark: Redirect 302 |
 | [北京原神大专.com](https://www.北京原神大专.com) | 北京理工大学 | :x: Connection error |
 | [原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 | :x: NXDOMAIN |
@@ -160,7 +160,7 @@
 | [洛阳原神大学.com](http://www.洛阳原神大学.com) | 洛阳职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神理工学院.com](https://www.原神理工学院.com) | 麻省理工学院 | :white_check_mark: Redirect 302 |
 | [崩坏星穹铁道.com](https://崩坏星穹铁道.com) | 南昌大学 | :white_check_mark: Redirect 301 |
-| [阿卡林原神大学.top](http://www.阿卡林原神大学.top) | 南昌航空大学 | :x: Connection error |
+| [阿卡林原神大学.top](http://www.阿卡林原神大学.top) | 南昌航空大学 | :x: 404 |
 | [南京原神大学.com](http://www.南京原神大学.com) | 南京大学 | :white_check_mark: Redirect 301 |
 | [南京浦口原神中专.xyz](http://www.南京浦口原神中专.xyz) | 南京工业大学 | :white_check_mark: Redirect 301 |
 | [玄武区原神大学.xyz](http://玄武区原神大学.xyz) | 南京林业大学 | :white_check_mark: Redirect 302 |
