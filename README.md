@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有235个高校）（其中176个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有235个高校）（其中174个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-10-26 07:40 UTC+8）
+## 高校名单（2024-10-26 11:42 UTC+8）
 
 
 状态说明：
@@ -106,7 +106,7 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :white_check_mark:  |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark: CNAME |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :white_check_mark:  |
 | [原神科技学院.lol](http://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
@@ -136,7 +136,7 @@
 | [加州原神工业大学.club](https://加州原神工业大学.club) | 加州大学伯克利分校 | :white_check_mark: Redirect 301 |
 | [加利福尼亚原神大学.com](http://加利福尼亚原神大学.com) | 加州大学圣克鲁兹分校 | :white_check_mark: Redirect 302 |
 | [加州原神大学.com](http://加州原神大学.com) | 加州大学圣塔芭芭拉分校 | :white_check_mark: Redirect 301 |
-| [江苏原神大学.com](http://www.江苏原神大学.com) | 江苏大学 | :white_check_mark: Redirect 301 |
+| [江苏原神大学.com](http://www.江苏原神大学.com) | 江苏大学 | :x: Connection error |
 | [江苏省响水中学.02.gold](http://江苏省响水中学.02.gold) | 江苏省响水中学 | :x: NXDOMAIN |
 | [云响中.02.gold](http://云响中.02.gold) | 江苏省响水中学 | :x: NXDOMAIN |
 | [江西原神大学.com](http://www.江西原神大学.com) | 江西财经大学 | :x: Connection error |
@@ -254,7 +254,7 @@
 | [浙江原神大专.icu](https://www.浙江原神大专.icu) | 浙江经济职业技术学院 | :white_check_mark: Redirect 301 |
 | [浙江原神大学.icu](http://浙江原神大学.icu/) | 浙江科技大学 | :white_check_mark: Redirect 301 |
 | [提瓦特科技大学.com](http://www.提瓦特科技大学.com) | 浙江科技学院 | :white_check_mark: Redirect 301 |
-| [浙江原批大学.com](https://浙江原批大学.com) | 浙江理工大学 | :white_check_mark: Redirect 301 |
+| [浙江原批大学.com](https://浙江原批大学.com) | 浙江理工大学 | :x: 503 |
 | [浙江原神大学.cn](https://浙江原神大学.cn) | 浙江理工大学 | :x: NXDOMAIN |
 | [临安原神大学.xyz](http://临安原神大学.xyz) | 浙江农林大学 | :question: SSLError |
 | [原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 | :x: Connection error |
