@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-10-27 19:39 UTC+8）
+## 高校名单（2024-10-27 23:39 UTC+8）
 
 
 状态说明：
@@ -106,7 +106,7 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :white_check_mark:  |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark: CNAME |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :white_check_mark:  |
 | [原神科技学院.lol](http://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
@@ -166,7 +166,7 @@
 | [玄武区原神大学.xyz](http://玄武区原神大学.xyz) | 南京林业大学 | :white_check_mark: Redirect 302 |
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
-| [南京星穹铁道职业技术学院.xyz](http://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark:  |
+| [南京星穹铁道职业技术学院.xyz](http://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark: CNAME |
 | [原神师范学院.top](http://原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
 | [原神工程大学.com](http://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 301 |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: Connection error |
@@ -219,7 +219,7 @@
 | [原神师范大学.online](http://www.原神师范大学.online) | 天津师范大学 | :x: 403 |
 | [玩原神考上的.cn](https://玩原神考上的.cn) | 天津医科大学临床医学院 | :white_check_mark: Redirect 301 |
 | [威海原神大学.cn](http://www.威海原神大学.cn) | 威海海洋职业学院 | :white_check_mark: Redirect 302 |
-| [无锡原神职业技术学院.xyz](https://无锡原神职业技术学院.xyz) | 无锡商业职业技术学院 | :white_check_mark: Redirect 302 |
+| [无锡原神职业技术学院.xyz](http://无锡原神职业技术学院.xyz) | 无锡商业职业技术学院 | :white_check_mark: CNAME |
 | [武汉原神大学.com](https://www.武汉原神大学.com) | 武汉纺织大学 | :white_check_mark: Redirect 301 |
 | [武汉原神大学.site](http://武汉原神大学.site) | 武汉工程大学 | :white_check_mark: Redirect 301 |
 | [武汉原神大学.org](http://www.武汉原神大学.org) | 武汉科技大学 | :x: NXDOMAIN |
