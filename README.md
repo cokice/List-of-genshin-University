@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有236个高校）（其中173个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有236个高校）（其中172个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-10-28 19:40 UTC+8）
+## 高校名单（2024-10-28 23:42 UTC+8）
 
 
 状态说明：
@@ -43,7 +43,7 @@
 | 网站 | 大学 | 状态 |
 | --- | --- | --- |
 | [universityofgenshin.com](https://universityofgenshin.com) | University of Melbourne | :white_check_mark: Redirect 301 |
-| [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne | :x: NXDOMAIN |
+| [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne | :x: Connection error |
 | [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 307 |
 | [ugensh.in](https://ugensh.in) | University of Sydney | :white_check_mark: Redirect 302 |
 | [安徽原神大学.icu](https://安徽原神大学.icu) | 安徽大学 | :white_check_mark:  |
@@ -238,7 +238,7 @@
 | [璃月师范大学.com](http://www.璃月师范大学.com/) | 许昌学院 | :x: NXDOMAIN |
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :white_check_mark: Redirect 301 |
-| [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :white_check_mark: Redirect 301 |
+| [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :x: Connection error |
 | [genshinedu.com](https://genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
 | [英国皇家原神学院.com](http://英国皇家原神学院.com/) | 英国皇家艺术学院 | :white_check_mark: Redirect 301 |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :white_check_mark: Redirect 301 |
