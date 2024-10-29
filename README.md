@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-10-29 19:40 UTC+8）
+## 高校名单（2024-10-29 23:42 UTC+8）
 
 
 状态说明：
@@ -70,7 +70,7 @@
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 | :white_check_mark: Redirect 301 |
 | [湖南原神大专.top](http://湖南原神大专.top) | 郴州职业技术学院 | :white_check_mark: Redirect 301 |
 | [重庆原神大学.online](https://重庆原神大学.online) | 重庆航天职业技术学院 | :x: Connection error |
-| [原神学校.com](https://原神学校.com) | 重庆市第八中学 | :question: Connection error |
+| [原神学校.com](https://原神学校.com) | 重庆市第八中学 | :white_check_mark: Redirect 301 |
 | [原神第一中学.xyz](http://www.原神第一中学.xyz) | 重庆市第一中学校 | :white_check_mark:  |
 | [www.cqyuanshenjgxx.nyaneko.uk](https://www.cqyuanshenjgxx.nyaneko.uk/.com) | 重庆市风景园林技工学校 | :x: NXDOMAIN |
 | [重庆原神技工学校.top](https://www.重庆原神技工学校.top) | 重庆市风景园林技工学校 | :white_check_mark: Redirect 301 |
@@ -97,7 +97,7 @@
 | [广西原神大学.cn](http://www.广西原神大学.cn) | 广西安全工程职业技术学院 | :white_check_mark: CNAME |
 | [世界原神大学.com](http://www.世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
 | [广西原神职业技术学院.com](https://广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :white_check_mark: CNAME |
-| [米哈游师范大学.com](https://www.米哈游师范大学.com) | 广西师范大学 | :white_check_mark: Redirect 301 |
+| [米哈游师范大学.com](http://米哈游师范大学.com) | 广西师范大学 | :white_check_mark: CNAME |
 | [原神医科大学.com](http://www.原神医科大学.com) | 广西医科大学 | :white_check_mark:  |
 | [广州原神大学.icu](https://广州原神大学.icu) | 广州南洋理工职业学院 | :x: NXDOMAIN |
 | [原神启动.space](https://www.原神启动.space) | 广州商学院 | :white_check_mark: Redirect 301 |
@@ -270,7 +270,7 @@
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 | :white_check_mark: Redirect 301 |
 | [中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 | :white_check_mark:  |
 | [中国原神大学.com](https://www.中国原神大学.com) | 中国石油大学 | :white_check_mark: Redirect 301 |
-| [中国原神大学.cc](http://中国原神大学.cc) | 中国石油大学华东 | :white_check_mark: Redirect 301 |
+| [中国原神大学.cc](http://中国原神大学.cc) | 中国石油大学华东 | :white_check_mark:  |
 | [原神消防学院.com](http://原神消防学院.com) | 中国消防救援学院 | :x: NXDOMAIN |
 | [原神高级中学.com](http://www.原神高级中学.com) | 中国药科大学 | :white_check_mark: CNAME |
 | [原神高级中学.com](http://原神高级中学.com) | 中国药科大学 | :white_check_mark: CNAME |
