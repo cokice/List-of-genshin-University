@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有236个高校）（其中167个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有236个高校）（其中168个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-03 19:39 UTC+8）
+## 高校名单（2024-11-03 23:40 UTC+8）
 
 
 状态说明：
@@ -106,7 +106,7 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :white_check_mark:  |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark: CNAME |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :white_check_mark:  |
 | [原神科技学院.lol](http://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
@@ -197,7 +197,7 @@
 | [上海原神大学附属中学.top](https://上海原神大学附属中学.top) | 上海交通大学附属中学 | :white_check_mark: Redirect 301 |
 | [上海原神学院.net](http://上海原神学院.net) | 上海立达学院 | :white_check_mark: Redirect 302 |
 | [原神.ltd](http://原神.ltd) | 上海立达学院 | :x: Connection error |
-| [上海市原神中学.xyz](http://www.上海市原神中学.xyz) | 上海市控江中学 | :x: NXDOMAIN |
+| [上海市原神中学.xyz](http://www.上海市原神中学.xyz) | 上海市控江中学 | :white_check_mark: CNAME |
 | [深圳原神大学.com](http://深圳原神大学.com) | 深圳大学 | :white_check_mark:  |
 | [原神高级中学.lol](https://原神高级中学.lol) | 深圳市高级中学 | :white_check_mark: Redirect 301 |
 | [深圳原神高级中学.fun](https://深圳原神高级中学.fun) | 深圳盐田高级中学 | :white_check_mark: Meta Refresh |
@@ -238,8 +238,8 @@
 | [璃月师范大学.com](http://www.璃月师范大学.com/) | 许昌学院 | :x: NXDOMAIN |
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :x: Connection error |
+| [genshinedu.com](http://genshinedu.com/) | 宜宾学院 | :white_check_mark: Redirect 301 |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :x: Connection error |
-| [genshinedu.com](https://www.genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
 | [英国皇家原神学院.com](http://英国皇家原神学院.com/) | 英国皇家艺术学院 | :white_check_mark: Redirect 301 |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :white_check_mark: Redirect 301 |
 | [tjut.top](http://tjut.top) | 原神 | :x: 403 |
