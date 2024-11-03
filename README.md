@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有236个高校）（其中168个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有236个高校）（其中165个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-03 23:40 UTC+8）
+## 高校名单（2024-11-04 03:40 UTC+8）
 
 
 状态说明：
@@ -80,7 +80,7 @@
 | [大连理工大学原神学院.cn](http://大连理工大学原神学院.cn) | 大连理工大学城市学院 | :white_check_mark:  |
 | [民族原神大学.cn](http://www.民族原神大学.cn) | 大连民族大学 | :white_check_mark: Redirect 302 |
 | [电子原神大学.com](https://www.电子原神大学.com) | 电子科技大学 | :white_check_mark: Redirect 302 |
-| [原神财经大学.com](http://原神财经大学.com) | 东北财经大学 | :white_check_mark: CNAME |
+| [原神财经大学.com](http://www.原神财经大学.com) | 东北财经大学 | :white_check_mark: CNAME |
 | [原神分校.com](http://原神分校.com) | 东北大学秦皇岛分校 | :white_check_mark: Redirect 301 |
 | [提瓦特林业大学.xyz](https://提瓦特林业大学.xyz/) | 东北林业大学 | :white_check_mark:  |
 | [原神农业大学.honkai.top](http://原神农业大学.honkai.top) | 东北农业大学 | :x: NXDOMAIN |
@@ -96,8 +96,8 @@
 | [原神.org](http://原神.org) | 广东药科大学 | :question: 403 |
 | [广西原神大学.cn](http://www.广西原神大学.cn) | 广西安全工程职业技术学院 | :white_check_mark: CNAME |
 | [世界原神大学.com](http://www.世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
-| [广西原神职业技术学院.com](https://广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :white_check_mark: CNAME |
-| [米哈游师范大学.com](http://米哈游师范大学.com) | 广西师范大学 | :white_check_mark: CNAME |
+| [广西原神职业技术学院.com](https://广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :x: Connection error |
+| [米哈游师范大学.com](http://米哈游师范大学.com) | 广西师范大学 | :x: Connection error |
 | [原神医科大学.com](http://www.原神医科大学.com) | 广西医科大学 | :white_check_mark:  |
 | [广州原神大学.icu](https://广州原神大学.icu) | 广州南洋理工职业学院 | :x: NXDOMAIN |
 | [原神启动.space](https://www.原神启动.space) | 广州商学院 | :white_check_mark: Redirect 301 |
@@ -105,8 +105,8 @@
 | [哈尔滨原神大学.com](http://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :x: Other Error |
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :white_check_mark:  |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
-| [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark: CNAME |
-| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
+| [提瓦特大专.com](http://www.提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark: CNAME |
+| [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :white_check_mark:  |
 | [原神科技学院.lol](http://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
@@ -158,7 +158,7 @@
 | [伦敦原神大学.com](http://伦敦原神大学.com) | 伦敦帝国理工学院 | :white_check_mark: Redirect 301 |
 | [罗定原神中学.top](http://罗定原神中学.top) | 罗定实验中学 | :question: 403 |
 | [洛阳原神大学.com](http://www.洛阳原神大学.com) | 洛阳职业技术学院 | :white_check_mark: Redirect 301 |
-| [原神理工学院.com](http://原神理工学院.com) | 麻省理工学院 | :white_check_mark: CNAME |
+| [原神理工学院.com](https://www.原神理工学院.com) | 麻省理工学院 | :white_check_mark: CNAME |
 | [崩坏星穹铁道.com](https://崩坏星穹铁道.com) | 南昌大学 | :white_check_mark: Redirect 301 |
 | [阿卡林原神大学.top](http://www.阿卡林原神大学.top) | 南昌航空大学 | :x: 404 |
 | [南京原神大学.com](http://www.南京原神大学.com) | 南京大学 | :white_check_mark: Redirect 301 |
@@ -167,7 +167,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark: Redirect 302 |
 | [南京星穹铁道职业技术学院.xyz](http://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :white_check_mark: CNAME |
-| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
+| [原神师范学院.top](https://www.原神师范学院.top) | 南京晓庄学院 | :x: 530 |
 | [原神工程大学.com](http://www.原神工程大学.com) | 南京信息工程大学 | :white_check_mark: Redirect 301 |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: Connection error |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: NXDOMAIN |
