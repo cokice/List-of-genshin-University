@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-08 07:41 UTC+8）
+## 高校名单（2024-11-08 11:43 UTC+8）
 
 
 状态说明：
@@ -160,7 +160,7 @@
 | [洛阳原神大学.com](http://www.洛阳原神大学.com) | 洛阳职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神理工学院.com](https://www.原神理工学院.com) | 麻省理工学院 | :white_check_mark: CNAME |
 | [崩坏星穹铁道.com](https://崩坏星穹铁道.com) | 南昌大学 | :white_check_mark: Redirect 301 |
-| [阿卡林原神大学.top](http://www.阿卡林原神大学.top) | 南昌航空大学 | :x: 404 |
+| [阿卡林原神大学.top](http://www.阿卡林原神大学.top) | 南昌航空大学 | :x: Connection error |
 | [南京原神大学.com](http://www.南京原神大学.com) | 南京大学 | :white_check_mark: Redirect 301 |
 | [南京浦口原神中专.xyz](http://www.南京浦口原神中专.xyz) | 南京工业大学 | :white_check_mark: Redirect 301 |
 | [玄武区原神大学.xyz](http://玄武区原神大学.xyz) | 南京林业大学 | :white_check_mark: Redirect 302 |
@@ -251,7 +251,7 @@
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :white_check_mark: Redirect 301 |
 | [东方原神大学.com](http://www.东方原神大学.com) | 浙江大学 | :x: Connection error |
 | [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :white_check_mark: CNAME |
-| [不玩原神导致的.com](http://不玩原神导致的.com/) | 浙江工商大学 | :white_check_mark:  |
+| [不玩原神导致的.com](http://不玩原神导致的.com/) | 浙江工商大学 | :white_check_mark: CNAME |
 | [浙江原神大专.icu](https://www.浙江原神大专.icu) | 浙江经济职业技术学院 | :white_check_mark: Redirect 301 |
 | [浙江原神大学.icu](http://浙江原神大学.icu/) | 浙江科技大学 | :white_check_mark: Redirect 301 |
 | [提瓦特科技大学.com](http://www.提瓦特科技大学.com) | 浙江科技学院 | :white_check_mark: Redirect 301 |
