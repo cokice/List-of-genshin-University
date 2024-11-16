@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-16 07:40 UTC+8）
+## 高校名单（2024-11-16 11:48 UTC+8）
 
 
 状态说明：
@@ -53,7 +53,7 @@
 | [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :x: Connection error |
 | [pku.原神.org](http://pku.原神.org) | 北京大学 | :white_check_mark: Redirect 301 |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :white_check_mark: Redirect 301 |
-| [原神风之翼技术大学.fontlos.com](https://原神风之翼技术大学.fontlos.com) | 北京航空航天大学 | :x: 429 |
+| [原神风之翼技术大学.fontlos.com](https://原神风之翼技术大学.fontlos.com) | 北京航空航天大学 | :white_check_mark: Redirect 301 |
 | [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 | :x: NXDOMAIN |
 | [北京原神大学.net](https://北京原神大学.net) | 北京交通大学 | :white_check_mark: Redirect 302 |
 | [北京原神大专.com](https://www.北京原神大专.com) | 北京理工大学 | :x: NXDOMAIN |
@@ -111,7 +111,7 @@
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :x: NXDOMAIN |
 | [原神科技学院.lol](http://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
 | [河北原神大专.com](http://河北原神大专.com) | 河北师范大学 | :white_check_mark: Redirect 302 |
-| [中国原神中学.com](https://中国原神中学.com) | 合肥八中 | :white_check_mark: Redirect 301 |
+| [中国原神中学.com](https://中国原神中学.com) | 合肥八中 | :x: Connection error |
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: Connection error |
 | [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :white_check_mark: CNAME |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
