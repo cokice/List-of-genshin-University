@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-18 07:42 UTC+8）
+## 高校名单（2024-11-18 10:12 UTC+8）
 
 
 状态说明：
@@ -207,6 +207,7 @@
 | [原神农业大学.cn](https://原神农业大学.cn) | 四川农业大学 | :white_check_mark:  |
 | [苏州原神大学.cn](https://苏州原神大学.cn) | 苏州城市学院 | :white_check_mark:  |
 | [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: Connection error |
+| [中国原神大学.com](https://www.中国原神大学.com) | 苏州工艺美术职业技术学院 | :white_check_mark: Redirect 301 |
 | [usts.原友聚集地.top](http://usts.原友聚集地.top) | 苏州科技大学 | :white_check_mark: Meta Refresh |
 | [世界原神中学.com](https://www.世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
 | [浙江原神职业技术学院.com](https://浙江原神职业技术学院.com) | 随机跳转至部分浙江省内高职院校官网 | :white_check_mark:  |
@@ -269,7 +270,6 @@
 | [玩原神玩的.com](http://玩原神玩的.com) | 中国科学技术大学 | :white_check_mark: Redirect 301 |
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 | :white_check_mark: Redirect 301 |
 | [中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 | :x: NXDOMAIN |
-| [中国原神大学.com](https://www.中国原神大学.com) | 苏州工艺美术职业技术学院 | :white_check_mark: Redirect 301 |
 | [中国原神大学.cc](http://中国原神大学.cc) | 中国石油大学华东 | :white_check_mark:  |
 | [原神消防学院.com](http://原神消防学院.com) | 中国消防救援学院 | :x: NXDOMAIN |
 | [原神高级中学.com](http://www.原神高级中学.com) | 中国药科大学 | :white_check_mark: CNAME |
