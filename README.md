@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有236个高校）（其中156个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有236个高校）（其中157个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-18 10:12 UTC+8）
+## 高校名单（2024-11-18 11:52 UTC+8）
 
 
 状态说明：
@@ -128,7 +128,7 @@
 | [原神蒸发大学.com](http://www.原神蒸发大学.com) | 华东政法大学 | :white_check_mark: Redirect 301 |
 | [华南原神大学.com](http://www.华南原神大学.com) | 华南理工大学 | :white_check_mark: Redirect 301 |
 | [华中原神大学.com](https://华中原神大学.com/) | 华中科技大学 | :white_check_mark: Redirect 308 |
-| [华中原神大学.cn](http://www.华中原神大学.cn/) | 华中师范大学 | :white_check_mark:  |
+| [华中原神大学.cn](https://www.华中原神大学.cn/) | 华中师范大学 | :white_check_mark:  |
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 | :white_check_mark:  |
 | [原神学院.com](http://原神学院.com) | 黄淮学院 | :white_check_mark: Redirect 301 |
 | [东北原神大学.com](http://www.东北原神大学.com) | 吉林大学 | :x: NXDOMAIN |
@@ -193,7 +193,7 @@
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :white_check_mark: Redirect 302 |
 | [上海op大学.com](http://上海op大学.com) | 上海海洋大学 | :white_check_mark: Redirect 301 |
 | [上海原批大学.com](http://www.上海原批大学.com) | 上海建桥学院 | :white_check_mark:  |
-| [上海原神大学.cn](http://上海原神大学.cn) | 上海交通大学 | :x: NXDOMAIN |
+| [上海原神大学.cn](http://上海原神大学.cn) | 上海交通大学 | :white_check_mark: Redirect 301 |
 | [上海原神大学附属中学.top](https://上海原神大学附属中学.top) | 上海交通大学附属中学 | :white_check_mark: Redirect 301 |
 | [上海原神学院.net](http://上海原神学院.net) | 上海立达学院 | :white_check_mark: Redirect 302 |
 | [原神.ltd](http://原神.ltd) | 上海立达学院 | :x: Connection error |
