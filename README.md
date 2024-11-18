@@ -269,7 +269,7 @@
 | [玩原神玩的.com](http://玩原神玩的.com) | 中国科学技术大学 | :white_check_mark: Redirect 301 |
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 | :white_check_mark: Redirect 301 |
 | [中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 | :x: NXDOMAIN |
-| [中国原神大学.com](https://www.中国原神大学.com) | 中国石油大学 | :white_check_mark: Redirect 301 |
+| [中国原神大学.com](https://www.中国原神大学.com) | 苏州工艺美术职业技术学院 | :white_check_mark: Redirect 301 |
 | [中国原神大学.cc](http://中国原神大学.cc) | 中国石油大学华东 | :white_check_mark:  |
 | [原神消防学院.com](http://原神消防学院.com) | 中国消防救援学院 | :x: NXDOMAIN |
 | [原神高级中学.com](http://www.原神高级中学.com) | 中国药科大学 | :white_check_mark: CNAME |
