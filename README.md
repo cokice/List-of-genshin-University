@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-22 15:41 UTC+8）
+## 高校名单（2024-11-22 19:40 UTC+8）
 
 
 状态说明：
@@ -80,7 +80,7 @@
 | [大连理工大学原神学院.cn](http://大连理工大学原神学院.cn) | 大连理工大学城市学院 | :x: NXDOMAIN |
 | [民族原神大学.cn](http://www.民族原神大学.cn) | 大连民族大学 | :white_check_mark: Redirect 302 |
 | [电子原神大学.com](https://www.电子原神大学.com) | 电子科技大学 | :white_check_mark: Redirect 302 |
-| [原神财经大学.com](https://原神财经大学.com) | 东北财经大学 | :white_check_mark:  |
+| [原神财经大学.com](https://原神财经大学.com) | 东北财经大学 | :white_check_mark: CNAME |
 | [原神分校.com](http://原神分校.com) | 东北大学秦皇岛分校 | :white_check_mark: Redirect 301 |
 | [提瓦特林业大学.xyz](http://提瓦特林业大学.xyz/) | 东北林业大学 | :white_check_mark:  |
 | [原神农业大学.honkai.top](http://原神农业大学.honkai.top) | 东北农业大学 | :x: NXDOMAIN |
@@ -105,7 +105,7 @@
 | [哈尔滨原神大学.com](http://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :x: Other Error |
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :x: NXDOMAIN |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
-| [提瓦特大专.com](http://www.提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark:  |
+| [提瓦特大专.com](http://www.提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark: CNAME |
 | [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :x: NXDOMAIN |
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :white_check_mark: Redirect 301 |
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :x: NXDOMAIN |
