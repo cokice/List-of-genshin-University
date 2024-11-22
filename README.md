@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-22 07:41 UTC+8）
+## 高校名单（2024-11-22 11:51 UTC+8）
 
 
 状态说明：
@@ -99,7 +99,7 @@
 | [广西原神职业技术学院.com](https://广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :white_check_mark: CNAME |
 | [米哈游师范大学.com](http://米哈游师范大学.com) | 广西师范大学 | :white_check_mark: CNAME |
 | [原神医科大学.com](http://www.原神医科大学.com) | 广西医科大学 | :x: NXDOMAIN |
-| [广州原神大学.icu](https://广州原神大学.icu) | 广州南洋理工职业学院 | :x: NXDOMAIN |
+| [广州原神大学.icu](https://广州原神大学.icu) | 广州南洋理工职业学院 | :x: Connection error |
 | [原神启动.space](https://www.原神启动.space) | 广州商学院 | :x: NXDOMAIN |
 | [原神理工大学.icu](http://www.原神理工大学.icu) | 桂林理工大学南宁分校 | :white_check_mark:  |
 | [哈尔滨原神大学.com](http://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :x: Other Error |
