@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-24 19:41 UTC+8）
+## 高校名单（2024-11-24 23:40 UTC+8）
 
 
 状态说明：
@@ -250,7 +250,7 @@
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [须弥教令院.中国](https://须弥教令院.中国/) | 云南大学 | :white_check_mark: Redirect 301 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
-| [东方原神大学.com](http://www.东方原神大学.com) | 浙江大学 | :x: Connection error |
+| [东方原神大学.com](http://www.东方原神大学.com) | 浙江大学 | :x: NXDOMAIN |
 | [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :white_check_mark: CNAME |
 | [不玩原神导致的.com](http://不玩原神导致的.com/) | 浙江工商大学 | :white_check_mark: CNAME |
 | [浙江原神大专.icu](https://www.浙江原神大专.icu) | 浙江经济职业技术学院 | :white_check_mark: Redirect 301 |
