@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-25 19:40 UTC+8）
+## 高校名单（2024-11-25 23:43 UTC+8）
 
 
 状态说明：
@@ -122,7 +122,7 @@
 | [原神带专.com](https://原神带专.com) | 湖北水利水电职业技术学院 | :x: NXDOMAIN |
 | [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :x: NXDOMAIN |
 | [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :x: NXDOMAIN |
-| [原来你也玩原神.com](https://www.原来你也玩原神.com) | 华北科技学院 | :x: Connection error |
+| [原来你也玩原神.com](https://www.原来你也玩原神.com) | 华北科技学院 | :x: NXDOMAIN |
 | [华东原神大学.online](http://华东原神大学.online) | 华东师范大学 | :x: NXDOMAIN |
 | [上海原神大学.com](http://上海原神大学.com) | 华东师范大学 | :white_check_mark: Redirect 301 |
 | [原神蒸发大学.com](http://www.原神蒸发大学.com) | 华东政法大学 | :x: NXDOMAIN |
@@ -147,7 +147,7 @@
 | [江西原神带砖.top](http://www.江西原神带砖.top/) | 井冈山大学 | :x: NXDOMAIN |
 | [北京原神学校.com](http://www.北京原神学校.com) | 景山学校远洋分校 | :white_check_mark:  |
 | [澳大利亚原神大学.com](http://www.澳大利亚原神大学.com) | 昆士兰大学 | :x: NXDOMAIN |
-| [原神怎么你了.top](http://原神怎么你了.top) | 兰州大学 | :x: Connection error |
+| [原神怎么你了.top](http://原神怎么你了.top) | 兰州大学 | :x: NXDOMAIN |
 | [原神アジア太平洋大学.jp](http://原神アジア太平洋大学.jp) | 立命館アジア太平洋大学 | :x: Connection error |
 | [原神工程技术大学.com](https://www.原神工程技术大学.com) | 辽宁工程技术大学 | :x: NXDOMAIN |
 | [玩绝区零玩的.com](http://玩绝区零玩的.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
@@ -201,7 +201,7 @@
 | [深圳原神大学.com](http://深圳原神大学.com) | 深圳大学 | :x: NXDOMAIN |
 | [原神高级中学.lol](https://原神高级中学.lol) | 深圳市高级中学 | :white_check_mark: Redirect 301 |
 | [深圳原神高级中学.fun](https://深圳原神高级中学.fun) | 深圳盐田高级中学 | :white_check_mark: Meta Refresh |
-| [沈阳原神大学.com](http://沈阳原神大学.com) | 沈阳理工大学 | :white_check_mark: Redirect 301 |
+| [沈阳原神大学.com](https://沈阳原神大学.com) | 沈阳理工大学 | :white_check_mark:  |
 | [原神民族学院.com](http://www.原神民族学院.cn) | 四川民族学院 | :white_check_mark: Redirect 301 |
 | [原神民族学院.cn](http://www.原神民族学院.cn/) | 四川民族学院 | :white_check_mark: Redirect 301 |
 | [原神农业大学.cn](https://原神农业大学.cn) | 四川农业大学 | :white_check_mark:  |
