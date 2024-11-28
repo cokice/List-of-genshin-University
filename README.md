@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-28 19:40 UTC+8）
+## 高校名单（2024-11-28 23:43 UTC+8）
 
 
 状态说明：
@@ -94,7 +94,7 @@
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :white_check_mark: Redirect 301 |
 | [广轻原神大学.com](http://www.广轻原神大学.com) | 广东轻工职业技术学院 | :x: NXDOMAIN |
 | [原神.org](http://原神.org) | 广东药科大学 | :question: 403 |
-| [广西原神大学.cn](http://www.广西原神大学.cn) | 广西安全工程职业技术学院 | :white_check_mark: Redirect 302 |
+| [广西原神大学.cn](http://www.广西原神大学.cn) | 广西安全工程职业技术学院 | :white_check_mark:  |
 | [世界原神大学.com](http://www.世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
 | [广西原神职业技术学院.com](https://广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :white_check_mark: CNAME |
 | [米哈游师范大学.com](https://米哈游师范大学.com) | 广西师范大学 | :white_check_mark: CNAME |
@@ -240,7 +240,7 @@
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :x: Connection error |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :x: Connection error |
-| [genshinedu.com](https://www.genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
+| [genshinedu.com](https://genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
 | [英国皇家原神学院.com](http://英国皇家原神学院.com/) | 英国皇家艺术学院 | :white_check_mark:  |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :white_check_mark: Redirect 301 |
 | [tjut.top](http://tjut.top) | 原神 | :x: 403 |
