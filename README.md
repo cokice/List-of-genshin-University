@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-28 07:41 UTC+8）
+## 高校名单（2024-11-28 11:52 UTC+8）
 
 
 状态说明：
@@ -206,7 +206,7 @@
 | [原神民族学院.cn](http://www.原神民族学院.cn/) | 四川民族学院 | :white_check_mark: Redirect 301 |
 | [原神农业大学.cn](https://原神农业大学.cn) | 四川农业大学 | :white_check_mark:  |
 | [苏州原神大学.cn](https://苏州原神大学.cn) | 苏州城市学院 | :x: NXDOMAIN |
-| [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: Connection error |
+| [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: NXDOMAIN |
 | [中国原神大学.com](https://www.中国原神大学.com) | 苏州工艺美术职业技术学院 | :white_check_mark: Redirect 301 |
 | [usts.原友聚集地.top](http://usts.原友聚集地.top) | 苏州科技大学 | :white_check_mark: Meta Refresh |
 | [世界原神中学.com](https://www.世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
