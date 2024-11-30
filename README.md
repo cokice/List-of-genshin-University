@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-11-30 19:40 UTC+8）
+## 高校名单（2024-11-30 23:40 UTC+8）
 
 
 状态说明：
@@ -88,7 +88,7 @@
 | [原神启动大学.top](http://www.原神启动大学.top) | 东华理工大学 | :x: Connection error |
 | [原神启动大学.com](https://原神启动大学.com/) | 东南大学 | :white_check_mark: Redirect 301 |
 | [美国原神学院.com](http://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
-| [seniorhigh.提瓦特超自然现象研究院.tech](http://seniorhigh.提瓦特超自然现象研究院.tech) | 福州第十中学 | :white_check_mark: Redirect 301 |
+| [seniorhigh.提瓦特超自然现象研究院.tech](https://seniorhigh.提瓦特超自然现象研究院.tech) | 福州第十中学 | :white_check_mark: Redirect 301 |
 | [原神大专.com](http://www.原神大专.com) | 广东财贸职业学院 | :white_check_mark: Redirect 302 |
 | [广州原神大学.com](http://www.广州原神大学.com) | 广东技术师范大学 | :x: NXDOMAIN |
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :white_check_mark: Redirect 301 |
@@ -148,7 +148,7 @@
 | [北京原神学校.com](http://www.北京原神学校.com) | 景山学校远洋分校 | :x: Connection error |
 | [澳大利亚原神大学.com](http://www.澳大利亚原神大学.com) | 昆士兰大学 | :x: NXDOMAIN |
 | [原神怎么你了.top](http://原神怎么你了.top) | 兰州大学 | :x: NXDOMAIN |
-| [原神アジア太平洋大学.jp](http://原神アジア太平洋大学.jp) | 立命館アジア太平洋大学 | :x: Connection error |
+| [原神アジア太平洋大学.jp](http://原神アジア太平洋大学.jp) | 立命館アジア太平洋大学 | :x: NXDOMAIN |
 | [原神工程技术大学.com](https://www.原神工程技术大学.com) | 辽宁工程技术大学 | :x: NXDOMAIN |
 | [玩绝区零玩的.com](http://玩绝区零玩的.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
 | [中国原神.com](http://中国原神.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
