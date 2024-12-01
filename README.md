@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-12-01 19:40 UTC+8）
+## 高校名单（2024-12-01 23:41 UTC+8）
 
 
 状态说明：
@@ -179,7 +179,7 @@
 | [美国原神大学.com](http://美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
 | [提瓦特中学.top](http://提瓦特中学.top) | 平遥中学 | :white_check_mark:  |
 | [青岛城市学院原神.club](https://www.青岛城市学院原神.club) | 青岛城市学院 | :white_check_mark: Redirect 301 |
-| [青岛原神大学.com](http://青岛原神大学.com) | 青岛科技大学 | :x: Connection error |
+| [青岛原神大学.com](http://青岛原神大学.com) | 青岛科技大学 | :x: NXDOMAIN |
 | [tsinghua.原神.org](https://tsinghua.原神.org) | 清华大学 | :white_check_mark: Redirect 302 |
 | [原神启动中学.cn](http://原神启动中学.cn) | 人大附中ICC | :x: NXDOMAIN |
 | [提瓦特大学.com](http://www.提瓦特大学.com) | 山东大学 | :x: NXDOMAIN |
