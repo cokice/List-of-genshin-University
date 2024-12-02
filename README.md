@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-12-02 07:41 UTC+8）
+## 高校名单（2024-12-02 11:53 UTC+8）
 
 
 状态说明：
@@ -136,7 +136,7 @@
 | [加州原神工业大学.club](https://加州原神工业大学.club) | 加州大学伯克利分校 | :x: NXDOMAIN |
 | [加利福尼亚原神大学.com](http://加利福尼亚原神大学.com) | 加州大学圣克鲁兹分校 | :white_check_mark: Redirect 302 |
 | [加州原神大学.com](http://加州原神大学.com) | 加州大学圣塔芭芭拉分校 | :white_check_mark: Redirect 301 |
-| [江苏原神大学.com](http://www.江苏原神大学.com) | 江苏大学 | :x: Connection error |
+| [江苏原神大学.com](http://www.江苏原神大学.com) | 江苏大学 | :x: NXDOMAIN |
 | [江苏省响水中学.02.gold](http://江苏省响水中学.02.gold) | 江苏省响水中学 | :x: NXDOMAIN |
 | [云响中.02.gold](http://云响中.02.gold) | 江苏省响水中学 | :x: NXDOMAIN |
 | [江西原神大学.com](http://www.江西原神大学.com) | 江西财经大学 | :x: NXDOMAIN |
