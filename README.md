@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有243个高校）（其中114个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有243个高校）（其中115个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-12-09 15:41 UTC+8）
+## 高校名单（2024-12-09 19:40 UTC+8）
 
 
 状态说明：
@@ -94,7 +94,7 @@
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :x: Connection error |
 | [广轻原神大学.com](http://www.广轻原神大学.com) | 广东轻工职业技术学院 | :x: NXDOMAIN |
 | [原神.org](http://原神.org) | 广东药科大学 | :question: 403 |
-| [广西原神大学.cn](http://www.广西原神大学.cn) | 广西安全工程职业技术学院 | :white_check_mark:  |
+| [广西原神大学.cn](http://www.广西原神大学.cn) | 广西安全工程职业技术学院 | :white_check_mark: Redirect 302 |
 | [世界原神大学.com](http://www.世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
 | [广西原神职业技术学院.com](https://www.广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :x: NXDOMAIN |
 | [米哈游师范大学.com](https://米哈游师范大学.com) | 广西师范大学 | :white_check_mark: CNAME |
@@ -197,7 +197,7 @@
 | [上海原神大学.cn](http://上海原神大学.cn) | 上海交通大学 | :white_check_mark: Redirect 301 |
 | [上海原神大学附属中学.top](https://上海原神大学附属中学.top) | 上海交通大学附属中学 | :white_check_mark: Redirect 301 |
 | [上海原神学院.net](http://上海原神学院.net) | 上海立达学院 | :x: NXDOMAIN |
-| [原神.ltd](http://原神.ltd) | 上海立达学院 | :x: Connection error |
+| [原神.ltd](http://原神.ltd) | 上海立达学院 | :x: NXDOMAIN |
 | [上海市原神中学.xyz](http://www.上海市原神中学.xyz) | 上海市控江中学 | :white_check_mark: CNAME |
 | [深圳原神大学.com](http://深圳原神大学.com) | 深圳大学 | :x: NXDOMAIN |
 | [原神高级中学.lol](https://原神高级中学.lol) | 深圳市高级中学 | :white_check_mark: Redirect 301 |
@@ -237,7 +237,7 @@
 | [长安原神大学.com](http://www.长安原神大学.com) | 西安科技大学 | :x: NXDOMAIN |
 | [原神涉外办事处.com](http://www.原神涉外办事处.com) | 西安外事学院 | :x: NXDOMAIN |
 | [原神工业大学.icu](http://原神工业大学.icu) | 西北工业大学 | :x: NXDOMAIN |
-| [中国原神大学.org](http://中国原神大学.org) | 西南科技大学 | :x: DNS error |
+| [中国原神大学.org](http://中国原神大学.org) | 西南科技大学 | :white_check_mark:  |
 | [厦门原神大学.com](http://www.厦门原神大学.com) | 厦门大学 | :x: NXDOMAIN |
 | [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :white_check_mark: Redirect 302 |
 | [璃月师范大学.com](http://www.璃月师范大学.com/) | 许昌学院 | :x: NXDOMAIN |
@@ -251,8 +251,8 @@
 | [中国科学技术大学.com](http://www.中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :white_check_mark: Redirect 302 |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :white_check_mark: Redirect 302 |
-| [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
+| [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [须弥教令院.中国](https://须弥教令院.中国/) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
