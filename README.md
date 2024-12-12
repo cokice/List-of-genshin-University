@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-12-12 23:44 UTC+8）
+## 高校名单（2024-12-13 03:40 UTC+8）
 
 
 状态说明：
@@ -227,7 +227,7 @@
 | [无锡原神职业技术学院.xyz](http://无锡原神职业技术学院.xyz) | 无锡商业职业技术学院 | :x: NXDOMAIN |
 | [武汉原神大学.com](https://www.武汉原神大学.com) | 武汉纺织大学 | :x: NXDOMAIN |
 | [武汉原神大学.site](http://武汉原神大学.site) | 武汉工程大学 | :x: NXDOMAIN |
-| [武汉原神大专.com](https://武汉原神大专.com) | 武汉工程大学 | :white_check_mark: Redirect 302 |
+| [武汉原神大专.com](https://www.武汉原神大专.com) | 武汉工程大学 | :white_check_mark: Redirect 302 |
 | [武汉原神大学.org](http://www.武汉原神大学.org) | 武汉科技大学 | :x: NXDOMAIN |
 | [武汉原神大学.fun](http://www.武汉原神大学.fun) | 武汉理工大学 | :white_check_mark: Redirect 301 |
 | [江门原神大学.com](http://www.江门原神大学.com) | 五邑大学 | :x: NXDOMAIN |
@@ -252,7 +252,7 @@
 | [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://www.中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :white_check_mark: Redirect 302 |
-| [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :white_check_mark: Redirect 302 |
+| [云南原神大学.com](https://云南原神大学.com) | 云南财经大学 | :white_check_mark: Redirect 302 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [须弥教令院.中国](https://须弥教令院.中国/) | 云南大学 | :white_check_mark: Redirect 301 |
