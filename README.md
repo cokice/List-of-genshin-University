@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有245个高校）（其中111个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有245个高校）（其中109个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-12-17 19:39 UTC+8）
+## 高校名单（2024-12-17 23:43 UTC+8）
 
 
 状态说明：
@@ -67,7 +67,7 @@
 | [提瓦特超自然现象研究院.tech](https://提瓦特超自然现象研究院.tech) | 北京邮电大学 | :white_check_mark: Redirect 301 |
 | [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 | :x: NXDOMAIN |
 | [s.csu.st/玩原神导致的](https://s.csu.st/%E7%8E%A9%E5%8E%9F%E7%A5%9E%E5%AF%BC%E8%87%B4%E7%9A%84) | 长沙理工大学 | :white_check_mark: CNAME |
-| [玩原神不如玩.csu.st](https://玩原神不如玩.csu.st/) | 长沙理工大学 | :white_check_mark: Redirect 301 |
+| [玩原神不如玩.csu.st](https://玩原神不如玩.csu.st/) | 长沙理工大学 | :x: Connection error |
 | [苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 | :x: NXDOMAIN |
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 | :x: NXDOMAIN |
 | [湖南原神大专.top](http://湖南原神大专.top) | 郴州职业技术学院 | :x: NXDOMAIN |
@@ -246,21 +246,21 @@
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :x: NXDOMAIN |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :x: NXDOMAIN |
-| [genshinedu.com](https://genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
+| [genshinedu.com](https://www.genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
 | [英国皇家原神学院.com](https://英国皇家原神学院.com/) | 英国皇家艺术学院 | :white_check_mark:  |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :x: NXDOMAIN |
 | [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://www.中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :white_check_mark: Redirect 302 |
 | [云南原神大学.com](https://云南原神大学.com) | 云南财经大学 | :white_check_mark: Redirect 302 |
-| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
+| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [须弥教令院.中国](https://须弥教令院.中国/) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
 | [东方原神大学.com](http://www.东方原神大学.com) | 浙江大学 | :white_check_mark: Redirect 301 |
 | [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :x: NXDOMAIN |
-| [不玩原神导致的.com](https://不玩原神导致的.com/) | 浙江工商大学 | :white_check_mark: CNAME |
+| [不玩原神导致的.com](https://不玩原神导致的.com/) | 浙江工商大学 | :x: NXDOMAIN |
 | [浙江原神大专.icu](https://www.浙江原神大专.icu) | 浙江经济职业技术学院 | :white_check_mark: Redirect 301 |
 | [浙江原神大学.icu](http://浙江原神大学.icu/) | 浙江科技大学 | :x: Connection error |
 | [提瓦特科技大学.com](http://www.提瓦特科技大学.com) | 浙江科技学院 | :white_check_mark: Redirect 301 |
