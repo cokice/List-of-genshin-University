@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有245个高校）（其中107个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有245个高校）（其中105个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-12-19 19:39 UTC+8）
+## 高校名单（2024-12-19 23:41 UTC+8）
 
 
 状态说明：
@@ -66,7 +66,7 @@
 | [中国原神学院.com](http://www.中国原神学院.com) | 北京信息科技大学 | :white_check_mark:  |
 | [提瓦特超自然现象研究院.tech](https://提瓦特超自然现象研究院.tech) | 北京邮电大学 | :white_check_mark: Redirect 301 |
 | [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 | :x: NXDOMAIN |
-| [玩原神不如玩.csu.st](http://玩原神不如玩.csu.st/) | 长沙理工大学 | :x: 403 |
+| [玩原神不如玩.csu.st](http://玩原神不如玩.csu.st/) | 长沙理工大学 | :white_check_mark: Redirect 301 |
 | [s.csu.st/玩原神导致的](https://s.csu.st/%E7%8E%A9%E5%8E%9F%E7%A5%9E%E5%AF%BC%E8%87%B4%E7%9A%84) | 长沙理工大学 | :white_check_mark: CNAME |
 | [苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 | :x: NXDOMAIN |
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 | :x: NXDOMAIN |
@@ -118,8 +118,8 @@
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: NXDOMAIN |
 | [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :white_check_mark: CNAME |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
-| [湖北原神大学.xyz](http://湖北原神大学.xyz) | 湖北大学 | :white_check_mark:  |
-| [湖北原神大学.xyz](http://湖北原神大学.xyz/原神联合学院) | 湖北大学曼城联合学院 | :white_check_mark:  |
+| [湖北原神大学.xyz](http://湖北原神大学.xyz) | 湖北大学 | :x: NXDOMAIN |
+| [湖北原神大学.xyz](http://湖北原神大学.xyz/原神联合学院) | 湖北大学曼城联合学院 | :x: NXDOMAIN |
 | [原神民族大学.com](https://www.原神民族大学.com) | 湖北民族大学 | :white_check_mark: Redirect 301 |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :x: NXDOMAIN |
 | [原神带专.com](https://原神带专.com) | 湖北水利水电职业技术学院 | :x: NXDOMAIN |
@@ -247,7 +247,7 @@
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :x: NXDOMAIN |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :x: NXDOMAIN |
 | [genshinedu.com](https://www.genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
-| [英国皇家原神学院.com](https://英国皇家原神学院.com/) | 英国皇家艺术学院 | :white_check_mark:  |
+| [英国皇家原神学院.com](https://英国皇家原神学院.com/) | 英国皇家艺术学院 | :x: SSLError |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :x: NXDOMAIN |
 | [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://www.中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
