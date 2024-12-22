@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有245个高校）（其中102个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有245个高校）（其中103个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-12-22 19:38 UTC+8）
+## 高校名单（2024-12-22 23:38 UTC+8）
 
 
 状态说明：
@@ -66,8 +66,8 @@
 | [中国原神学院.com](http://www.中国原神学院.com) | 北京信息科技大学 | :white_check_mark:  |
 | [提瓦特超自然现象研究院.tech](https://提瓦特超自然现象研究院.tech) | 北京邮电大学 | :white_check_mark: Redirect 301 |
 | [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 | :x: NXDOMAIN |
+| [玩原神不如玩.csu.st](http://玩原神不如玩.csu.st/) | 长沙理工大学 | :white_check_mark: Redirect 301 |
 | [s.csu.st/玩原神导致的](https://s.csu.st/%E7%8E%A9%E5%8E%9F%E7%A5%9E%E5%AF%BC%E8%87%B4%E7%9A%84) | 长沙理工大学 | :white_check_mark: CNAME |
-| [玩原神不如玩.csu.st](https://玩原神不如玩.csu.st/) | 长沙理工大学 | :x: Connection error |
 | [苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 | :x: NXDOMAIN |
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 | :x: NXDOMAIN |
 | [湖南原神大专.top](http://湖南原神大专.top) | 郴州职业技术学院 | :x: NXDOMAIN |
@@ -76,7 +76,7 @@
 | [原神第一中学.xyz](http://原神第一中学.xyz) | 重庆市第一中学校 | :white_check_mark:  |
 | [www.cqyuanshenjgxx.nyaneko.uk](https://www.cqyuanshenjgxx.nyaneko.uk/.com) | 重庆市风景园林技工学校 | :x: NXDOMAIN |
 | [重庆原神技工学校.top](https://www.重庆原神技工学校.top) | 重庆市风景园林技工学校 | :white_check_mark: Redirect 301 |
-| [不玩原神.fun](https://www.不玩原神.fun) | 重庆水利水电职业技术学院 | :white_check_mark: CNAME |
+| [不玩原神.fun](https://www.不玩原神.fun) | 重庆水利水电职业技术学院 | :white_check_mark:  |
 | [cqupt.原友聚集地.top](http://cqupt.原友聚集地.top) | 重庆邮电大学 | :white_check_mark: Redirect 308 |
 | [op.wiki](https://www.op.wiki) | 重庆邮电大学 | :white_check_mark: Redirect 301 |
 | [大连理工大学原神学院.cn](http://大连理工大学原神学院.cn) | 大连理工大学城市学院 | :x: NXDOMAIN |
@@ -266,7 +266,7 @@
 | [提瓦特科技大学.com](http://www.提瓦特科技大学.com) | 浙江科技学院 | :white_check_mark: Redirect 301 |
 | [浙江原批大学.com](http://浙江原批大学.com) | 浙江理工大学 | :x: NXDOMAIN |
 | [浙江原神大学.cn](https://浙江原神大学.cn) | 浙江理工大学 | :x: NXDOMAIN |
-| [临安原神大学.xyz](https://临安原神大学.xyz) | 浙江农林大学 | :white_check_mark: CNAME |
+| [临安原神大学.xyz](https://www.临安原神大学.xyz) | 浙江农林大学 | :white_check_mark:  |
 | [原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 | :x: NXDOMAIN |
 | [浙江原神大学.com](http://www.浙江原神大学.com) | 浙江万里学院 | :white_check_mark: Redirect 301 |
 | [河南原神大学.com](http://www.河南原神大学.com) | 郑州轻工业大学 | :white_check_mark: Redirect 301 |
