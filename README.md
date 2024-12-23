@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-12-23 07:39 UTC+8）
+## 高校名单（2024-12-23 11:44 UTC+8）
 
 
 状态说明：
@@ -90,7 +90,7 @@
 | [原神启动大学.top](http://www.原神启动大学.top) | 东华理工大学 | :x: NXDOMAIN |
 | [原神启动大学.com](https://原神启动大学.com/) | 东南大学 | :white_check_mark: Redirect 301 |
 | [美国原神学院.com](http://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
-| [seniorhigh.提瓦特超自然现象研究院.tech](https://seniorhigh.提瓦特超自然现象研究院.tech) | 福州第十中学 | :white_check_mark: Redirect 301 |
+| [seniorhigh.提瓦特超自然现象研究院.tech](http://seniorhigh.提瓦特超自然现象研究院.tech) | 福州第十中学 | :white_check_mark: Redirect 301 |
 | [原神大专.com](http://www.原神大专.com) | 广东财贸职业学院 | :white_check_mark: Redirect 302 |
 | [广州原神大学.com](http://www.广州原神大学.com) | 广东技术师范大学 | :x: NXDOMAIN |
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :x: Connection error |
