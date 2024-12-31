@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-12-31 07:38 UTC+8）
+## 高校名单（2024-12-31 11:42 UTC+8）
 
 
 状态说明：
@@ -113,7 +113,7 @@
 | [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :white_check_mark: Redirect 301 |
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :x: NXDOMAIN |
 | [原神科技学院.lol](https://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
-| [河北原神大专.com](https://河北原神大专.com) | 河北师范大学 | :white_check_mark: CNAME |
+| [河北原神大专.com](https://河北原神大专.com) | 河北师范大学 | :white_check_mark:  |
 | [中国原神中学.com](https://www.中国原神中学.com) | 合肥八中 | :white_check_mark: Redirect 301 |
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: NXDOMAIN |
 | [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :white_check_mark: CNAME |
