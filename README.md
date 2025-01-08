@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-01-08 23:41 UTC+8）
+## 高校名单（2025-01-09 03:39 UTC+8）
 
 
 状态说明：
@@ -67,7 +67,7 @@
 | [提瓦特超自然现象研究院.tech](https://提瓦特超自然现象研究院.tech) | 北京邮电大学 | :white_check_mark: Redirect 301 |
 | [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 | :x: NXDOMAIN |
 | [s.csu.st/玩原神导致的](https://s.csu.st/%E7%8E%A9%E5%8E%9F%E7%A5%9E%E5%AF%BC%E8%87%B4%E7%9A%84) | 长沙理工大学 | :white_check_mark: CNAME |
-| [玩原神不如玩.csu.st](https://玩原神不如玩.csu.st/) | 长沙理工大学 | :white_check_mark: Redirect 301 |
+| [玩原神不如玩.csu.st](https://玩原神不如玩.csu.st/) | 长沙理工大学 | :x: Connection error |
 | [苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 | :x: NXDOMAIN |
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 | :x: NXDOMAIN |
 | [湖南原神大专.top](http://湖南原神大专.top) | 郴州职业技术学院 | :x: NXDOMAIN |
@@ -110,7 +110,7 @@
 | [提瓦特大专.com](http://www.提瓦特大专.com) | 哈尔滨商业大学 | :x: NXDOMAIN |
 | [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :x: NXDOMAIN |
 | [原神医科大学.cn](http://www.原神医科大学.cn) | 海南医科大学 | :x: Other Error |
-| [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :x: Connection error |
+| [原神高级中学.org](http://原神高级中学.org) | 杭州高级中学 | :white_check_mark:  |
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :x: NXDOMAIN |
 | [原神科技学院.lol](https://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
 | [河北原神大专.com](https://河北原神大专.com) | 河北师范大学 | :white_check_mark: CNAME |
