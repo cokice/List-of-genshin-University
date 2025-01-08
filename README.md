@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有245个高校）（其中101个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有245个高校）（其中100个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-01-08 11:43 UTC+8）
+## 高校名单（2025-01-08 15:38 UTC+8）
 
 
 状态说明：
@@ -67,7 +67,7 @@
 | [提瓦特超自然现象研究院.tech](https://提瓦特超自然现象研究院.tech) | 北京邮电大学 | :white_check_mark: Redirect 301 |
 | [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 | :x: NXDOMAIN |
 | [s.csu.st/玩原神导致的](https://s.csu.st/%E7%8E%A9%E5%8E%9F%E7%A5%9E%E5%AF%BC%E8%87%B4%E7%9A%84) | 长沙理工大学 | :white_check_mark: CNAME |
-| [玩原神不如玩.csu.st](https://玩原神不如玩.csu.st/) | 长沙理工大学 | :white_check_mark: Redirect 301 |
+| [玩原神不如玩.csu.st](https://玩原神不如玩.csu.st/) | 长沙理工大学 | :x: Connection error |
 | [苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 | :x: NXDOMAIN |
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 | :x: NXDOMAIN |
 | [湖南原神大专.top](http://湖南原神大专.top) | 郴州职业技术学院 | :x: NXDOMAIN |
@@ -133,7 +133,7 @@
 | [华中原神大学.com](https://华中原神大学.com/) | 华中科技大学 | :white_check_mark: Redirect 308 |
 | [华中原神大学.cn](http://www.华中原神大学.cn/) | 华中师范大学 | :x: NXDOMAIN |
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 | :x: NXDOMAIN |
-| [原神学院.com](http://原神学院.com) | 黄淮学院 | :white_check_mark: Redirect 301 |
+| [原神学院.com](http://原神学院.com) | 黄淮学院 | :question: Connection error |
 | [东北原神大学.com](http://www.东北原神大学.com) | 吉林大学 | :x: NXDOMAIN |
 | [广东原神公益大学.com](http://www.广东原神公益大学.com) | 暨南大学 | :white_check_mark:  |
 | [加州原神工业大学.club](https://加州原神工业大学.club) | 加州大学伯克利分校 | :x: NXDOMAIN |
@@ -241,7 +241,7 @@
 | [原神工业大学.icu](http://原神工业大学.icu) | 西北工业大学 | :x: NXDOMAIN |
 | [中国原神大学.org](http://中国原神大学.org) | 西南科技大学 | :x: NXDOMAIN |
 | [厦门原神大学.com](http://www.厦门原神大学.com) | 厦门大学 | :x: NXDOMAIN |
-| [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :white_check_mark: CNAME |
+| [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :white_check_mark: Redirect 301 |
 | [璃月师范大学.com](http://www.璃月师范大学.com/) | 许昌学院 | :x: NXDOMAIN |
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :x: NXDOMAIN |
