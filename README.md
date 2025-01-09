@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有245个高校）（其中99个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有245个高校）（其中98个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-01-09 07:38 UTC+8）
+## 高校名单（2025-01-09 11:52 UTC+8）
 
 
 状态说明：
@@ -170,7 +170,7 @@
 | [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :white_check_mark:  |
 | [南京星穹铁道职业技术学院.xyz](http://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :x: NXDOMAIN |
-| [原神师范学院.top](http://原神师范学院.top) | 南京晓庄学院 | :white_check_mark:  |
+| [原神师范学院.top](http://原神师范学院.top) | 南京晓庄学院 | :x: NXDOMAIN |
 | [原神工程大学.com](http://www.原神工程大学.com) | 南京信息工程大学 | :x: NXDOMAIN |
 | [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 | :x: NXDOMAIN |
 | [南京原神大学.cn](http://南京原神大学.cn) | 南京邮电大学 | :x: NXDOMAIN |
@@ -262,7 +262,7 @@
 | [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :x: NXDOMAIN |
 | [不玩原神导致的.com](https://不玩原神导致的.com/) | 浙江工商大学 | :x: NXDOMAIN |
 | [浙江原神大专.icu](https://www.浙江原神大专.icu) | 浙江经济职业技术学院 | :white_check_mark: Redirect 301 |
-| [浙江原神大学.icu](http://浙江原神大学.icu/) | 浙江科技大学 | :x: Connection error |
+| [浙江原神大学.icu](http://浙江原神大学.icu/) | 浙江科技大学 | :x: NXDOMAIN |
 | [提瓦特科技大学.com](http://www.提瓦特科技大学.com) | 浙江科技学院 | :white_check_mark: Redirect 301 |
 | [浙江原批大学.com](http://浙江原批大学.com) | 浙江理工大学 | :x: NXDOMAIN |
 | [浙江原神大学.cn](https://浙江原神大学.cn) | 浙江理工大学 | :x: NXDOMAIN |
