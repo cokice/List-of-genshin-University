@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有246个高校）（其中101个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有246个高校）（其中100个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-01-17 03:38 UTC+8）
+## 高校名单（2025-01-17 07:38 UTC+8）
 
 
 状态说明：
@@ -105,7 +105,7 @@
 | [原神启动.space](https://www.原神启动.space) | 广州商学院 | :x: NXDOMAIN |
 | [原神理工大学.icu](http://www.原神理工大学.icu) | 桂林理工大学南宁分校 | :x: NXDOMAIN |
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :x: NXDOMAIN |
-| [哈尔滨原神大学.com](http://哈尔滨原神大学.com) | 哈尔滨工程大学 | :question: 502 |
+| [哈尔滨原神大学.com](http://哈尔滨原神大学.com) | 哈尔滨工程大学 | :x: Other Error |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://www.提瓦特大专.com) | 哈尔滨商业大学 | :x: NXDOMAIN |
 | [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :x: NXDOMAIN |
@@ -254,8 +254,8 @@
 | [中国科学技术大学.com](http://www.中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :white_check_mark: Redirect 302 |
 | [云南原神大学.com](https://www.云南原神大学.com) | 云南财经大学 | :white_check_mark: Redirect 302 |
-| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
+| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [须弥教令院.中国](https://须弥教令院.中国/) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
