@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有246个高校）（其中95个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有246个高校）（其中96个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-01-30 15:38 UTC+8）
+## 高校名单（2025-01-30 19:38 UTC+8）
 
 
 状态说明：
@@ -178,7 +178,7 @@
 | [原神启动.club](http://www.原神启动.club) | 南开大学 | :x: NXDOMAIN |
 | [nku.天津原神大学.icu](https://nku.天津原神大学.icu) | 南开大学 | :x: NXDOMAIN |
 | [genshin.university](http://www.genshin.university) | 南通大学 | :x: NXDOMAIN |
-| [原神农业大学.com](https://原神农业大学.com/) | 内蒙古农业大学 | :x: Connection error |
+| [原神农业大学.com](https://原神农业大学.com/) | 内蒙古农业大学 | :white_check_mark: Redirect 301 |
 | [诺丁汉原神大学.xyz](http://诺丁汉原神大学.xyz) | 宁波诺丁汉大学 | :white_check_mark: Redirect 301 |
 | [美国原神大学.com](http://美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
 | [提瓦特中学.top](http://提瓦特中学.top) | 平遥中学 | :x: NXDOMAIN |
