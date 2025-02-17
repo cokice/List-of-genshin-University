@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有247个高校）（其中94个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有247个高校）（其中92个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-02-18 03:38 UTC+8）
+## 高校名单（2025-02-18 07:38 UTC+8）
 
 
 状态说明：
@@ -207,8 +207,8 @@
 | [原神高级中学.lol](https://原神高级中学.lol) | 深圳市高级中学 | :white_check_mark: Redirect 301 |
 | [深圳原神高级中学.fun](https://深圳原神高级中学.fun) | 深圳盐田高级中学 | :white_check_mark: Meta Refresh |
 | [沈阳原神大学.com](https://沈阳原神大学.com) | 沈阳理工大学 | :white_check_mark:  |
-| [原神民族学院.com](http://www.原神民族学院.cn) | 四川民族学院 | :white_check_mark: Redirect 301 |
-| [原神民族学院.cn](http://www.原神民族学院.cn/) | 四川民族学院 | :white_check_mark: Redirect 301 |
+| [原神民族学院.com](http://www.原神民族学院.cn) | 四川民族学院 | :x: NXDOMAIN |
+| [原神民族学院.cn](http://www.原神民族学院.cn/) | 四川民族学院 | :x: NXDOMAIN |
 | [原神农业大学.cn](https://www.原神农业大学.cn) | 四川农业大学 | :white_check_mark:  |
 | [苏州原神大学.cn](https://苏州原神大学.cn) | 苏州城市学院 | :x: NXDOMAIN |
 | [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: NXDOMAIN |
