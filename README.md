@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有249个高校）（其中90个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有249个高校）（其中92个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-02-25 11:45 UTC+8）
+## 高校名单（2025-02-25 15:38 UTC+8）
 
 
 状态说明：
@@ -91,7 +91,7 @@
 | [原神启动大学.com](https://原神启动大学.com/) | 东南大学 | :white_check_mark: Redirect 301 |
 | [美国原神学院.com](http://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
 | [seniorhigh.提瓦特超自然现象研究院.tech](https://seniorhigh.提瓦特超自然现象研究院.tech) | 福州第十中学 | :x: Connection error |
-| [yuanshenzhongxue.us.kg](https://yuanshenzhongxue.us.kg/) | 甘肃省兰州第一中学 | :x: NXDOMAIN |
+| [yuanshenzhongxue.us.kg](https://yuanshenzhongxue.us.kg/) | 甘肃省兰州第一中学 | :white_check_mark: Meta Refresh |
 | [原神大专.com](http://www.原神大专.com) | 广东财贸职业学院 | :white_check_mark: Redirect 302 |
 | [广州原神大学.com](http://www.广州原神大学.com) | 广东技术师范大学 | :x: NXDOMAIN |
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :x: NXDOMAIN |
@@ -179,7 +179,7 @@
 | [原神启动.club](http://www.原神启动.club) | 南开大学 | :x: NXDOMAIN |
 | [nku.天津原神大学.icu](https://nku.天津原神大学.icu) | 南开大学 | :x: NXDOMAIN |
 | [genshin.university](http://www.genshin.university) | 南通大学 | :x: NXDOMAIN |
-| [原神农业大学.com](http://原神农业大学.com/) | 内蒙古农业大学 | :x: Connection error |
+| [原神农业大学.com](http://原神农业大学.com/) | 内蒙古农业大学 | :white_check_mark: Redirect 301 |
 | [诺丁汉原神大学.xyz](http://诺丁汉原神大学.xyz) | 宁波诺丁汉大学 | :white_check_mark: Redirect 301 |
 | [美国原神大学.com](http://美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
 | [提瓦特中学.top](http://提瓦特中学.top) | 平遥中学 | :x: NXDOMAIN |
@@ -213,7 +213,7 @@
 | [原神农业大学.cn](https://www.原神农业大学.cn) | 四川农业大学 | :white_check_mark:  |
 | [苏州原神大学.cn](https://苏州原神大学.cn) | 苏州城市学院 | :x: NXDOMAIN |
 | [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: NXDOMAIN |
-| [中国原神大学.com](https://www.中国原神大学.com) | 苏州工艺美术职业技术学院 | :white_check_mark: Redirect 301 |
+| [中国原神大学.com](https://www.中国原神大学.com) | 苏州工艺美术职业技术学院 | :question: 403 |
 | [usts.原友聚集地.top](http://usts.原友聚集地.top) | 苏州科技大学 | :white_check_mark: Meta Refresh |
 | [世界原神中学.com](https://www.世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
 | [浙江原神职业技术学院.com](https://浙江原神职业技术学院.com) | 随机跳转至部分浙江省内高职院校官网 | :x: NXDOMAIN |
