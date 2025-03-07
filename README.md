@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-03-07 07:39 UTC+8）
+## 高校名单（2025-03-07 11:47 UTC+8）
 
 
 状态说明：
@@ -207,7 +207,7 @@
 | [深圳原神大学.com](http://深圳原神大学.com) | 深圳大学 | :x: NXDOMAIN |
 | [原神高级中学.lol](https://原神高级中学.lol) | 深圳市高级中学 | :white_check_mark: Redirect 301 |
 | [深圳原神高级中学.fun](https://深圳原神高级中学.fun) | 深圳盐田高级中学 | :x: Connection error |
-| [沈阳原神大学.com](https://沈阳原神大学.com) | 沈阳理工大学 | :white_check_mark:  |
+| [沈阳原神大学.com](https://www.沈阳原神大学.com) | 沈阳理工大学 | :white_check_mark:  |
 | [原神民族学院.com](http://www.原神民族学院.cn) | 四川民族学院 | :white_check_mark:  |
 | [原神民族学院.cn](http://www.原神民族学院.cn/) | 四川民族学院 | :white_check_mark:  |
 | [原神农业大学.cn](https://www.原神农业大学.cn) | 四川农业大学 | :white_check_mark:  |
