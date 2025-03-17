@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有254个高校）（其中93个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有254个高校）（其中94个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-03-17 15:40 UTC+8）
+## 高校名单（2025-03-17 19:39 UTC+8）
 
 
 状态说明：
@@ -42,7 +42,7 @@
 
 | 网站 | 大学 | 状态 |
 | --- | --- | --- |
-| [universityofgenshin.com](https://universityofgenshin.com) | University of Melbourne | :x: NXDOMAIN |
+| [universityofgenshin.com](https://universityofgenshin.com) | University of Melbourne | :x: Connection error |
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne | :x: NXDOMAIN |
 | [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 307 |
 | [ugensh.in](https://ugensh.in) | University of Sydney | :x: NXDOMAIN |
@@ -234,7 +234,7 @@
 | [无锡原神职业技术学院.xyz](http://无锡原神职业技术学院.xyz) | 无锡商业职业技术学院 | :x: NXDOMAIN |
 | [武汉原神大学.com](https://www.武汉原神大学.com) | 武汉纺织大学 | :x: NXDOMAIN |
 | [武汉原神大学.site](http://武汉原神大学.site) | 武汉工程大学 | :x: NXDOMAIN |
-| [武汉原神大专.com](https://武汉原神大专.com) | 武汉工程大学 | :x: DNS error |
+| [武汉原神大专.com](https://武汉原神大专.com) | 武汉工程大学 | :white_check_mark: Redirect 302 |
 | [武汉原神大学.org](http://www.武汉原神大学.org) | 武汉科技大学 | :x: NXDOMAIN |
 | [武汉原神大学.fun](http://www.武汉原神大学.fun) | 武汉理工大学 | :x: NXDOMAIN |
 | [江门原神大学.com](http://www.江门原神大学.com) | 五邑大学 | :x: NXDOMAIN |
@@ -267,7 +267,7 @@
 | [须弥教令院.中国](https://须弥教令院.中国/) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
-| [东方原神大学.com](https://www.东方原神大学.com) | 浙江大学 | :x: DNS error |
+| [东方原神大学.com](https://www.东方原神大学.com) | 浙江大学 | :x: Connection error |
 | [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :x: NXDOMAIN |
 | [不玩原神导致的.com](https://不玩原神导致的.com/) | 浙江工商大学 | :x: NXDOMAIN |
 | [浙江原神大专.icu](https://www.浙江原神大专.icu) | 浙江经济职业技术学院 | :white_check_mark: Redirect 301 |
