@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-03-18 03:39 UTC+8）
+## 高校名单（2025-03-18 07:39 UTC+8）
 
 
 状态说明：
@@ -135,7 +135,7 @@
 | [华中原神大学.com](http://www.华中原神大学.com/) | 华中科技大学 | :white_check_mark: Redirect 308 |
 | [华中原神大学.cn](http://www.华中原神大学.cn/) | 华中师范大学 | :x: NXDOMAIN |
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 | :x: NXDOMAIN |
-| [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :question: Connection error |
+| [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :white_check_mark: Redirect 301 |
 | [东北原神大学.com](http://www.东北原神大学.com) | 吉林大学 | :x: NXDOMAIN |
 | [吉林大学.com](https://www.吉林大学.com) | 吉林大学 | :white_check_mark: Redirect 302 |
 | [广东原神公益大学.com](http://www.广东原神公益大学.com) | 暨南大学 | :x: NXDOMAIN |
@@ -248,7 +248,7 @@
 | [原神工业大学.icu](http://原神工业大学.icu) | 西北工业大学 | :x: NXDOMAIN |
 | [中国原神大学.org](http://中国原神大学.org) | 西南科技大学 | :x: NXDOMAIN |
 | [厦门原神大学.com](http://www.厦门原神大学.com) | 厦门大学 | :x: NXDOMAIN |
-| [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark: Redirect 302 |
+| [厦门原神高中.com](https://www.厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark: Redirect 302 |
 | [厦门原神学校.com](https://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
 | [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :white_check_mark: Redirect 301 |
 | [璃月师范大学.com](http://www.璃月师范大学.com/) | 许昌学院 | :x: NXDOMAIN |
@@ -262,8 +262,8 @@
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :x: Connection error |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :white_check_mark:  |
-| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
+| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [须弥教令院.中国](https://须弥教令院.中国/) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
