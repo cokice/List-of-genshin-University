@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-03-18 23:43 UTC+8）
+## 高校名单（2025-03-19 03:39 UTC+8）
 
 
 状态说明：
@@ -92,7 +92,7 @@
 | [原神启动大学.com](https://原神启动大学.com/) | 东南大学 | :white_check_mark: Redirect 301 |
 | [美国原神学院.com](http://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
 | [seniorhigh.提瓦特超自然现象研究院.tech](https://seniorhigh.提瓦特超自然现象研究院.tech) | 福州第十中学 | :x: Connection error |
-| [yuanshenzhongxue.us.kg](https://yuanshenzhongxue.us.kg/) | 甘肃省兰州第一中学 | :x: DNS error |
+| [yuanshenzhongxue.us.kg](https://yuanshenzhongxue.us.kg/) | 甘肃省兰州第一中学 | :x: NXDOMAIN |
 | [原神大专.com](http://www.原神大专.com) | 广东财贸职业学院 | :white_check_mark: Redirect 302 |
 | [广州原神大学.com](http://www.广州原神大学.com) | 广东技术师范大学 | :x: NXDOMAIN |
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :x: NXDOMAIN |
@@ -248,7 +248,7 @@
 | [原神工业大学.icu](http://原神工业大学.icu) | 西北工业大学 | :x: NXDOMAIN |
 | [中国原神大学.org](http://中国原神大学.org) | 西南科技大学 | :x: NXDOMAIN |
 | [厦门原神大学.com](http://www.厦门原神大学.com) | 厦门大学 | :x: NXDOMAIN |
-| [厦门原神高中.com](https://www.厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark: Redirect 302 |
+| [厦门原神高中.com](http://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark: Redirect 302 |
 | [厦门原神学校.com](https://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
 | [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :white_check_mark: Redirect 301 |
 | [璃月师范大学.com](http://www.璃月师范大学.com/) | 许昌学院 | :x: NXDOMAIN |
