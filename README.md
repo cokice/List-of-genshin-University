@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-03-19 19:39 UTC+8）
+## 高校名单（2025-03-19 23:44 UTC+8）
 
 
 状态说明：
@@ -151,7 +151,7 @@
 | [胶州市最爱玩原神的中学](https://www.胶州市最爱玩原神的中学.com) | 胶州市阜安中学 | :x: NXDOMAIN |
 | [金陵原神学院.com](https://金陵原神学院.com) | 金陵科技学院 | :white_check_mark: Redirect 301 |
 | [景德镇原神大学.com](http://www.景德镇原神大学.com) | 景德镇学院 | :x: NXDOMAIN |
-| [江西原神带砖.top](http://www.江西原神带砖.top/) | 井冈山大学 | :x: NXDOMAIN |
+| [江西原神带砖.top](http://www.江西原神带砖.top/) | 井冈山大学 | :x: Connection error |
 | [北京原神学校.com](https://北京原神学校.com) | 景山学校远洋分校 | :x: NXDOMAIN |
 | [澳大利亚原神大学.com](http://www.澳大利亚原神大学.com) | 昆士兰大学 | :x: NXDOMAIN |
 | [原神怎么你了.top](http://原神怎么你了.top) | 兰州大学 | :x: NXDOMAIN |
@@ -255,7 +255,7 @@
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :x: NXDOMAIN |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :x: NXDOMAIN |
-| [genshinedu.com](https://www.genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
+| [genshinedu.com](https://genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
 | [英国皇家原神学院.com](http://www.英国皇家原神学院.com/) | 英国皇家艺术学院 | :x: NXDOMAIN |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :x: NXDOMAIN |
 | [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
