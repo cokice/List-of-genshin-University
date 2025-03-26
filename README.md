@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有254个高校）（其中95个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有254个高校）（其中93个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-03-26 15:40 UTC+8）
+## 高校名单（2025-03-26 19:39 UTC+8）
 
 
 状态说明：
@@ -81,7 +81,7 @@
 | [cqupt.原友聚集地.top](http://cqupt.原友聚集地.top) | 重庆邮电大学 | :white_check_mark: Redirect 308 |
 | [op.wiki](https://www.op.wiki) | 重庆邮电大学 | :white_check_mark: Redirect 301 |
 | [大连理工大学原神学院.cn](http://大连理工大学原神学院.cn) | 大连理工大学城市学院 | :x: NXDOMAIN |
-| [民族原神大学.cn](http://www.民族原神大学.cn) | 大连民族大学 | :white_check_mark:  |
+| [民族原神大学.cn](http://www.民族原神大学.cn) | 大连民族大学 | :x: NXDOMAIN |
 | [电子原神大学.com](http://www.电子原神大学.com) | 电子科技大学 | :white_check_mark: Redirect 302 |
 | [原神财经大学.com](https://原神财经大学.com) | 东北财经大学 | :x: NXDOMAIN |
 | [原神分校.com](http://原神分校.com) | 东北大学秦皇岛分校 | :white_check_mark: CNAME |
@@ -158,7 +158,7 @@
 | [原神アジア太平洋大学.jp](http://原神アジア太平洋大学.jp) | 立命館アジア太平洋大学 | :x: NXDOMAIN |
 | [原神工程技术大学.com](https://www.原神工程技术大学.com) | 辽宁工程技术大学 | :x: NXDOMAIN |
 | [玩绝区零玩的.com](http://玩绝区零玩的.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
-| [中国原神.com](http://中国原神.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
+| [中国原神.com](http://中国原神.com) | 辽宁科技大学 | :x: NXDOMAIN |
 | [璃月石化大学.icu](http://www.璃月石化大学.icu) | 辽宁石油化工大学 | :x: NXDOMAIN |
 | [辽宁原神大学.icu](http://www.辽宁原神大学.icu) | 辽宁石油化工大学 | :x: NXDOMAIN |
 | [提瓦特现代原神学院.cn](http://提瓦特现代原神学院.cn) | 辽宁现代服务职业学院 | :white_check_mark: Redirect 301 |
