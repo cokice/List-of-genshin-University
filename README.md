@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-04-01 07:40 UTC+8）
+## 高校名单（2025-04-01 11:57 UTC+8）
 
 
 状态说明：
@@ -97,7 +97,7 @@
 | [广州原神大学.com](http://www.广州原神大学.com) | 广东技术师范大学 | :x: NXDOMAIN |
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :x: NXDOMAIN |
 | [广轻原神大学.com](http://www.广轻原神大学.com) | 广东轻工职业技术学院 | :x: NXDOMAIN |
-| [原神.org](https://原神.org) | 广东药科大学 | :question: 403 |
+| [原神.org](http://原神.org) | 广东药科大学 | :white_check_mark: Redirect 301 |
 | [广西原神大学.cn](http://广西原神大学.cn) | 广西安全工程职业技术学院 | :x: NXDOMAIN |
 | [世界原神大学.com](http://www.世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
 | [广西原神职业技术学院.com](https://www.广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :x: NXDOMAIN |
@@ -135,7 +135,7 @@
 | [华中原神大学.com](http://www.华中原神大学.com/) | 华中科技大学 | :white_check_mark: Redirect 308 |
 | [华中原神大学.cn](http://www.华中原神大学.cn/) | 华中师范大学 | :x: NXDOMAIN |
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 | :x: NXDOMAIN |
-| [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :white_check_mark: Redirect 301 |
+| [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :question: Connection error |
 | [东北原神大学.com](http://www.东北原神大学.com) | 吉林大学 | :x: NXDOMAIN |
 | [吉林大学.com](https://www.吉林大学.com) | 吉林大学 | :white_check_mark: Redirect 302 |
 | [广东原神公益大学.com](http://www.广东原神公益大学.com) | 暨南大学 | :x: NXDOMAIN |
@@ -287,7 +287,7 @@
 | [玩原神玩的.com](http://玩原神玩的.com) | 中国科学技术大学 | :white_check_mark: Redirect 301 |
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 | :x: NXDOMAIN |
 | [中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 | :x: NXDOMAIN |
-| [中国原神大学.cc](https://www.中国原神大学.cc) | 中国石油大学华东 | :question: 503 |
+| [中国原神大学.cc](https://www.中国原神大学.cc) | 中国石油大学华东 | :white_check_mark: Redirect 302 |
 | [原神消防学院.com](http://原神消防学院.com) | 中国消防救援学院 | :x: NXDOMAIN |
 | [原神高级中学.com](http://www.原神高级中学.com) | 中国药科大学 | :x: NXDOMAIN |
 | [原神高级中学.com](http://原神高级中学.com) | 中国药科大学 | :x: NXDOMAIN |
