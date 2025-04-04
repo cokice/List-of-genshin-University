@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-04-04 11:50 UTC+8）
+## 高校名单（2025-04-04 15:41 UTC+8）
 
 
 状态说明：
@@ -48,7 +48,7 @@
 | [ugensh.in](https://ugensh.in) | University of Sydney | :x: NXDOMAIN |
 | [安徽原神大学.icu](https://安徽原神大学.icu) | 安徽大学 | :white_check_mark:  |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
-| [原神科技大学.com](http://原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
+| [原神科技大学.com](https://原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
 | [澳门原神大学.com](http://澳门原神大学.com) | 澳门理工大学 | :x: NXDOMAIN |
 | [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :x: NXDOMAIN |
 | [pku.原神.org](http://pku.原神.org) | 北京大学 | :white_check_mark: Redirect 301 |
@@ -97,7 +97,7 @@
 | [广州原神大学.com](http://www.广州原神大学.com) | 广东技术师范大学 | :x: NXDOMAIN |
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :x: NXDOMAIN |
 | [广轻原神大学.com](http://www.广轻原神大学.com) | 广东轻工职业技术学院 | :x: NXDOMAIN |
-| [原神.org](http://www.原神.org) | 广东药科大学 | :white_check_mark: Redirect 301 |
+| [原神.org](https://原神.org) | 广东药科大学 | :white_check_mark: Redirect 302 |
 | [广西原神大学.cn](http://广西原神大学.cn) | 广西安全工程职业技术学院 | :x: NXDOMAIN |
 | [世界原神大学.com](http://www.世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
 | [广西原神职业技术学院.com](https://www.广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :x: NXDOMAIN |
@@ -114,7 +114,7 @@
 | [原神医科大学.cn](http://www.原神医科大学.cn) | 海南医科大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :x: NXDOMAIN |
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :x: NXDOMAIN |
-| [原神科技学院.lol](http://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
+| [原神科技学院.lol](https://原神科技学院.lol) | 河北农业大学现代科技学院 | :white_check_mark: Redirect 301 |
 | [河北原神大专.com](https://河北原神大专.com) | 河北师范大学 | :x: NXDOMAIN |
 | [中国原神中学.com](http://中国原神中学.com) | 合肥八中 | :x: Connection error |
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: NXDOMAIN |
