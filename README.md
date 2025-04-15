@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-04-15 19:41 UTC+8）
+## 高校名单（2025-04-15 23:43 UTC+8）
 
 
 状态说明：
@@ -293,8 +293,8 @@
 | [原神高级中学.com](http://原神高级中学.com) | 中国药科大学 | :x: NXDOMAIN |
 | [长沙原神大学.com](http://长沙原神大学.com) | 中南林业科技大学 | :x: NXDOMAIN |
 | [原神螺蛳粉职业技术学院.com](https://www.原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :x: NXDOMAIN |
-| [原神启动.com](https://www.原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [原神林业科技大学.com](https://原神林业科技大学.com) | 中南林业科技大学 | :x: NXDOMAIN |
+| [原神启动.com](https://原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [原神教育.shop](https://www.原神教育.shop) | 中央民族大学 | :x: NXDOMAIN |
 
 
