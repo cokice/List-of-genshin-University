@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-04-18 15:40 UTC+8）
+## 高校名单（2025-04-18 19:40 UTC+8）
 
 
 状态说明：
@@ -48,7 +48,7 @@
 | [ugensh.in](https://ugensh.in) | University of Sydney | :x: NXDOMAIN |
 | [安徽原神大学.icu](https://安徽原神大学.icu) | 安徽大学 | :white_check_mark:  |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
-| [原神科技大学.com](https://www.原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
+| [原神科技大学.com](https://原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
 | [澳门原神大学.com](http://澳门原神大学.com) | 澳门理工大学 | :x: NXDOMAIN |
 | [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :x: NXDOMAIN |
 | [pku.原神.org](http://pku.原神.org) | 北京大学 | :white_check_mark: Redirect 301 |
@@ -67,7 +67,7 @@
 | [中国原神学院.com](http://www.中国原神学院.com) | 北京信息科技大学 | :white_check_mark:  |
 | [提瓦特超自然现象研究院.tech](http://提瓦特超自然现象研究院.tech) | 北京邮电大学 | :x: NXDOMAIN |
 | [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 | :white_check_mark: Redirect 301 |
-| [玩原神不如玩.csu.st](http://玩原神不如玩.csu.st/) | 长沙理工大学 | :x: 404 |
+| [玩原神不如玩.csu.st](http://玩原神不如玩.csu.st/) | 长沙理工大学 | :x: 403 |
 | [s.csu.st/玩原神导致的](https://s.csu.st/%E7%8E%A9%E5%8E%9F%E7%A5%9E%E5%AF%BC%E8%87%B4%E7%9A%84) | 长沙理工大学 | :white_check_mark: CNAME |
 | [苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 | :x: NXDOMAIN |
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 | :x: NXDOMAIN |
@@ -87,7 +87,7 @@
 | [原神分校.com](http://原神分校.com) | 东北大学秦皇岛分校 | :x: NXDOMAIN |
 | [提瓦特林业大学.site](https://提瓦特林业大学.site) | 东北林业大学 | :white_check_mark:  |
 | [原神农业大学.honkai.top](http://原神农业大学.honkai.top) | 东北农业大学 | :x: NXDOMAIN |
-| [广东原神大学.com](https://广东原神大学.com) | 东莞理工学院 | :white_check_mark: Redirect 301 |
+| [广东原神大学.com](https://www.广东原神大学.com) | 东莞理工学院 | :white_check_mark: Redirect 301 |
 | [原神启动大学.top](http://www.原神启动大学.top) | 东华理工大学 | :x: NXDOMAIN |
 | [原神启动大学.com](https://原神启动大学.com/) | 东南大学 | :white_check_mark: Redirect 301 |
 | [美国原神学院.com](http://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
