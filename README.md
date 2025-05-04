@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-05-05 03:39 UTC+8）
+## 高校名单（2025-05-05 07:40 UTC+8）
 
 
 状态说明：
@@ -67,7 +67,7 @@
 | [中国原神学院.com](http://www.中国原神学院.com) | 北京信息科技大学 | :white_check_mark:  |
 | [提瓦特超自然现象研究院.tech](http://提瓦特超自然现象研究院.tech) | 北京邮电大学 | :x: NXDOMAIN |
 | [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 | :white_check_mark: Redirect 301 |
-| [玩原神不如玩.csu.st](http://玩原神不如玩.csu.st/) | 长沙理工大学 | :x: 404 |
+| [玩原神不如玩.csu.st](http://玩原神不如玩.csu.st/) | 长沙理工大学 | :x: 403 |
 | [s.csu.st/玩原神导致的](https://s.csu.st/%E7%8E%A9%E5%8E%9F%E7%A5%9E%E5%AF%BC%E8%87%B4%E7%9A%84) | 长沙理工大学 | :white_check_mark: CNAME |
 | [苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 | :x: NXDOMAIN |
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 | :x: NXDOMAIN |
@@ -92,7 +92,7 @@
 | [原神启动大学.com](https://原神启动大学.com/) | 东南大学 | :white_check_mark: Redirect 301 |
 | [美国原神学院.com](http://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
 | [seniorhigh.提瓦特超自然现象研究院.tech](http://www.seniorhigh.提瓦特超自然现象研究院.tech) | 福州第十中学 | :x: NXDOMAIN |
-| [yuanshenzhongxue.us.kg](https://yuanshenzhongxue.us.kg/) | 甘肃省兰州第一中学 | :x: NXDOMAIN |
+| [yuanshenzhongxue.us.kg](https://yuanshenzhongxue.us.kg/) | 甘肃省兰州第一中学 | :x: DNS error |
 | [原神大专.com](http://www.原神大专.com) | 广东财贸职业学院 | :white_check_mark: Redirect 302 |
 | [广州原神大学.com](http://www.广州原神大学.com) | 广东技术师范大学 | :x: NXDOMAIN |
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :x: NXDOMAIN |
