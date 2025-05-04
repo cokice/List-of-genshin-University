@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-05-04 11:58 UTC+8）
+## 高校名单（2025-05-04 15:39 UTC+8）
 
 
 状态说明：
@@ -48,7 +48,7 @@
 | [ugensh.in](https://ugensh.in) | University of Sydney | :x: NXDOMAIN |
 | [安徽原神大学.icu](https://安徽原神大学.icu) | 安徽大学 | :white_check_mark:  |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
-| [原神科技大学.com](https://www.原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
+| [原神科技大学.com](https://原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
 | [澳门原神大学.com](http://澳门原神大学.com) | 澳门理工大学 | :x: NXDOMAIN |
 | [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :x: NXDOMAIN |
 | [pku.原神.org](http://pku.原神.org) | 北京大学 | :white_check_mark: Redirect 301 |
@@ -82,7 +82,7 @@
 | [op.wiki](https://www.op.wiki) | 重庆邮电大学 | :white_check_mark: Redirect 301 |
 | [大连理工大学原神学院.cn](http://大连理工大学原神学院.cn) | 大连理工大学城市学院 | :x: NXDOMAIN |
 | [民族原神大学.cn](http://www.民族原神大学.cn) | 大连民族大学 | :x: NXDOMAIN |
-| [电子原神大学.com](https://www.电子原神大学.com) | 电子科技大学 | :white_check_mark: Redirect 302 |
+| [电子原神大学.com](https://电子原神大学.com) | 电子科技大学 | :white_check_mark: Redirect 302 |
 | [原神财经大学.com](https://原神财经大学.com) | 东北财经大学 | :x: NXDOMAIN |
 | [原神分校.com](http://原神分校.com) | 东北大学秦皇岛分校 | :x: NXDOMAIN |
 | [提瓦特林业大学.site](https://提瓦特林业大学.site) | 东北林业大学 | :white_check_mark:  |
@@ -92,7 +92,7 @@
 | [原神启动大学.com](https://原神启动大学.com/) | 东南大学 | :white_check_mark: Redirect 301 |
 | [美国原神学院.com](http://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
 | [seniorhigh.提瓦特超自然现象研究院.tech](http://www.seniorhigh.提瓦特超自然现象研究院.tech) | 福州第十中学 | :x: NXDOMAIN |
-| [yuanshenzhongxue.us.kg](https://yuanshenzhongxue.us.kg/) | 甘肃省兰州第一中学 | :x: DNS error |
+| [yuanshenzhongxue.us.kg](https://yuanshenzhongxue.us.kg/) | 甘肃省兰州第一中学 | :x: NXDOMAIN |
 | [原神大专.com](http://www.原神大专.com) | 广东财贸职业学院 | :white_check_mark: Redirect 302 |
 | [广州原神大学.com](http://www.广州原神大学.com) | 广东技术师范大学 | :x: NXDOMAIN |
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :x: NXDOMAIN |
