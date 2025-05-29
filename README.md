@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有256个高校）（其中89个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有256个高校）（其中88个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-05-30 03:40 UTC+8）
+## 高校名单（2025-05-30 07:42 UTC+8）
 
 
 状态说明：
@@ -60,7 +60,7 @@
 | [北京原神大专.com](https://www.北京原神大专.com) | 北京理工大学 | :x: NXDOMAIN |
 | [原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 | :x: NXDOMAIN |
 | [提瓦特高等师范学院.com](http://提瓦特高等师范学院.com) | 北京师范大学 | :x: NXDOMAIN |
-| [广东原神学院.com](http://广东原神学院.com) | 北京师范大学-香港浸会大学联合国际学院 | :white_check_mark: CNAME |
+| [广东原神学院.com](https://广东原神学院.com) | 北京师范大学-香港浸会大学联合国际学院 | :white_check_mark: CNAME |
 | [提瓦特初等师范学院.xyz](http://www.提瓦特初等师范学院.xyz) | 北京师范学院 | :x: Connection error |
 | [北京原神第八中学.com](http://www.北京原神第八中学.com) | 北京市第八中学 | :x: NXDOMAIN |
 | [中关村原神中学.com](http://中关村原神中学.com) | 北京市中关村中学 | :x: NXDOMAIN |
@@ -272,7 +272,7 @@
 | [东方原神大学.com](https://www.东方原神大学.com) | 浙江大学 | :x: Connection error |
 | [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :x: NXDOMAIN |
 | [不玩原神导致的.com](https://不玩原神导致的.com/) | 浙江工商大学 | :x: NXDOMAIN |
-| [浙江原神大专.icu](https://www.浙江原神大专.icu) | 浙江经济职业技术学院 | :white_check_mark: CNAME |
+| [浙江原神大专.icu](https://www.浙江原神大专.icu) | 浙江经济职业技术学院 | :x: NXDOMAIN |
 | [浙江原神大学.icu](http://浙江原神大学.icu/) | 浙江科技大学 | :x: NXDOMAIN |
 | [提瓦特科技大学.com](http://www.提瓦特科技大学.com) | 浙江科技学院 | :white_check_mark: Redirect 301 |
 | [浙江原批大学.com](http://浙江原批大学.com) | 浙江理工大学 | :x: NXDOMAIN |
