@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-06-01 12:12 UTC+8）
+## 高校名单（2025-06-01 15:41 UTC+8）
 
 
 状态说明：
@@ -211,7 +211,7 @@
 | [原神.ltd](http://原神.ltd) | 上海立达学院 | :x: NXDOMAIN |
 | [上海市原神中学.xyz](http://www.上海市原神中学.xyz) | 上海市控江中学 | :x: NXDOMAIN |
 | [深圳原神大学.com](http://深圳原神大学.com) | 深圳大学 | :x: NXDOMAIN |
-| [原神高级中学.lol](https://原神高级中学.lol) | 深圳市高级中学 | :question: Connection error |
+| [原神高级中学.lol](https://原神高级中学.lol) | 深圳市高级中学 | :white_check_mark: Redirect 301 |
 | [深圳原神高级中学.fun](http://深圳原神高级中学.fun) | 深圳盐田高级中学 | :x: NXDOMAIN |
 | [匹诺康尼工业大学.com](https://www.匹诺康尼工业大学.com) | 沈阳工业大学 | :white_check_mark: Redirect 301 |
 | [沈阳原神大学.com](http://www.沈阳原神大学.com) | 沈阳理工大学 | :white_check_mark: Redirect 301 |
@@ -258,15 +258,15 @@
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :x: NXDOMAIN |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :x: NXDOMAIN |
-| [genshinedu.com](https://www.genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
+| [genshinedu.com](https://genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
 | [英国皇家原神学院.com](http://www.英国皇家原神学院.com/) | 英国皇家艺术学院 | :x: NXDOMAIN |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :x: NXDOMAIN |
 | [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :x: NXDOMAIN |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :x: NXDOMAIN |
-| [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
+| [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
