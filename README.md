@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有257个高校）（其中90个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有257个高校）（其中91个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-06-20 03:40 UTC+8）
+## 高校名单（2025-06-20 07:43 UTC+8）
 
 
 状态说明：
@@ -60,7 +60,7 @@
 | [北京原神大专.com](https://www.北京原神大专.com) | 北京理工大学 | :x: NXDOMAIN |
 | [原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 | :x: NXDOMAIN |
 | [提瓦特高等师范学院.com](http://提瓦特高等师范学院.com) | 北京师范大学 | :x: NXDOMAIN |
-| [广东原神学院.com](https://广东原神学院.com) | 北京师范大学-香港浸会大学联合国际学院 | :white_check_mark: CNAME |
+| [广东原神学院.com](https://广东原神学院.com) | 北京师范大学-香港浸会大学联合国际学院 | :white_check_mark:  |
 | [提瓦特初等师范学院.xyz](http://www.提瓦特初等师范学院.xyz) | 北京师范学院 | :x: Connection error |
 | [北京原神第八中学.com](http://www.北京原神第八中学.com) | 北京市第八中学 | :x: NXDOMAIN |
 | [中关村原神中学.com](http://中关村原神中学.com) | 北京市中关村中学 | :x: NXDOMAIN |
@@ -74,7 +74,7 @@
 | [湖南原神大专.top](http://湖南原神大专.top) | 郴州职业技术学院 | :x: NXDOMAIN |
 | [重庆原神大学.online](https://重庆原神大学.online) | 重庆航天职业技术学院 | :x: NXDOMAIN |
 | [原神学校.com](http://原神学校.com) | 重庆市第八中学 | :x: NXDOMAIN |
-| [原神第一中学.xyz](http://www.原神第一中学.xyz) | 重庆市第一中学校 | :x: Connection error |
+| [原神第一中学.xyz](http://www.原神第一中学.xyz) | 重庆市第一中学校 | :white_check_mark:  |
 | [www.cqyuanshenjgxx.nyaneko.uk](https://cqyuanshenjgxx.nyaneko.uk/.com) | 重庆市风景园林技工学校 | :x: NXDOMAIN |
 | [重庆原神技工学校.top](https://www.重庆原神技工学校.top) | 重庆市风景园林技工学校 | :white_check_mark: Redirect 301 |
 | [不玩原神.fun](https://www.不玩原神.fun) | 重庆水利水电职业技术学院 | :x: NXDOMAIN |
