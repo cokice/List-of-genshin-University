@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有257个高校）（其中89个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有257个高校）（其中88个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-06-27 19:41 UTC+8）
+## 高校名单（2025-06-27 23:44 UTC+8）
 
 
 状态说明：
@@ -183,7 +183,7 @@
 | [原神启动.club](http://www.原神启动.club) | 南开大学 | :x: NXDOMAIN |
 | [nku.天津原神大学.icu](https://nku.天津原神大学.icu) | 南开大学 | :x: NXDOMAIN |
 | [genshin.university](http://www.genshin.university) | 南通大学 | :x: NXDOMAIN |
-| [原神农业大学.com](http://原神农业大学.com/) | 内蒙古农业大学 | :white_check_mark: CNAME |
+| [原神农业大学.com](http://原神农业大学.com/) | 内蒙古农业大学 | :x: NXDOMAIN |
 | [诺丁汉原神大学.xyz](https://诺丁汉原神大学.xyz) | 宁波诺丁汉大学 | :white_check_mark: Redirect 301 |
 | [美国原神大学.com](http://美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
 | [提瓦特中学.top](http://提瓦特中学.top) | 平遥中学 | :x: NXDOMAIN |
@@ -258,15 +258,15 @@
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :x: NXDOMAIN |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :x: NXDOMAIN |
-| [genshinedu.com](https://genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
+| [genshinedu.com](https://www.genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
 | [英国皇家原神学院.com](http://www.英国皇家原神学院.com/) | 英国皇家艺术学院 | :x: NXDOMAIN |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :x: NXDOMAIN |
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
 | [tjut.top](https://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :x: NXDOMAIN |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :x: NXDOMAIN |
-| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
+| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :white_check_mark: Redirect 301 |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
