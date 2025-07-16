@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-07-16 23:47 UTC+8）
+## 高校名单（2025-07-17 03:42 UTC+8）
 
 
 状态说明：
@@ -51,7 +51,7 @@
 | [原神科技大学.com](https://原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
 | [澳门原神大学.com](http://澳门原神大学.com) | 澳门理工大学 | :x: NXDOMAIN |
 | [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :x: NXDOMAIN |
-| [pku.原神.org](http://pku.原神.org) | 北京大学 | :question: Connection error |
+| [pku.原神.org](http://pku.原神.org) | 北京大学 | :white_check_mark: Redirect 301 |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :x: Connection error |
 | [原神风之翼技术大学.fontlos.com](https://原神风之翼技术大学.fontlos.com) | 北京航空航天大学 | :white_check_mark: Redirect 301 |
 | [北京原神大学.cn](http://www.北京原神大学.cn) | 北京化工大学 | :white_check_mark: Redirect 301 |
@@ -298,7 +298,7 @@
 | [长沙原神大学.com](http://长沙原神大学.com) | 中南林业科技大学 | :x: NXDOMAIN |
 | [原神螺蛳粉职业技术学院.com](https://www.原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :x: NXDOMAIN |
 | [原神林业科技大学.com](https://原神林业科技大学.com) | 中南林业科技大学 | :x: NXDOMAIN |
-| [原神启动.com](https://原神启动.com) | 中南林业科技大学 | :question: Connection error |
+| [原神启动.com](https://原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [原神教育.shop](https://www.原神教育.shop) | 中央民族大学 | :x: NXDOMAIN |
 
 
