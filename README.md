@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-08-04 03:41 UTC+8）
+## 高校名单（2025-08-04 07:45 UTC+8）
 
 
 状态说明：
@@ -46,7 +46,7 @@
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne | :x: NXDOMAIN |
 | [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 307 |
 | [ugensh.in](https://ugensh.in) | University of Sydney | :x: NXDOMAIN |
-| [安徽原神大学.icu](http://www.安徽原神大学.icu) | 安徽大学 | :white_check_mark: CNAME |
+| [安徽原神大学.icu](http://安徽原神大学.icu) | 安徽大学 | :white_check_mark: CNAME |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
 | [原神科技大学.com](https://www.原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
 | [澳门原神大学.com](http://澳门原神大学.com) | 澳门理工大学 | :x: NXDOMAIN |
@@ -189,12 +189,12 @@
 | [提瓦特中学.top](http://提瓦特中学.top) | 平遥中学 | :x: NXDOMAIN |
 | [县城原神高中.111111.eu.org](https://县城原神高中.111111.eu.org/) | 前郭尔罗斯蒙古族自治县第二高级中学 | :white_check_mark: Redirect 308 |
 | [countygenshinschool.111111.eu.org](https://countygenshinschool.111111.eu.org) | 前郭尔罗斯蒙古族自治县第三中学 | :white_check_mark: Redirect 308 |
-| [青岛城市学院原神.club](http://青岛城市学院原神.club) | 青岛城市学院 | :white_check_mark: CNAME |
+| [青岛城市学院原神.club](http://www.青岛城市学院原神.club) | 青岛城市学院 | :white_check_mark: CNAME |
 | [提瓦特第五十八中学.click](https://www.提瓦特第五十八中学.click) | 青岛第五十八中学 | :question: 421 |
 | [青岛原神大学.com](http://青岛原神大学.com) | 青岛科技大学 | :x: NXDOMAIN |
 | [tsinghua.原神.org](http://tsinghua.原神.org) | 清华大学 | :question: 502 |
 | [原神启动中学.cn](http://原神启动中学.cn) | 人大附中ICC | :x: NXDOMAIN |
-| [genshin.school](http://genshin.school/) | 山东大学 | :white_check_mark: CNAME |
+| [genshin.school](http://www.genshin.school/) | 山东大学 | :white_check_mark: CNAME |
 | [提瓦特大学.com](http://www.提瓦特大学.com) | 山东大学 | :x: NXDOMAIN |
 | [国立原神大学.com](http://国立原神大学.com) | 山东大学 | :white_check_mark: Redirect 301 |
 | [原神医科大学.top](http://原神医科大学.top) | 山东第一医科大学 | :x: NXDOMAIN |
@@ -204,7 +204,7 @@
 | [上海第二原神大学.top](http://www.上海第二原神大学.top) | 上海第二工业大学 | :white_check_mark:  |
 | [原神电力大学.com](http://www.原神电力大学.com) | 上海电力大学 | :x: NXDOMAIN |
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :x: NXDOMAIN |
-| [上海op大学.com](https://上海op大学.com) | 上海海洋大学 | :white_check_mark: Redirect 302 |
+| [上海op大学.com](https://www.上海op大学.com) | 上海海洋大学 | :white_check_mark: Redirect 302 |
 | [上海原批大学.com](http://www.上海原批大学.com) | 上海建桥学院 | :x: NXDOMAIN |
 | [上海原神大学.cn](http://上海原神大学.cn) | 上海交通大学 | :white_check_mark: Redirect 301 |
 | [上海原神大学附属中学.top](https://上海原神大学附属中学.top) | 上海交通大学附属中学 | :white_check_mark: Redirect 301 |
