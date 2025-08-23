@@ -225,7 +225,6 @@
 | [原神农业大学.cn](https://www.原神农业大学.cn) | 四川农业大学 | :x: NXDOMAIN |
 | [苏州原神大学.cn](https://苏州原神大学.cn) | 苏州城市学院 | :x: NXDOMAIN |
 | [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: NXDOMAIN |
-| [中国原神大学.com](https://www.中国原神大学.com) | 苏州工艺美术职业技术学院 | :white_check_mark: CNAME |
 | [usts.原友聚集地.top](http://usts.原友聚集地.top) | 苏州科技大学 | :white_check_mark: Meta Refresh |
 | [世界原神中学.com](https://世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
 | [浙江原神职业技术学院.com](https://浙江原神职业技术学院.com) | 随机跳转至部分浙江省内高职院校官网 | :x: NXDOMAIN |
