@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-08-30 19:39 UTC+8）
+## 高校名单（2025-08-30 23:39 UTC+8）
 
 
 状态说明：
@@ -101,7 +101,7 @@
 | [广州原神大学.com](http://www.广州原神大学.com) | 广东技术师范大学 | :x: NXDOMAIN |
 | [清远原神大学.top](http://www.清远原神大学.top) | 广东科贸职业学院 | :x: NXDOMAIN |
 | [广轻原神大学.com](http://www.广轻原神大学.com) | 广东轻工职业技术学院 | :x: NXDOMAIN |
-| [原神.org](http://原神.org) | 广东药科大学 | :question: Connection error |
+| [原神.org](http://原神.org) | 广东药科大学 | :question: 502 |
 | [广西原神大学.cn](http://广西原神大学.cn) | 广西安全工程职业技术学院 | :x: NXDOMAIN |
 | [世界原神大学.com](http://世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
 | [广西原神职业技术学院.com](https://www.广西原神职业技术学院.com/) | 广西民族大学相思湖学院 | :x: NXDOMAIN |
@@ -136,7 +136,7 @@
 | [上海原神大学.com](http://上海原神大学.com) | 华东师范大学 | :white_check_mark: Redirect 301 |
 | [原神蒸发大学.com](http://www.原神蒸发大学.com) | 华东政法大学 | :x: NXDOMAIN |
 | [华南原神大学.com](http://www.华南原神大学.com) | 华南理工大学 | :white_check_mark: Redirect 301 |
-| [华中原神大学.com](https://华中原神大学.com/) | 华中科技大学 | :white_check_mark: Redirect 308 |
+| [华中原神大学.com](http://华中原神大学.com/) | 华中科技大学 | :white_check_mark: CNAME |
 | [华中原神大学.cn](http://www.华中原神大学.cn/) | 华中师范大学 | :x: NXDOMAIN |
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 | :x: NXDOMAIN |
 | [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :x: NXDOMAIN |
@@ -196,7 +196,7 @@
 | [青岛城市学院原神.club](http://www.青岛城市学院原神.club) | 青岛城市学院 | :x: NXDOMAIN |
 | [提瓦特第五十八中学.click](https://提瓦特第五十八中学.click) | 青岛第五十八中学 | :question: Connection error |
 | [青岛原神大学.com](http://青岛原神大学.com) | 青岛科技大学 | :x: NXDOMAIN |
-| [tsinghua.原神.org](http://tsinghua.原神.org) | 清华大学 | :question: Connection error |
+| [tsinghua.原神.org](http://tsinghua.原神.org) | 清华大学 | :question: 502 |
 | [原神启动中学.cn](http://原神启动中学.cn) | 人大附中ICC | :x: NXDOMAIN |
 | [genshin.school](http://www.genshin.school/) | 山东大学 | :white_check_mark: CNAME |
 | [提瓦特大学.com](http://www.提瓦特大学.com) | 山东大学 | :x: NXDOMAIN |
@@ -226,7 +226,7 @@
 | [苏州原神大学.cn](https://苏州原神大学.cn) | 苏州城市学院 | :x: NXDOMAIN |
 | [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: NXDOMAIN |
 | [usts.原友聚集地.top](http://usts.原友聚集地.top) | 苏州科技大学 | :white_check_mark: Meta Refresh |
-| [世界原神中学.com](https://世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
+| [世界原神中学.com](https://世界原神中学.com/) | 苏州中学 | :question: Connection error |
 | [浙江原神职业技术学院.com](https://浙江原神职业技术学院.com) | 随机跳转至部分浙江省内高职院校官网 | :x: NXDOMAIN |
 | [西北原神大学.com](http://www.西北原神大学.com) | 塔里木大学 | :x: 530 |
 | [原神科技大专.com](http://www.原神科技大专.com) | 太原科技大学 | :x: NXDOMAIN |
@@ -302,7 +302,7 @@
 | [长沙原神大学.com](http://长沙原神大学.com) | 中南林业科技大学 | :x: NXDOMAIN |
 | [原神螺蛳粉职业技术学院.com](https://www.原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :x: NXDOMAIN |
 | [原神林业科技大学.com](https://原神林业科技大学.com) | 中南林业科技大学 | :x: NXDOMAIN |
-| [原神启动.com](https://原神启动.com) | 中南林业科技大学 | :question: Connection error |
+| [原神启动.com](https://原神启动.com) | 中南林业科技大学 | :question: 403 |
 | [原神教育.shop](https://www.原神教育.shop) | 中央民族大学 | :x: NXDOMAIN |
 
 
