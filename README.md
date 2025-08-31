@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有262个高校）（其中81个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有262个高校）（其中80个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-08-31 23:40 UTC+8）
+## 高校名单（2025-09-01 03:40 UTC+8）
 
 
 状态说明：
@@ -194,7 +194,7 @@
 | [县城原神高中.111111.eu.org](https://县城原神高中.111111.eu.org/) | 前郭尔罗斯蒙古族自治县第二高级中学 | :white_check_mark: Redirect 308 |
 | [countygenshinschool.111111.eu.org](https://countygenshinschool.111111.eu.org) | 前郭尔罗斯蒙古族自治县第三中学 | :white_check_mark: Redirect 308 |
 | [青岛城市学院原神.club](http://www.青岛城市学院原神.club) | 青岛城市学院 | :x: NXDOMAIN |
-| [提瓦特第五十八中学.click](https://提瓦特第五十八中学.click) | 青岛第五十八中学 | :question: Connection error |
+| [提瓦特第五十八中学.click](https://提瓦特第五十八中学.click) | 青岛第五十八中学 | :question: DNS error |
 | [青岛原神大学.com](http://青岛原神大学.com) | 青岛科技大学 | :x: NXDOMAIN |
 | [tsinghua.原神.org](http://tsinghua.原神.org) | 清华大学 | :question: 502 |
 | [原神启动中学.cn](http://原神启动中学.cn) | 人大附中ICC | :x: NXDOMAIN |
@@ -262,7 +262,7 @@
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :x: NXDOMAIN |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :x: NXDOMAIN |
-| [genshinedu.com](https://www.genshinedu.com/) | 宜宾学院 | :white_check_mark:  |
+| [genshinedu.com](https://www.genshinedu.com/) | 宜宾学院 | :x: 429 |
 | [英国皇家原神学院.com](http://www.英国皇家原神学院.com/) | 英国皇家艺术学院 | :x: NXDOMAIN |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :x: NXDOMAIN |
 | [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
