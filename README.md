@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有262个高校）（其中78个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有265个高校）（其中79个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-09-11 23:41 UTC+8）
+## 高校名单（2025-09-12 00:26 UTC+8）
 
 
 状态说明：
@@ -113,6 +113,7 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 哈尔滨工程大学 | :x: NXDOMAIN |
 | [哈尔滨原神大学.com](http://哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: Redirect 308 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
+| [东北原神大学.top](https://www.东北原神大学.top) | 哈尔滨理工大学 | :white_check_mark:  |
 | [提瓦特大专.com](http://www.提瓦特大专.com) | 哈尔滨商业大学 | :x: NXDOMAIN |
 | [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :x: NXDOMAIN |
 | [原神医科大学.cn](http://原神医科大学.cn) | 海南医科大学 | :white_check_mark: CNAME |
@@ -124,12 +125,13 @@
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: NXDOMAIN |
 | [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :white_check_mark: CNAME |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
+| [璃月黑岩科技大学.cn](https://www.璃月黑岩科技大学.com) | 黑龙江科技大学 | :x: NXDOMAIN |
 | [湖北原神大学.xyz](http://湖北原神大学.xyz) | 湖北大学 | :x: NXDOMAIN |
 | [湖北原神大学.xyz](http://湖北原神大学.xyz/原神联合学院) | 湖北大学曼城联合学院 | :x: NXDOMAIN |
 | [原神民族大学.com](http://www.原神民族大学.com) | 湖北民族大学 | :x: NXDOMAIN |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :x: NXDOMAIN |
 | [原神带专.com](https://原神带专.com) | 湖北水利水电职业技术学院 | :x: NXDOMAIN |
-| [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :white_check_mark:  |
+| [我要玩原神.com](http://www.我要玩原神.com) | 湖北中医药大学 | :x: 403 |
 | [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :x: NXDOMAIN |
 | [原来你也玩原神.com](https://www.原来你也玩原神.com) | 华北科技学院 | :x: NXDOMAIN |
 | [华东原神大学.online](http://华东原神大学.online) | 华东师范大学 | :x: NXDOMAIN |
@@ -285,6 +287,7 @@
 | [临安原神大学.xyz](http://临安原神大学.xyz) | 浙江农林大学 | :x: NXDOMAIN |
 | [原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 | :x: NXDOMAIN |
 | [浙江原神大学.com](http://www.浙江原神大学.com) | 浙江万里学院 | :white_check_mark: Redirect 301 |
+| [郑州原神大学.com](https://郑州原神大学.com) | 郑州工商学院 | :white_check_mark: Redirect 301 |
 | [河南原神大学.com](http://www.河南原神大学.com) | 郑州轻工业大学 | :white_check_mark: Redirect 301 |
 | [山西原神大学.com](http://www.山西原神大学.com) | 中北大学 | :x: NXDOMAIN |
 | [人民原神第一校.fun](https://人民原神第一校.fun) | 中北大学 | :x: NXDOMAIN |
