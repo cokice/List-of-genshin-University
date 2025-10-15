@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-10-15 15:43 UTC+8）
+## 高校名单（2025-10-15 19:39 UTC+8）
 
 
 状态说明：
@@ -213,7 +213,7 @@
 | [上海op大学.com](http://上海op大学.com) | 上海海洋大学 | :white_check_mark:  |
 | [上海原批大学.com](http://www.上海原批大学.com) | 上海建桥学院 | :x: NXDOMAIN |
 | [上海原神大学.cn](http://上海原神大学.cn) | 上海交通大学 | :white_check_mark: Redirect 301 |
-| [上海原神大学附属中学.top](http://上海原神大学附属中学.top) | 上海交通大学附属中学 | :x: Connection error |
+| [上海原神大学附属中学.top](http://上海原神大学附属中学.top) | 上海交通大学附属中学 | :x: NXDOMAIN |
 | [上海原神学院.net](http://上海原神学院.net) | 上海立达学院 | :x: NXDOMAIN |
 | [原神.ltd](http://原神.ltd) | 上海立达学院 | :x: NXDOMAIN |
 | [上海市原神中学.xyz](http://www.上海市原神中学.xyz) | 上海市控江中学 | :x: NXDOMAIN |
@@ -306,7 +306,7 @@
 | [原神螺蛳粉职业技术学院.com](https://www.原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :x: NXDOMAIN |
 | [原神林业科技大学.com](https://原神林业科技大学.com) | 中南林业科技大学 | :x: NXDOMAIN |
 | [原神启动.com](https://原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
-| [原神教育.shop](https://www.原神教育.shop) | 中央民族大学 | :x: DNS error |
+| [原神教育.shop](https://www.原神教育.shop) | 中央民族大学 | :x: NXDOMAIN |
 
 
 
