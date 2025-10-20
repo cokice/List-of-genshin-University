@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-10-20 15:41 UTC+8）
+## 高校名单（2025-10-20 19:39 UTC+8）
 
 
 状态说明：
@@ -44,8 +44,8 @@
 | --- | --- | --- |
 | [universityofgenshin.com](https://universityofgenshin.com) | University of Melbourne | :x: Connection error |
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne | :x: NXDOMAIN |
-| [universityofgenshin.ca](http://universityofgenshin.ca/) | University of Ottawa | :question: 500 |
-| [加拿大原神大专.com](http://加拿大原神大专.com) | University of Ottawa | :question: 500 |
+| [universityofgenshin.ca](http://universityofgenshin.ca/) | University of Ottawa | :white_check_mark: Redirect 301 |
+| [加拿大原神大专.com](http://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [ugensh.in](https://ugensh.in) | University of Sydney | :x: NXDOMAIN |
 | [安徽原神大学.icu](http://安徽原神大学.icu) | 安徽大学 | :x: NXDOMAIN |
 | [提瓦特高等师范学院.icu](http://www.提瓦特高等师范学院.icu) | 安徽师范大学 | :x: 403 |
