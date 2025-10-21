@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-10-21 15:41 UTC+8）
+## 高校名单（2025-10-21 19:40 UTC+8）
 
 
 状态说明：
@@ -89,7 +89,7 @@
 | [电子原神大学.com](https://电子原神大学.com) | 电子科技大学 | :white_check_mark: Redirect 302 |
 | [原神财经大学.com](https://原神财经大学.com) | 东北财经大学 | :x: NXDOMAIN |
 | [原神分校.com](http://原神分校.com) | 东北大学秦皇岛分校 | :x: NXDOMAIN |
-| [提瓦特林业大学.site](https://提瓦特林业大学.site) | 东北林业大学 | :white_check_mark:  |
+| [提瓦特林业大学.site](https://提瓦特林业大学.site) | 东北林业大学 | :white_check_mark: Redirect 301 |
 | [原神农业大学.honkai.top](http://原神农业大学.honkai.top) | 东北农业大学 | :x: NXDOMAIN |
 | [广东原神大学.com](https://广东原神大学.com) | 东莞理工学院 | :x: NXDOMAIN |
 | [原神启动大学.top](http://www.原神启动大学.top) | 东华理工大学 | :x: NXDOMAIN |
