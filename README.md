@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有268个高校）（其中76个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有268个高校）（其中77个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-10-24 07:39 UTC+8）
+## 高校名单（2025-10-24 11:49 UTC+8）
 
 
 状态说明：
@@ -254,7 +254,7 @@
 | [西安原神大学.com](http://www.西安原神大学.com) | 西安电子科技大学 | :x: NXDOMAIN |
 | [原批大学.com](https://原批大学.com) | 西安电子科技大学 | :x: NXDOMAIN |
 | [gaoxinyizhong.dpdns.org](http://gaoxinyizhong.dpdns.org) | 西安高新第一中学 | :white_check_mark: Redirect 308 |
-| [西安原神大学.icu](http://西安原神大学.icu) | 西安交通大学 | :x: Connection error |
+| [西安原神大学.icu](http://西安原神大学.icu) | 西安交通大学 | :white_check_mark:  |
 | [长安原神大学.com](http://www.长安原神大学.com) | 西安科技大学 | :x: NXDOMAIN |
 | [原神涉外办事处.com](http://www.原神涉外办事处.com) | 西安外事学院 | :x: NXDOMAIN |
 | [原神工业大学.icu](http://原神工业大学.icu) | 西北工业大学 | :x: NXDOMAIN |
@@ -304,7 +304,7 @@
 | [原神消防学院.com](http://原神消防学院.com) | 中国消防救援学院 | :x: NXDOMAIN |
 | [原神高级中学.com](http://www.原神高级中学.com) | 中国药科大学 | :x: NXDOMAIN |
 | [原神高级中学.com](http://原神高级中学.com) | 中国药科大学 | :x: NXDOMAIN |
-| [中国原神大学.com](https://中国原神大学.com) | 中国原神大学 | :question: Connection error |
+| [中国原神大学.com](https://中国原神大学.com) | 中国原神大学 | :white_check_mark: Redirect 301 |
 | [长沙原神大学.com](http://长沙原神大学.com) | 中南林业科技大学 | :x: NXDOMAIN |
 | [原神螺蛳粉职业技术学院.com](https://www.原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :x: NXDOMAIN |
 | [原神林业科技大学.com](https://原神林业科技大学.com) | 中南林业科技大学 | :x: NXDOMAIN |
