@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-10-26 11:55 UTC+8）
+## 高校名单（2025-10-26 15:40 UTC+8）
 
 
 状态说明：
@@ -215,7 +215,7 @@
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :x: NXDOMAIN |
 | [上海op大学.com](http://上海op大学.com) | 上海海洋大学 | :white_check_mark:  |
 | [上海原批大学.com](http://www.上海原批大学.com) | 上海建桥学院 | :x: NXDOMAIN |
-| [上海原神大学.cn](http://上海原神大学.cn) | 上海交通大学 | :white_check_mark: Redirect 301 |
+| [上海原神大学.cn](http://上海原神大学.cn) | 上海交通大学 | :white_check_mark: CNAME |
 | [上海原神大学附属中学.top](http://上海原神大学附属中学.top) | 上海交通大学附属中学 | :x: NXDOMAIN |
 | [上海原神学院.net](http://上海原神学院.net) | 上海立达学院 | :x: NXDOMAIN |
 | [原神.ltd](http://原神.ltd) | 上海立达学院 | :x: NXDOMAIN |
@@ -238,7 +238,7 @@
 | [原神理工大学.com](http://原神理工大学.com) | 太原理工大学 | :x: NXDOMAIN |
 | [tju.天津原神大学.icu](https://tju.天津原神大学.icu) | 天津大学 | :x: NXDOMAIN |
 | [天津原神大学.top](https://天津原神大学.top) | 天津理工大学 | :white_check_mark: Redirect 301 |
-| [原神商学院.top](http://原神商学院.top) | 天津商业大学 | :x: 404 |
+| [原神商学院.top](http://原神商学院.top) | 天津商业大学 | :x: Connection error |
 | [原神师范大学.online](http://www.原神师范大学.online) | 天津师范大学 | :x: NXDOMAIN |
 | [玩原神考上的.cn](https://玩原神考上的.cn) | 天津医科大学临床医学院 | :x: NXDOMAIN |
 | [威海原神大学.cn](http://www.威海原神大学.cn) | 威海海洋职业学院 | :white_check_mark: Redirect 302 |
@@ -274,8 +274,8 @@
 | [中国科学技术大学.com](https://中国科学技术大学.com) | 原神 | :white_check_mark:  |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :x: NXDOMAIN |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :x: NXDOMAIN |
-| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
+| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :x: NXDOMAIN |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
