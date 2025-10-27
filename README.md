@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-10-27 07:41 UTC+8）
+## 高校名单（2025-10-27 12:06 UTC+8）
 
 
 状态说明：
@@ -224,7 +224,7 @@
 | [原神高级中学.lol](http://原神高级中学.lol) | 深圳市高级中学 | :x: NXDOMAIN |
 | [深圳原神高级中学.fun](http://深圳原神高级中学.fun) | 深圳盐田高级中学 | :x: NXDOMAIN |
 | [匹诺康尼工业大学.com](https://www.匹诺康尼工业大学.com) | 沈阳工业大学 | :white_check_mark: CNAME |
-| [沈阳原神大学.com](https://沈阳原神大学.com) | 沈阳理工大学 | :white_check_mark:  |
+| [沈阳原神大学.com](https://沈阳原神大学.com) | 沈阳理工大学 | :white_check_mark: CNAME |
 | [原神民族学院.com](http://www.原神民族学院.cn) | 四川民族学院 | :x: NXDOMAIN |
 | [原神民族学院.cn](http://www.原神民族学院.cn/) | 四川民族学院 | :x: NXDOMAIN |
 | [原神农业大学.cn](https://www.原神农业大学.cn) | 四川农业大学 | :x: NXDOMAIN |
