@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有268个高校）（其中77个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有268个高校）（其中76个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-11-07 23:44 UTC+8）
+## 高校名单（2025-11-08 03:41 UTC+8）
 
 
 状态说明：
@@ -170,7 +170,7 @@
 | [中国原神.com](http://中国原神.com) | 辽宁科技大学 | :x: NXDOMAIN |
 | [璃月石化大学.icu](http://www.璃月石化大学.icu) | 辽宁石油化工大学 | :x: NXDOMAIN |
 | [辽宁原神大学.icu](http://www.辽宁原神大学.icu) | 辽宁石油化工大学 | :x: NXDOMAIN |
-| [提瓦特现代原神学院.cn](http://提瓦特现代原神学院.cn) | 辽宁现代服务职业学院 | :white_check_mark: CNAME |
+| [提瓦特现代原神学院.cn](http://提瓦特现代原神学院.cn) | 辽宁现代服务职业学院 | :x: NXDOMAIN |
 | [伦敦原神大学.com](http://伦敦原神大学.com) | 伦敦帝国理工学院 | :white_check_mark:  |
 | [罗定原神中学.top](http://罗定原神中学.top) | 罗定实验中学 | :x: NXDOMAIN |
 | [洛阳崩坏师范大学.com](https://www.洛阳崩坏师范大学.com) | 洛阳师范学院 | :x: NXDOMAIN |
@@ -274,8 +274,8 @@
 | [tjut.top](https://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :x: NXDOMAIN |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :x: NXDOMAIN |
-| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
+| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :x: NXDOMAIN |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
