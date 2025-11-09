@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-11-10 03:40 UTC+8）
+## 高校名单（2025-11-10 07:41 UTC+8）
 
 
 状态说明：
@@ -198,7 +198,7 @@
 | [县城原神高中.111111.eu.org](https://县城原神高中.111111.eu.org/) | 前郭尔罗斯蒙古族自治县第二高级中学 | :white_check_mark: Redirect 308 |
 | [countygenshinschool.111111.eu.org](https://countygenshinschool.111111.eu.org) | 前郭尔罗斯蒙古族自治县第三中学 | :white_check_mark: Redirect 308 |
 | [青岛城市学院原神.club](http://www.青岛城市学院原神.club) | 青岛城市学院 | :x: NXDOMAIN |
-| [提瓦特第五十八中学.click](https://www.提瓦特第五十八中学.click) | 青岛第五十八中学 | :white_check_mark: Redirect 301 |
+| [提瓦特第五十八中学.click](http://提瓦特第五十八中学.click) | 青岛第五十八中学 | :white_check_mark: Redirect 301 |
 | [青岛原神大学.com](http://青岛原神大学.com) | 青岛科技大学 | :x: NXDOMAIN |
 | [tsinghua.原神.org](http://tsinghua.原神.org) | 清华大学 | :white_check_mark: Redirect 301 |
 | [原神启动中学.cn](http://原神启动中学.cn) | 人大附中ICC | :x: NXDOMAIN |
