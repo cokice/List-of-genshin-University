@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-11-13 19:42 UTC+8）
+## 高校名单（2025-11-13 23:45 UTC+8）
 
 
 状态说明：
@@ -74,7 +74,7 @@
 | [苏州原神学院.com](http://www.苏州原神学院.com) | 常熟理工学院 | :x: NXDOMAIN |
 | [常州原神大学.com](http://www.常州原神大学.com) | 常州大学 | :x: NXDOMAIN |
 | [湖南原神大专.top](http://湖南原神大专.top) | 郴州职业技术学院 | :x: NXDOMAIN |
-| [原神职业学院.xyz](http://原神职业学院.xyz) | 重庆传媒职业学院 | :question: Connection error |
+| [原神职业学院.xyz](http://原神职业学院.xyz) | 重庆传媒职业学院 | :question: DNS error |
 | [省立原神大学.com](https://www.省立原神大学.com) | 重庆大学 | :x: NXDOMAIN |
 | [重庆原神大学.online](https://重庆原神大学.online) | 重庆航天职业技术学院 | :x: NXDOMAIN |
 | [原神学校.com](http://原神学校.com) | 重庆市第八中学 | :x: NXDOMAIN |
