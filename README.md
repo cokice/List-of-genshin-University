@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有268个高校）（其中76个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有268个高校）（其中75个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-11-17 23:47 UTC+8）
+## 高校名单（2025-11-18 03:41 UTC+8）
 
 
 状态说明：
@@ -93,7 +93,7 @@
 | [原神农业大学.honkai.top](http://原神农业大学.honkai.top) | 东北农业大学 | :x: NXDOMAIN |
 | [广东原神大学.com](https://广东原神大学.com) | 东莞理工学院 | :x: NXDOMAIN |
 | [原神启动大学.top](http://www.原神启动大学.top) | 东华理工大学 | :x: NXDOMAIN |
-| [原神启动大学.com](https://原神启动大学.com/) | 东南大学 | :white_check_mark: CNAME |
+| [原神启动大学.com](https://原神启动大学.com/) | 东南大学 | :x: NXDOMAIN |
 | [美国原神学院.com](http://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
 | [seniorhigh.提瓦特超自然现象研究院.tech](http://www.seniorhigh.提瓦特超自然现象研究院.tech) | 福州第十中学 | :x: NXDOMAIN |
 | [www.gslzyz.cn](http://www.gslzyz.cn) | 甘肃省兰州第一中学 | :white_check_mark:  |
@@ -270,8 +270,8 @@
 | [genshinedu.com](https://www.genshinedu.com/) | 宜宾学院 | :x: NXDOMAIN |
 | [英国皇家原神学院.com](http://www.英国皇家原神学院.com/) | 英国皇家艺术学院 | :x: NXDOMAIN |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :x: NXDOMAIN |
-| [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :white_check_mark:  |
+| [tjut.top](https://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :x: NXDOMAIN |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :x: NXDOMAIN |
 | [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
