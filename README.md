@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-11-20 11:57 UTC+8）
+## 高校名单（2025-11-20 15:42 UTC+8）
 
 
 状态说明：
@@ -117,7 +117,7 @@
 | [东北原神大学.top](https://www.东北原神大学.top) | 哈尔滨理工大学 | :white_check_mark:  |
 | [提瓦特大专.com](http://www.提瓦特大专.com) | 哈尔滨商业大学 | :x: NXDOMAIN |
 | [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :x: NXDOMAIN |
-| [原神医科大学.cn](http://原神医科大学.cn) | 海南医科大学 | :white_check_mark: CNAME |
+| [原神医科大学.cn](http://www.原神医科大学.cn) | 海南医科大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :x: NXDOMAIN |
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :x: NXDOMAIN |
 | [原神科技学院.lol](https://原神科技学院.lol) | 河北农业大学现代科技学院 | :x: NXDOMAIN |
