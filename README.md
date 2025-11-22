@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-11-22 19:40 UTC+8）
+## 高校名单（2025-11-22 23:41 UTC+8）
 
 
 状态说明：
@@ -86,7 +86,7 @@
 | [op.wiki](https://op.wiki) | 重庆邮电大学 | :white_check_mark:  |
 | [大连理工大学原神学院.cn](http://大连理工大学原神学院.cn) | 大连理工大学城市学院 | :x: NXDOMAIN |
 | [民族原神大学.cn](http://www.民族原神大学.cn) | 大连民族大学 | :x: NXDOMAIN |
-| [电子原神大学.com](http://电子原神大学.com) | 电子科技大学 | :white_check_mark:  |
+| [电子原神大学.com](http://www.电子原神大学.com) | 电子科技大学 | :white_check_mark:  |
 | [原神财经大学.com](https://原神财经大学.com) | 东北财经大学 | :x: NXDOMAIN |
 | [原神分校.com](http://原神分校.com) | 东北大学秦皇岛分校 | :x: NXDOMAIN |
 | [提瓦特林业大学.site](http://www.提瓦特林业大学.site) | 东北林业大学 | :white_check_mark: Redirect 301 |
@@ -254,7 +254,7 @@
 | [西安原神大学.com](http://www.西安原神大学.com) | 西安电子科技大学 | :x: NXDOMAIN |
 | [原批大学.com](https://原批大学.com) | 西安电子科技大学 | :x: NXDOMAIN |
 | [gaoxinyizhong.dpdns.org](http://gaoxinyizhong.dpdns.org) | 西安高新第一中学 | :white_check_mark: Redirect 308 |
-| [西安原神大学.icu](http://www.西安原神大学.icu) | 西安交通大学 | :white_check_mark:  |
+| [西安原神大学.icu](http://西安原神大学.icu) | 西安交通大学 | :white_check_mark:  |
 | [长安原神大学.com](http://www.长安原神大学.com) | 西安科技大学 | :x: NXDOMAIN |
 | [原神涉外办事处.com](http://www.原神涉外办事处.com) | 西安外事学院 | :x: NXDOMAIN |
 | [原神工业大学.icu](http://原神工业大学.icu) | 西北工业大学 | :x: NXDOMAIN |
