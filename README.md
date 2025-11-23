@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有268个高校）（其中73个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有268个高校）（其中71个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-11-23 07:42 UTC+8）
+## 高校名单（2025-11-23 12:11 UTC+8）
 
 
 状态说明：
@@ -224,7 +224,7 @@
 | [原神高级中学.lol](http://原神高级中学.lol) | 深圳市高级中学 | :x: NXDOMAIN |
 | [深圳原神高级中学.fun](http://深圳原神高级中学.fun) | 深圳盐田高级中学 | :x: NXDOMAIN |
 | [匹诺康尼工业大学.com](https://www.匹诺康尼工业大学.com) | 沈阳工业大学 | :x: NXDOMAIN |
-| [沈阳原神大学.com](https://沈阳原神大学.com) | 沈阳理工大学 | :white_check_mark: CNAME |
+| [沈阳原神大学.com](https://沈阳原神大学.com) | 沈阳理工大学 | :x: NXDOMAIN |
 | [原神民族学院.com](http://www.原神民族学院.cn) | 四川民族学院 | :x: NXDOMAIN |
 | [原神民族学院.cn](http://www.原神民族学院.cn/) | 四川民族学院 | :x: NXDOMAIN |
 | [原神农业大学.cn](https://www.原神农业大学.cn) | 四川农业大学 | :x: NXDOMAIN |
@@ -233,7 +233,7 @@
 | [usts.原友聚集地.top](http://usts.原友聚集地.top) | 苏州科技大学 | :white_check_mark: Meta Refresh |
 | [世界原神中学.com](https://世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
 | [浙江原神职业技术学院.com](https://浙江原神职业技术学院.com) | 随机跳转至部分浙江省内高职院校官网 | :x: NXDOMAIN |
-| [西北原神大学.com](http://www.西北原神大学.com) | 塔里木大学 | :white_check_mark: CNAME |
+| [西北原神大学.com](http://www.西北原神大学.com) | 塔里木大学 | :x: NXDOMAIN |
 | [原神科技大专.com](http://www.原神科技大专.com) | 太原科技大学 | :x: NXDOMAIN |
 | [原神理工大学.com](http://原神理工大学.com) | 太原理工大学 | :x: NXDOMAIN |
 | [tju.天津原神大学.icu](https://tju.天津原神大学.icu) | 天津大学 | :x: NXDOMAIN |
