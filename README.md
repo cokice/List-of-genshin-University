@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-12-01 15:46 UTC+8）
+## 高校名单（2025-12-01 19:43 UTC+8）
 
 
 状态说明：
@@ -213,7 +213,7 @@
 | [原神电力大学.com](http://www.原神电力大学.com) | 上海电力大学 | :x: NXDOMAIN |
 | [华东原神大学.com](http://华东原神大学.com) | 上海工程技术大学 | :x: NXDOMAIN |
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :x: NXDOMAIN |
-| [上海op大学.com](http://上海op大学.com) | 上海海洋大学 | :white_check_mark:  |
+| [上海op大学.com](http://www.上海op大学.com) | 上海海洋大学 | :white_check_mark:  |
 | [上海原批大学.com](http://www.上海原批大学.com) | 上海建桥学院 | :x: NXDOMAIN |
 | [上海原神大学.cn](http://上海原神大学.cn) | 上海交通大学 | :x: NXDOMAIN |
 | [上海原神大学附属中学.top](http://上海原神大学附属中学.top) | 上海交通大学附属中学 | :x: NXDOMAIN |
@@ -300,7 +300,7 @@
 | [玩原神玩的.com](http://玩原神玩的.com) | 中国科学技术大学 | :white_check_mark: Redirect 301 |
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 | :x: NXDOMAIN |
 | [中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 | :x: NXDOMAIN |
-| [中国原神大学.cc](http://www.中国原神大学.cc) | 中国石油大学华东 | :white_check_mark: Redirect 302 |
+| [中国原神大学.cc](http://www.中国原神大学.cc) | 中国石油大学华东 | :question: Connection error |
 | [原神消防学院.com](http://原神消防学院.com) | 中国消防救援学院 | :x: NXDOMAIN |
 | [原神高级中学.com](http://www.原神高级中学.com) | 中国药科大学 | :x: NXDOMAIN |
 | [原神高级中学.com](http://原神高级中学.com) | 中国药科大学 | :x: NXDOMAIN |
