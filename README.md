@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有268个高校）（其中64个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有268个高校）（其中63个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-12-05 15:43 UTC+8）
+## 高校名单（2025-12-05 19:42 UTC+8）
 
 
 状态说明：
@@ -117,7 +117,7 @@
 | [东北原神大学.top](https://www.东北原神大学.top) | 哈尔滨理工大学 | :white_check_mark:  |
 | [提瓦特大专.com](http://www.提瓦特大专.com) | 哈尔滨商业大学 | :x: NXDOMAIN |
 | [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :x: NXDOMAIN |
-| [原神医科大学.cn](http://www.原神医科大学.cn) | 海南医科大学 | :white_check_mark: CNAME |
+| [原神医科大学.cn](http://www.原神医科大学.cn) | 海南医科大学 | :x: Connection error |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :x: NXDOMAIN |
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :x: NXDOMAIN |
 | [原神科技学院.lol](https://原神科技学院.lol) | 河北农业大学现代科技学院 | :x: NXDOMAIN |
@@ -274,8 +274,8 @@
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :x: NXDOMAIN |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :x: NXDOMAIN |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :x: NXDOMAIN |
-| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
+| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :x: NXDOMAIN |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
@@ -300,7 +300,7 @@
 | [玩原神玩的.com](http://玩原神玩的.com) | 中国科学技术大学 | :white_check_mark: Redirect 301 |
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 | :x: NXDOMAIN |
 | [中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 | :x: NXDOMAIN |
-| [中国原神大学.cc](http://www.中国原神大学.cc) | 中国石油大学华东 | :white_check_mark: Redirect 302 |
+| [中国原神大学.cc](http://www.中国原神大学.cc) | 中国石油大学华东 | :question: Connection error |
 | [原神消防学院.com](http://原神消防学院.com) | 中国消防救援学院 | :x: NXDOMAIN |
 | [原神高级中学.com](http://www.原神高级中学.com) | 中国药科大学 | :x: NXDOMAIN |
 | [原神高级中学.com](http://原神高级中学.com) | 中国药科大学 | :x: NXDOMAIN |
