@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2025-12-31 07:43 UTC+8）
+## 高校名单（2025-12-31 12:24 UTC+8）
 
 
 状态说明：
@@ -214,7 +214,7 @@
 | [原神电力大学.com](http://www.原神电力大学.com) | 上海电力大学 | :x: NXDOMAIN |
 | [华东原神大学.com](http://华东原神大学.com) | 上海工程技术大学 | :x: NXDOMAIN |
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :x: NXDOMAIN |
-| [上海op大学.com](https://www.上海op大学.com) | 上海海洋大学 | :white_check_mark:  |
+| [上海op大学.com](http://上海op大学.com) | 上海海洋大学 | :white_check_mark:  |
 | [上海原批大学.com](http://www.上海原批大学.com) | 上海建桥学院 | :x: NXDOMAIN |
 | [上海原神大学.cn](http://上海原神大学.cn) | 上海交通大学 | :x: NXDOMAIN |
 | [上海原神大学附属中学.top](http://上海原神大学附属中学.top) | 上海交通大学附属中学 | :x: NXDOMAIN |
