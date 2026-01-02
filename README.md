@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有269个高校）（其中65个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有270个高校）（其中66个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-01-02 12:28 UTC+8）
+## 高校名单（2026-01-02 13:11 UTC+8）
 
 
 状态说明：
@@ -124,7 +124,7 @@
 | [原神科技学院.lol](https://原神科技学院.lol) | 河北农业大学现代科技学院 | :x: NXDOMAIN |
 | [河北原神大专.com](https://河北原神大专.com) | 河北师范大学 | :x: NXDOMAIN |
 | [广西原神大学.top](http://广西原神大学.top/) | 河池学院 | :x: NXDOMAIN |
-| [中国原神中学.com](http://中国原神中学.com) | 合肥八中 | :question: 405 |
+| [中国原神中学.com](http://中国原神中学.com) | 合肥八中 | :question: Connection error |
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: NXDOMAIN |
 | [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :white_check_mark: CNAME |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
@@ -196,6 +196,7 @@
 | [诺丁汉原神大学.xyz](http://诺丁汉原神大学.xyz) | 宁波诺丁汉大学 | :x: NXDOMAIN |
 | [美国原神大学.com](http://美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
 | [提瓦特中学.top](http://提瓦特中学.top) | 平遥中学 | :x: NXDOMAIN |
+| [玩原神玩的.xyz](https://玩原神玩的.xyz) | 平阴县实验高中 | :question: Connection error |
 | [县城原神高中.111111.eu.org](https://县城原神高中.111111.eu.org/) | 前郭尔罗斯蒙古族自治县第二高级中学 | :x: NXDOMAIN |
 | [countygenshinschool.111111.eu.org](https://countygenshinschool.111111.eu.org) | 前郭尔罗斯蒙古族自治县第三中学 | :x: NXDOMAIN |
 | [青岛城市学院原神.club](http://www.青岛城市学院原神.club) | 青岛城市学院 | :x: NXDOMAIN |
@@ -232,7 +233,7 @@
 | [苏州原神大学.cn](https://苏州原神大学.cn) | 苏州城市学院 | :x: NXDOMAIN |
 | [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: NXDOMAIN |
 | [usts.原友聚集地.top](http://usts.原友聚集地.top) | 苏州科技大学 | :white_check_mark: Meta Refresh |
-| [世界原神中学.com](https://世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
+| [世界原神中学.com](https://www.世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
 | [浙江原神职业技术学院.com](https://浙江原神职业技术学院.com) | 随机跳转至部分浙江省内高职院校官网 | :x: NXDOMAIN |
 | [西北原神大学.com](http://www.西北原神大学.com) | 塔里木大学 | :x: DNS error |
 | [原神科技大专.com](http://www.原神科技大专.com) | 太原科技大学 | :x: NXDOMAIN |
@@ -254,7 +255,7 @@
 | [西安电子科技大学.com](http://www.西安电子科技大学.com) | 西安电子科技大学 | :x: NXDOMAIN |
 | [西安原神大学.com](http://www.西安原神大学.com) | 西安电子科技大学 | :x: NXDOMAIN |
 | [原批大学.com](https://原批大学.com) | 西安电子科技大学 | :x: NXDOMAIN |
-| [gaoxinyizhong.dpdns.org](http://gaoxinyizhong.dpdns.org) | 西安高新第一中学 | :white_check_mark: Redirect 308 |
+| [gaoxinyizhong.dpdns.org](https://www.gaoxinyizhong.dpdns.org) | 西安高新第一中学 | :white_check_mark: Redirect 308 |
 | [西安原神大学.icu](http://西安原神大学.icu) | 西安交通大学 | :x: Connection error |
 | [长安原神大学.com](http://www.长安原神大学.com) | 西安科技大学 | :x: NXDOMAIN |
 | [原神涉外办事处.com](http://www.原神涉外办事处.com) | 西安外事学院 | :x: NXDOMAIN |
