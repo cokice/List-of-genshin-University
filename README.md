@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-02-04 07:53 UTC+8）
+## 高校名单（2026-02-04 12:56 UTC+8）
 
 
 状态说明：
@@ -211,7 +211,7 @@
 | [原神启动.store](http://原神启动.store) | 汕头大学 | :x: NXDOMAIN |
 | [汕头原神学院.com](https://汕头原神学院.com) | 汕头职业技术学院 | :x: NXDOMAIN |
 | [上海原神大学.top](http://上海原神大学.top) | 上海大学 | :x: NXDOMAIN |
-| [上海第二原神大学.top](http://www.上海第二原神大学.top) | 上海第二工业大学 | :x: Connection error |
+| [上海第二原神大学.top](http://www.上海第二原神大学.top) | 上海第二工业大学 | :x: NXDOMAIN |
 | [原神电力大学.com](http://www.原神电力大学.com) | 上海电力大学 | :x: NXDOMAIN |
 | [华东原神大学.com](http://华东原神大学.com) | 上海工程技术大学 | :x: NXDOMAIN |
 | [上海原神大学.net](http://上海原神大学.net) | 上海海事大学 | :x: NXDOMAIN |
