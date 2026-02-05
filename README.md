@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-02-05 07:53 UTC+8）
+## 高校名单（2026-02-05 13:06 UTC+8）
 
 
 状态说明：
@@ -255,7 +255,7 @@
 | [西安电子科技大学.com](http://www.西安电子科技大学.com) | 西安电子科技大学 | :x: NXDOMAIN |
 | [西安原神大学.com](http://www.西安原神大学.com) | 西安电子科技大学 | :x: NXDOMAIN |
 | [原批大学.com](https://原批大学.com) | 西安电子科技大学 | :x: NXDOMAIN |
-| [gaoxinyizhong.dpdns.org](http://www.gaoxinyizhong.dpdns.org) | 西安高新第一中学 | :white_check_mark: Redirect 308 |
+| [gaoxinyizhong.dpdns.org](https://www.gaoxinyizhong.dpdns.org) | 西安高新第一中学 | :white_check_mark: Redirect 308 |
 | [西安原神大学.icu](http://西安原神大学.icu) | 西安交通大学 | :x: NXDOMAIN |
 | [长安原神大学.com](http://www.长安原神大学.com) | 西安科技大学 | :x: NXDOMAIN |
 | [原神涉外办事处.com](http://www.原神涉外办事处.com) | 西安外事学院 | :x: NXDOMAIN |
