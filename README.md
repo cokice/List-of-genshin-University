@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有270个高校）（其中59个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有270个高校）（其中60个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-02-28 12:42 UTC+8）
+## 高校名单（2026-02-28 15:49 UTC+8）
 
 
 状态说明：
@@ -42,7 +42,7 @@
 
 | 网站 | 大学 | 状态 |
 | --- | --- | --- |
-| [universityofgenshin.com](https://universityofgenshin.com) | University of Melbourne | :x: Connection error |
+| [universityofgenshin.com](https://universityofgenshin.com) | University of Melbourne | :white_check_mark:  |
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne | :x: NXDOMAIN |
 | [universityofgenshin.ca](http://universityofgenshin.ca/) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [加拿大原神大专.com](http://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 301 |
