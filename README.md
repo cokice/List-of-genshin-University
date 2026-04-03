@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-04-04 00:04 UTC+8）
+## 高校名单（2026-04-04 04:02 UTC+8）
 
 
 状态说明：
@@ -206,7 +206,7 @@
 | [原神启动中学.cn](http://原神启动中学.cn) | 人大附中ICC | :x: NXDOMAIN |
 | [genshin.school](http://www.genshin.school/) | 山东大学 | :x: NXDOMAIN |
 | [国立原神大学.com](http://国立原神大学.com) | 山东大学 | :white_check_mark: Redirect 301 |
-| [提瓦特大学.com](https://提瓦特大学.com) | 山东大学 | :white_check_mark:  |
+| [提瓦特大学.com](https://提瓦特大学.com) | 山东大学 | :white_check_mark: Redirect 301 |
 | [原神医科大学.top](http://原神医科大学.top) | 山东第一医科大学 | :x: NXDOMAIN |
 | [原神启动.store](http://原神启动.store) | 汕头大学 | :x: NXDOMAIN |
 | [汕头原神学院.com](https://汕头原神学院.com) | 汕头职业技术学院 | :x: NXDOMAIN |
