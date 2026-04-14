@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-04-14 20:41 UTC+8）
+## 高校名单（2026-04-15 00:43 UTC+8）
 
 
 状态说明：
@@ -82,7 +82,7 @@
 | [原神第一中学.xyz](http://www.原神第一中学.xyz) | 重庆市第一中学校 | :x: NXDOMAIN |
 | [www.cqyuanshenjgxx.nyaneko.uk](https://cqyuanshenjgxx.nyaneko.uk/.com) | 重庆市风景园林技工学校 | :x: NXDOMAIN |
 | [重庆原神技工学校.top](https://www.重庆原神技工学校.top) | 重庆市风景园林技工学校 | :x: NXDOMAIN |
-| [不玩原神.fun](https://www.不玩原神.fun) | 重庆水利水电职业技术学院 | :x: Connection error |
+| [不玩原神.fun](https://www.不玩原神.fun) | 重庆水利水电职业技术学院 | :x: NXDOMAIN |
 | [cqupt.原友聚集地.top](http://cqupt.原友聚集地.top) | 重庆邮电大学 | :white_check_mark: Redirect 308 |
 | [op.wiki](https://op.wiki) | 重庆邮电大学 | :white_check_mark:  |
 | [大连理工大学原神学院.cn](http://大连理工大学原神学院.cn) | 大连理工大学城市学院 | :x: NXDOMAIN |
