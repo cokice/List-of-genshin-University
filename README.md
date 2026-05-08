@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-05-08 16:58 UTC+8）
+## 高校名单（2026-05-08 20:55 UTC+8）
 
 
 状态说明：
@@ -179,8 +179,8 @@
 | [洛阳崩坏师范大学.com](https://www.洛阳崩坏师范大学.com) | 洛阳师范学院 | :x: NXDOMAIN |
 | [洛阳原神大学.com](http://www.洛阳原神大学.com) | 洛阳职业技术学院 | :x: NXDOMAIN |
 | [原神理工学院.com](https://www.原神理工学院.com) | 麻省理工学院 | :x: NXDOMAIN |
-| [崩坏星穹铁道.com](http://www.崩坏星穹铁道.com) | 南昌大学 | :white_check_mark: Redirect 301 |
 | [江西原神大学.中国](http://江西原神大学.中国) | 南昌大学 | :white_check_mark: Redirect 301 |
+| [崩坏星穹铁道.com](https://崩坏星穹铁道.com) | 南昌大学 | :white_check_mark: Redirect 301 |
 | [阿卡林原神大学.top](http://www.阿卡林原神大学.top) | 南昌航空大学 | :x: NXDOMAIN |
 | [南京原神大学.com](http://南京原神大学.com) | 南京大学 | :white_check_mark: Redirect 301 |
 | [南京浦口原神中专.xyz](http://www.南京浦口原神中专.xyz) | 南京工业大学 | :x: NXDOMAIN |
