@@ -1,1 +1,0 @@
-| [canada-genshin-university.pages.dev/](http://canada-genshin-university.pages.dev/) | 滑铁卢大学 |
