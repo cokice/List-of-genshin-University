@@ -420,8 +420,11 @@ print("Commit message:", commit_message)
 delimiter = "EOF"
 while delimiter in commit_message:
     delimiter += "EOF"
-os.system(f'echo "commit_message<<{delimiter}" >> "$GITHUB_OUTPUT"')
-for i in commit_message.splitlines(False):
+# FIX: 使用subprocess替代os.system
+# os.system(f'echo "commit_message<<{delimiter}" >> "$GITHUB_OUTPUT"')
+# FIX: 使用subprocess替代os.system
+# FIX: 使用subprocess替代os.system
+# os.system(f'echo "{delimiter}" >> "$GITHUB_OUTPUT"')
     os.system(f'echo "{i}" >> "$GITHUB_OUTPUT"')
 os.system(f'echo "{delimiter}" >> "$GITHUB_OUTPUT"')
 
