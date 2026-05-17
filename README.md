@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-05-17 20:13 UTC+8）
+## 高校名单（2026-05-18 00:32 UTC+8）
 
 
 状态说明：
@@ -168,7 +168,7 @@
 | [原神怎么你了.top](http://原神怎么你了.top) | 兰州大学 | :x: NXDOMAIN |
 | [原神アジア太平洋大学.jp](http://原神アジア太平洋大学.jp) | 立命館アジア太平洋大学 | :x: NXDOMAIN |
 | [原神工程技术大学.com](https://www.原神工程技术大学.com) | 辽宁工程技术大学 | :x: NXDOMAIN |
-| [辽宁原神大学](http://www.辽宁原神大学.com) | 辽宁工业大学 | :x: Connection error |
+| [辽宁原神大学](http://www.辽宁原神大学.com) | 辽宁工业大学 | :x: NXDOMAIN |
 | [玩绝区零玩的.com](http://玩绝区零玩的.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
 | [中国原神.com](http://中国原神.com) | 辽宁科技大学 | :x: NXDOMAIN |
 | [璃月石化大学.icu](http://www.璃月石化大学.icu) | 辽宁石油化工大学 | :x: NXDOMAIN |
