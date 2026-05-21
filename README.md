@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有277个高校）（其中68个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有277个高校）（其中70个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-05-22 01:39 UTC+8）
+## 高校名单（2026-05-22 05:15 UTC+8）
 
 
 状态说明：
@@ -146,7 +146,7 @@
 | [华中原神大学.com](http://华中原神大学.com/) | 华中科技大学 | :x: NXDOMAIN |
 | [华中原神大学.cn](http://www.华中原神大学.cn/) | 华中师范大学 | :x: NXDOMAIN |
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 | :x: NXDOMAIN |
-| [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :x: Connection error |
+| [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :white_check_mark:  |
 | [东北原神大学.com](http://www.东北原神大学.com) | 吉林大学 | :x: Connection error |
 | [吉林大学.com](https://吉林大学.com) | 吉林大学 | :white_check_mark:  |
 | [广东原神公益大学.com](http://www.广东原神公益大学.com) | 暨南大学 | :x: NXDOMAIN |
@@ -179,7 +179,7 @@
 | [洛阳崩坏师范大学.com](https://www.洛阳崩坏师范大学.com) | 洛阳师范学院 | :x: NXDOMAIN |
 | [洛阳原神大学.com](http://www.洛阳原神大学.com) | 洛阳职业技术学院 | :x: NXDOMAIN |
 | [原神理工学院.com](https://www.原神理工学院.com) | 麻省理工学院 | :x: NXDOMAIN |
-| [江西原神大学.中国](http://江西原神大学.中国) | 南昌大学 | :x: Connection error |
+| [江西原神大学.中国](http://江西原神大学.中国) | 南昌大学 | :white_check_mark: Redirect 301 |
 | [崩坏星穹铁道.com](https://崩坏星穹铁道.com) | 南昌大学 | :white_check_mark: Redirect 301 |
 | [阿卡林原神大学.top](http://www.阿卡林原神大学.top) | 南昌航空大学 | :x: NXDOMAIN |
 | [南京原神大学.com](http://南京原神大学.com) | 南京大学 | :white_check_mark: Redirect 301 |
@@ -282,8 +282,8 @@
 | [tjut.top](https://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :x: NXDOMAIN |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :x: NXDOMAIN |
-| [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
+| [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :x: NXDOMAIN |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
