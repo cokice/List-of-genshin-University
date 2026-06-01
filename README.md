@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-06-02 01:02 UTC+8）
+## 高校名单（2026-06-02 06:22 UTC+8）
 
 
 状态说明：
@@ -95,7 +95,7 @@
 | [广东原神大学.com](https://广东原神大学.com) | 东莞理工学院 | :x: NXDOMAIN |
 | [原神启动大学.top](http://www.原神启动大学.top) | 东华理工大学 | :x: NXDOMAIN |
 | [原神启动大学.com](https://原神启动大学.com/) | 东南大学 | :x: NXDOMAIN |
-| [美国原神学院.com](http://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
+| [美国原神学院.com](https://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
 | [seniorhigh.提瓦特超自然现象研究院.tech](http://www.seniorhigh.提瓦特超自然现象研究院.tech) | 福州第十中学 | :x: NXDOMAIN |
 | [www.gslzyz.cn](http://www.gslzyz.cn) | 甘肃省兰州第一中学 | :white_check_mark:  |
 | [兰州原神中学.lolicon.xin](https://兰州原神中学.lolicon.xin) | 甘肃省兰州第一中学 | :x: NXDOMAIN |
@@ -152,7 +152,7 @@
 | [广东原神公益大学.com](http://www.广东原神公益大学.com) | 暨南大学 | :x: NXDOMAIN |
 | [加州原神工业大学.club](https://加州原神工业大学.club) | 加州大学伯克利分校 | :x: NXDOMAIN |
 | [加利福尼亚原神大学.com](http://www.加利福尼亚原神大学.com) | 加州大学圣克鲁兹分校 | :x: NXDOMAIN |
-| [加州原神大学.com](http://加州原神大学.com) | 加州大学圣塔芭芭拉分校 | :white_check_mark: Redirect 301 |
+| [加州原神大学.com](https://加州原神大学.com) | 加州大学圣塔芭芭拉分校 | :white_check_mark: Redirect 301 |
 | [江苏原神大学.com](http://www.江苏原神大学.com) | 江苏大学 | :x: NXDOMAIN |
 | [江苏省响水中学.02.gold](http://江苏省响水中学.02.gold) | 江苏省响水中学 | :white_check_mark:  |
 | [云响中.02.gold](http://云响中.02.gold) | 江苏省响水中学 | :white_check_mark:  |
@@ -198,7 +198,7 @@
 | [原神农业大学.com](http://原神农业大学.com/) | 内蒙古农业大学 | :x: NXDOMAIN |
 | [诺丁汉原神大学.xyz](http://诺丁汉原神大学.xyz) | 宁波诺丁汉大学 | :x: NXDOMAIN |
 | [原神中学.com](https://原神中学.com) | 宁夏长庆高级中学 | :white_check_mark: Redirect 302 |
-| [美国原神大学.com](http://美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
+| [美国原神大学.com](https://美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
 | [提瓦特中学.top](http://提瓦特中学.top) | 平遥中学 | :x: NXDOMAIN |
 | [玩原神玩的.xyz](https://玩原神玩的.xyz) | 平阴县实验高中 | :x: NXDOMAIN |
 | [县城原神高中.111111.eu.org](https://县城原神高中.111111.eu.org/) | 前郭尔罗斯蒙古族自治县第二高级中学 | :x: NXDOMAIN |
@@ -303,7 +303,7 @@
 | [山西原神大学.com](http://www.山西原神大学.com) | 中北大学 | :x: NXDOMAIN |
 | [人民原神第一校.fun](https://人民原神第一校.fun) | 中北大学 | :x: NXDOMAIN |
 | [国立原神大学.top](http://国立原神大学.top) | 中国海洋大学 | :x: NXDOMAIN |
-| [中国op大学.com](http://中国op大学.com) | 中国海洋大学 | :white_check_mark: Redirect 301 |
+| [中国op大学.com](https://中国op大学.com) | 中国海洋大学 | :white_check_mark: Redirect 301 |
 | [原神学院.icu](http://www.原神学院.icu) | 中国计量大学现代科技学院 | :x: Connection error |
 | [玩原神玩的.com](http://玩原神玩的.com) | 中国科学技术大学 | :white_check_mark: Redirect 301 |
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 | :x: NXDOMAIN |
