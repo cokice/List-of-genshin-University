@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-06-02 06:22 UTC+8）
+## 高校名单（2026-06-02 10:01 UTC+8）
 
 
 状态说明：
@@ -152,7 +152,7 @@
 | [广东原神公益大学.com](http://www.广东原神公益大学.com) | 暨南大学 | :x: NXDOMAIN |
 | [加州原神工业大学.club](https://加州原神工业大学.club) | 加州大学伯克利分校 | :x: NXDOMAIN |
 | [加利福尼亚原神大学.com](http://www.加利福尼亚原神大学.com) | 加州大学圣克鲁兹分校 | :x: NXDOMAIN |
-| [加州原神大学.com](https://加州原神大学.com) | 加州大学圣塔芭芭拉分校 | :white_check_mark: Redirect 301 |
+| [加州原神大学.com](http://加州原神大学.com) | 加州大学圣塔芭芭拉分校 | :white_check_mark: Redirect 301 |
 | [江苏原神大学.com](http://www.江苏原神大学.com) | 江苏大学 | :x: NXDOMAIN |
 | [江苏省响水中学.02.gold](http://江苏省响水中学.02.gold) | 江苏省响水中学 | :white_check_mark:  |
 | [云响中.02.gold](http://云响中.02.gold) | 江苏省响水中学 | :white_check_mark:  |
@@ -308,7 +308,7 @@
 | [玩原神玩的.com](http://玩原神玩的.com) | 中国科学技术大学 | :white_check_mark: Redirect 301 |
 | [提瓦特美术学院.online](https://提瓦特美术学院.online) | 中国美术学院 | :x: NXDOMAIN |
 | [中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 | :x: NXDOMAIN |
-| [北京原神中学.top](https://www.北京原神中学.top) | 中国人民大学附属中学朝阳学校 | :question: Connection error |
+| [北京原神中学.top](https://www.北京原神中学.top) | 中国人民大学附属中学朝阳学校 | :white_check_mark: Redirect 301 |
 | [中国原神大学.cc](http://www.中国原神大学.cc) | 中国石油大学华东 | :x: NXDOMAIN |
 | [原神消防学院.com](http://原神消防学院.com) | 中国消防救援学院 | :x: NXDOMAIN |
 | [原神高级中学.com](http://www.原神高级中学.com) | 中国药科大学 | :x: NXDOMAIN |
