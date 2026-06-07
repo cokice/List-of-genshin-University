@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-06-07 15:43 UTC+8）
+## 高校名单（2026-06-07 21:07 UTC+8）
 
 
 状态说明：
@@ -146,7 +146,7 @@
 | [华中原神大学.com](http://华中原神大学.com/) | 华中科技大学 | :x: NXDOMAIN |
 | [华中原神大学.cn](http://www.华中原神大学.cn/) | 华中师范大学 | :x: NXDOMAIN |
 | [中国原神大专.top](http://中国原神大专.top) | 淮阴师范学院 | :x: NXDOMAIN |
-| [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :x: Connection error |
+| [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :x: 521 |
 | [东北原神大学.com](http://www.东北原神大学.com) | 吉林大学 | :x: Connection error |
 | [吉林大学.com](https://吉林大学.com) | 吉林大学 | :white_check_mark:  |
 | [广东原神公益大学.com](http://www.广东原神公益大学.com) | 暨南大学 | :x: NXDOMAIN |
