@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-06-13 01:51 UTC+8）
+## 高校名单（2026-06-13 05:14 UTC+8）
 
 
 状态说明：
@@ -197,7 +197,7 @@
 | [genshin.university](http://www.genshin.university) | 南通大学 | :x: NXDOMAIN |
 | [原神农业大学.com](http://原神农业大学.com/) | 内蒙古农业大学 | :x: NXDOMAIN |
 | [诺丁汉原神大学.xyz](http://诺丁汉原神大学.xyz) | 宁波诺丁汉大学 | :x: NXDOMAIN |
-| [原神中学.com](https://原神中学.com) | 宁夏长庆高级中学 | :white_check_mark: Redirect 302 |
+| [原神中学.com](http://原神中学.com) | 宁夏长庆高级中学 | :white_check_mark: Redirect 302 |
 | [美国原神大学.com](https://美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
 | [提瓦特中学.top](http://提瓦特中学.top) | 平遥中学 | :x: NXDOMAIN |
 | [玩原神玩的.xyz](https://玩原神玩的.xyz) | 平阴县实验高中 | :x: NXDOMAIN |
