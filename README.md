@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-06-20 09:36 UTC+8）
+## 高校名单（2026-06-20 15:12 UTC+8）
 
 
 状态说明：
@@ -269,7 +269,7 @@
 | [中国原神大学.org](http://中国原神大学.org) | 西南科技大学 | :x: NXDOMAIN |
 | [厦门原神大学.com](http://www.厦门原神大学.com) | 厦门大学 | :x: NXDOMAIN |
 | [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark:  |
-| [厦门原神学校.com](https://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
+| [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
 | [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :x: NXDOMAIN |
 | [璃月师范大学.com](http://www.璃月师范大学.com/) | 许昌学院 | :x: NXDOMAIN |
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
@@ -282,8 +282,8 @@
 | [tjut.top](https://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :x: NXDOMAIN |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :x: NXDOMAIN |
-| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
+| [云南大学.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :x: NXDOMAIN |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
