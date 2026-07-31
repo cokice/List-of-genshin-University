@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-07-31 18:08 UTC+8）
+## 高校名单（2026-07-31 21:16 UTC+8）
 
 
 状态说明：
@@ -169,7 +169,7 @@
 | [江西原神大专.com](http://www.江西原神大专.com) | 江西理工大学 | :x: NXDOMAIN |
 | [原神中医药大学.fun](https://原神中医药大学.fun) | 江西中医药大学 | :x: NXDOMAIN |
 | [胶州市最爱玩原神的中学](https://www.胶州市最爱玩原神的中学.com) | 胶州市阜安中学 | :x: NXDOMAIN |
-| [金陵原神学院.com](https://金陵原神学院.com) | 金陵科技学院 | :white_check_mark: Redirect 301 |
+| [金陵原神学院.com](http://金陵原神学院.com) | 金陵科技学院 | :white_check_mark:  |
 | [景德镇原神大学.com](http://www.景德镇原神大学.com) | 景德镇学院 | :x: NXDOMAIN |
 | [江西原神带砖.top](http://www.江西原神带砖.top/) | 井冈山大学 | :x: NXDOMAIN |
 | [北京原神学校.com](https://北京原神学校.com) | 景山学校远洋分校 | :x: NXDOMAIN |
