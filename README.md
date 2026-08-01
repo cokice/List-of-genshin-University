@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有293个高校）（其中75个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有302个高校）（其中76个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-08-01 09:05 UTC+8）
+## 高校名单（2026-08-01 10:51 UTC+8）
 
 
 状态说明：
@@ -43,11 +43,14 @@
 | 网站 | 大学 | 状态 |
 | --- | --- | --- |
 | [加拿大原神大学.com](http://加拿大原神大学.com) | Simon Fraser University | :white_check_mark: Redirect 301 |
+| [genshin-birmingham.uk](http://genshin-birmingham.uk/) | University of Birmingham | :x: 404 |
+| [伯明翰大学原神学院.top](http://伯明翰大学原神学院.top/) | University of Birmingham | :x: 404 |
 | [universityofgenshin.com](http://www.universityofgenshin.com) | University of Melbourne | :x: NXDOMAIN |
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne | :x: NXDOMAIN |
 | [universityofgenshin.ca](http://universityofgenshin.ca/) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [加拿大原神大专.com](http://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [ugensh.in](https://ugensh.in) | University of Sydney | :x: NXDOMAIN |
+| [ugenshin.ca](http://ugenshin.ca) | University of Toronto | :x: NXDOMAIN |
 | [美国奶龙大学.com](http://www.美国奶龙大学.com) | University of Wisconsin-Madison | :x: Connection error |
 | [安徽原神大学.icu](http://安徽原神大学.icu) | 安徽大学 | :x: NXDOMAIN |
 | [提瓦特高等师范学院.icu](http://提瓦特高等师范学院.icu) | 安徽师范大学 | :x: NXDOMAIN |
@@ -139,7 +142,9 @@
 | [原神民族大学.com](http://www.原神民族大学.com) | 湖北民族大学 | :x: NXDOMAIN |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :x: NXDOMAIN |
 | [原神带专.com](https://原神带专.com) | 湖北水利水电职业技术学院 | :x: NXDOMAIN |
+| [湖北原神大学.baby](http://湖北原神大学.baby) | 湖北文理学院 | :white_check_mark: Redirect 301 |
 | [我要玩原神.com](http://我要玩原神.com) | 湖北中医药大学 | :white_check_mark:  |
+| [湖南原神职业技术学院.com](https://www.湖南原神职业技术学院.com) | 湖南城建职业技术学院 | :x: NXDOMAIN |
 | [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :x: NXDOMAIN |
 | [原来你也玩原神.com](http://原来你也玩原神.com) | 华北科技学院 | :question: 404 |
 | [河南怀旧京爷.com](https://www.河南怀旧京爷.com) | 华北水利水电大学 | :x: NXDOMAIN |
@@ -211,6 +216,7 @@
 | [美国原神大学.com](https://www.美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
 | [提瓦特中学.top](http://提瓦特中学.top) | 平遥中学 | :x: NXDOMAIN |
 | [玩原神玩的.xyz](https://玩原神玩的.xyz) | 平阴县实验高中 | :x: NXDOMAIN |
+| [齐鲁原神大学.com](https://www.齐鲁原神大学.com) | 齐鲁工业大学 | :x: NXDOMAIN |
 | [县城原神高中.111111.eu.org](https://县城原神高中.111111.eu.org/) | 前郭尔罗斯蒙古族自治县第二高级中学 | :x: NXDOMAIN |
 | [countygenshinschool.111111.eu.org](https://countygenshinschool.111111.eu.org) | 前郭尔罗斯蒙古族自治县第三中学 | :x: NXDOMAIN |
 | [青岛城市学院原神.club](http://www.青岛城市学院原神.club) | 青岛城市学院 | :x: NXDOMAIN |
@@ -243,6 +249,7 @@
 | [匹诺康尼工业大学.com](https://www.匹诺康尼工业大学.com) | 沈阳工业大学 | :x: NXDOMAIN |
 | [提瓦特航空航天大学.top](https://提瓦特航空航天大学.top) | 沈阳航空航天大学 | :white_check_mark: Redirect 302 |
 | [沈阳原神大学.com](https://沈阳原神大学.com) | 沈阳理工大学 | :x: NXDOMAIN |
+| [原神舱.cn](https://原神舱.cn) | 实验舱 | :x: NXDOMAIN |
 | [原神民族学院.com](http://www.原神民族学院.cn) | 四川民族学院 | :x: NXDOMAIN |
 | [原神民族学院.cn](http://www.原神民族学院.cn/) | 四川民族学院 | :x: NXDOMAIN |
 | [原神农业大学.cn](https://www.原神农业大学.cn) | 四川农业大学 | :x: NXDOMAIN |
@@ -281,8 +288,10 @@
 | [中国原神大学.org](http://中国原神大学.org) | 西南科技大学 | :x: NXDOMAIN |
 | [厦门原神大学.com](http://www.厦门原神大学.com) | 厦门大学 | :x: NXDOMAIN |
 | [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark:  |
-| [厦门原神学校.com](https://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
+| [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
+| [原神工作室.com](https://原神工作室.com) | 小码王立方工作室 | :x: NXDOMAIN |
 | [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :x: NXDOMAIN |
+| [原神音乐学院.icu](https://原神音乐学院.icu) | 星海音乐学院 | :x: NXDOMAIN |
 | [璃月师范大学.com](http://www.璃月师范大学.com/) | 许昌学院 | :x: NXDOMAIN |
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
 | [原神工学院.icu](https://www.原神工学院.icu) | 盐城工学院 | :x: NXDOMAIN |
