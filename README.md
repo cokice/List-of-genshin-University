@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-08-03 14:46 UTC+8）
+## 高校名单（2026-08-03 18:56 UTC+8）
 
 
 状态说明：
@@ -146,7 +146,7 @@
 | [我要玩原神.com](http://我要玩原神.com) | 湖北中医药大学 | :white_check_mark:  |
 | [湖南原神职业技术学院.com](https://www.湖南原神职业技术学院.com) | 湖南城建职业技术学院 | :x: NXDOMAIN |
 | [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :x: NXDOMAIN |
-| [原来你也玩原神.com](http://原来你也玩原神.com) | 华北科技学院 | :question: Connection error |
+| [原来你也玩原神.com](http://原来你也玩原神.com) | 华北科技学院 | :question: 404 |
 | [河南怀旧京爷.com](https://www.河南怀旧京爷.com) | 华北水利水电大学 | :x: NXDOMAIN |
 | [华东原神大学.online](http://华东原神大学.online) | 华东师范大学 | :x: NXDOMAIN |
 | [上海原神大学.com](http://上海原神大学.com) | 华东师范大学 | :white_check_mark: Redirect 301 |
@@ -299,8 +299,8 @@
 | [genshinedu.com](https://www.genshinedu.com/) | 宜宾学院 | :x: NXDOMAIN |
 | [英国皇家原神学院.com](http://www.英国皇家原神学院.com/) | 英国皇家艺术学院 | :x: NXDOMAIN |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :x: NXDOMAIN |
+| [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :x: NXDOMAIN |
-| [tjut.top](https://tjut.top) | 原神 | :question: Connection error |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :x: NXDOMAIN |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :x: NXDOMAIN |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
