@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-08-04 14:12 UTC+8）
+## 高校名单（2026-08-04 18:13 UTC+8）
 
 
 状态说明：
@@ -58,7 +58,7 @@
 | [原神科技大学.com](https://www.原神科技大学.com) | 澳门科技大学 | :white_check_mark: Redirect 301 |
 | [澳门原神大学.com](http://澳门原神大学.com) | 澳门理工大学 | :white_check_mark: CNAME |
 | [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :x: NXDOMAIN |
-| [pku.原神.org](http://pku.原神.org) | 北京大学 | :question: 521 |
+| [pku.原神.org](http://pku.原神.org) | 北京大学 | :question: Connection error |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :x: Connection error |
 | [原神风之翼技术大学.fontlos.com](http://原神风之翼技术大学.fontlos.com) | 北京航空航天大学 | :white_check_mark: Redirect 301 |
 | [北京原神大学.cn](https://北京原神大学.cn) | 北京化工大学 | :white_check_mark: CNAME |
