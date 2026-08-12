@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-08-12 13:03 UTC+8）
+## 高校名单（2026-08-12 13:13 UTC+8）
 
 
 状态说明：
@@ -269,7 +269,7 @@
 | [原神商学院.top](http://原神商学院.top) | 天津商业大学 | :x: NXDOMAIN |
 | [原神师范大学.online](http://www.原神师范大学.online) | 天津师范大学 | :x: NXDOMAIN |
 | [玩原神考上的.cn](https://玩原神考上的.cn) | 天津医科大学临床医学院 | :x: NXDOMAIN |
-| [原神小学.com](https://原神小学.com) | 通川区第一小学校 | :question: 412 |
+| [原神小学.com](https://www.原神小学.com) | 通川区第一小学校 | :question: 412 |
 | [威海原神大学.cn](https://www.威海原神大学.cn) | 威海海洋职业学院 | :x: NXDOMAIN |
 | [无锡原神职业技术学院.xyz](http://无锡原神职业技术学院.xyz) | 无锡商业职业技术学院 | :x: NXDOMAIN |
 | [武汉原神大学.com](https://www.武汉原神大学.com) | 武汉纺织大学 | :x: NXDOMAIN |
