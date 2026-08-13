@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-08-12 13:13 UTC+8）
+## 高校名单（2026-08-13 13:16 UTC+8）
 
 
 状态说明：
@@ -133,7 +133,7 @@
 | [原神科技学院.lol](https://原神科技学院.lol) | 河北农业大学现代科技学院 | :x: NXDOMAIN |
 | [河北原神大专.com](https://河北原神大专.com) | 河北师范大学 | :x: NXDOMAIN |
 | [广西原神大学.top](http://广西原神大学.top/) | 河池学院 | :x: NXDOMAIN |
-| [中国原神中学.com](http://中国原神中学.com) | 合肥八中 | :white_check_mark: Redirect 302 |
+| [中国原神中学.com](https://中国原神中学.com) | 合肥八中 | :white_check_mark: Redirect 302 |
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: NXDOMAIN |
 | [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :x: Connection error |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
@@ -290,7 +290,7 @@
 | [中国原神大学.org](http://中国原神大学.org) | 西南科技大学 | :x: NXDOMAIN |
 | [厦门原神大学.com](http://www.厦门原神大学.com) | 厦门大学 | :x: NXDOMAIN |
 | [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark:  |
-| [厦门原神学校.com](https://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
+| [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
 | [原神工作室.com](https://原神工作室.com) | 小码王立方工作室 | :x: NXDOMAIN |
 | [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :x: NXDOMAIN |
 | [原神音乐学院.icu](https://原神音乐学院.icu) | 星海音乐学院 | :x: NXDOMAIN |
@@ -333,7 +333,7 @@
 | [中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 | :x: NXDOMAIN |
 | [北京原神中学.top](https://www.北京原神中学.top) | 中国人民大学附属中学朝阳学校 | :white_check_mark: Redirect 301 |
 | [舞萌大学.world](https://www.舞萌大学.world) | 中国社会科学院大学 | :white_check_mark: Redirect 301 |
-| [中国原神大学.online](https://www.中国原神大学.online) | 中国社会科学院大学 | :white_check_mark: Redirect 301 |
+| [中国原神大学.online](https://中国原神大学.online) | 中国社会科学院大学 | :white_check_mark: Redirect 301 |
 | [中国原神大学.cc](http://www.中国原神大学.cc) | 中国石油大学华东 | :x: NXDOMAIN |
 | [原神消防学院.com](http://原神消防学院.com) | 中国消防救援学院 | :x: NXDOMAIN |
 | [原神高级中学.com](http://原神高级中学.com) | 中国药科大学 | :x: NXDOMAIN |
