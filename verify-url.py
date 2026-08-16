@@ -352,9 +352,16 @@ def reshape_pinyin(l):
     return o
 
 
+VALID_STATUS_MARKERS = (":white_check_mark:", ":question:")
+
+
 def sort_key(s):
-    m = re.match(r"\| *\[(.*?)\]\((?P<link>.*?)\) *\| *(?P<name>.*?) *\|.*", s)
+    m = re.match(
+        r"\| *\[(.*?)\]\((?P<link>.*?)\) *\| *(?P<name>.*?) *\| *(?P<status>.*?) *\|",
+        s,
+    )
     return [
+        0 if any(marker in m["status"] for marker in VALID_STATUS_MARKERS) else 1,
         reshape_pinyin(pypinyin.pinyin(m["name"], style="tone_with_original", errors=handle_no_pinyin)),
         reshape_pinyin(pypinyin.pinyin(m["link"], style="tone_with_original", errors=handle_no_pinyin)),
     ]

@@ -6,7 +6,7 @@
 非高校也可添加哟~
 
 喜欢本项目的话可以在[GitHub](https://github.com/cokice/List-of-genshin-University)内点个star。
-**该名单由学校名称字母顺序排列**
+**该名单优先展示有效域名，同一有效性分组内按学校名称字母顺序排列**
 
 ## 如何提交
 :::caution
