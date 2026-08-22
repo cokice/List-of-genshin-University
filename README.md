@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有304个高校）（其中76个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有304个高校）（其中77个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-08-21 12:09 UTC+8）
+## 高校名单（2026-08-22 12:04 UTC+8）
 
 
 状态说明：
@@ -46,11 +46,11 @@
 | [universityofgenshin.ca](http://universityofgenshin.ca/) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [加拿大原神大专.com](http://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [原神科技大学.com](https://www.原神科技大学.com) | 澳门科技大学 | :white_check_mark: Meta Refresh |
-| [澳门原神大学.com](http://澳门原神大学.com) | 澳门理工大学 | :white_check_mark: CNAME |
 | [pku.原神.org](http://pku.原神.org) | 北京大学 | :question: 521 |
 | [北京原神大学.world](https://北京原神大学.world/) | 北京工业大学 | :white_check_mark: Redirect 301 |
 | [原神风之翼技术大学.fontlos.com](http://原神风之翼技术大学.fontlos.com) | 北京航空航天大学 | :white_check_mark: Redirect 301 |
 | [北京原神大学.cn](https://北京原神大学.cn) | 北京化工大学 | :white_check_mark: CNAME |
+| [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 | :white_check_mark: Redirect 302 |
 | [提瓦特第四中学.top](https://www.提瓦特第四中学.top) | 北京市第四中学 | :white_check_mark: Redirect 301 |
 | [中国原神学院.com](http://中国原神学院.com) | 北京信息科技大学 | :white_check_mark:  |
 | [长春原神大学.com](http://www.长春原神大学.com) | 长春理工大学 | :white_check_mark: Redirect 301 |
@@ -72,6 +72,7 @@
 | [中国原神中学.com](https://中国原神中学.com) | 合肥八中 | :white_check_mark: Redirect 302 |
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 黑龙江大学 | :white_check_mark: Redirect 301 |
 | [道外区原神大学.cn](https://道外区原神大学.cn) | 黑龙江工程学院 | :white_check_mark: Redirect 302 |
+| [湖北原神大学.baby](http://湖北原神大学.baby) | 湖北文理学院 | :white_check_mark: Redirect 301 |
 | [原来你也玩原神.com](http://原来你也玩原神.com) | 华北科技学院 | :question: 404 |
 | [上海原神大学.com](http://上海原神大学.com) | 华东师范大学 | :white_check_mark: Redirect 301 |
 | [华南原神大学.com](http://www.华南原神大学.com) | 华南理工大学 | :white_check_mark: Redirect 301 |
@@ -128,9 +129,9 @@
 | [安徽原神大学.icu](http://安徽原神大学.icu) | 安徽大学 | :x: NXDOMAIN |
 | [提瓦特高等师范学院.icu](http://提瓦特高等师范学院.icu) | 安徽师范大学 | :x: NXDOMAIN |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
+| [澳门原神大学.com](http://澳门原神大学.com) | 澳门理工大学 | :x: NXDOMAIN |
 | [北方原神大学.top](https://北方原神大学.top) | 北方工业大学 | :x: NXDOMAIN |
 | [暂时不能给你明确的答复.com](http://暂时不能给你明确的答复.com) | 北京大学信息科学技术学院 | :x: Connection error |
-| [北京原神大学.com](http://www.北京原神大学.com) | 北京交通大学 | :x: Connection error |
 | [北京原神大学.net](http://北京原神大学.net) | 北京交通大学 | :x: NXDOMAIN |
 | [北京原神大专.com](https://www.北京原神大专.com) | 北京理工大学 | :x: NXDOMAIN |
 | [原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 | :x: NXDOMAIN |
@@ -192,7 +193,6 @@
 | [原神民族大学.com](http://www.原神民族大学.com) | 湖北民族大学 | :x: NXDOMAIN |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :x: NXDOMAIN |
 | [原神带专.com](https://原神带专.com) | 湖北水利水电职业技术学院 | :x: NXDOMAIN |
-| [湖北原神大学.baby](http://湖北原神大学.baby) | 湖北文理学院 | :x: Connection error |
 | [我要玩原神.com](http://我要玩原神.com) | 湖北中医药大学 | :x: Connection error |
 | [湖南原神职业技术学院.com](https://www.湖南原神职业技术学院.com) | 湖南城建职业技术学院 | :x: NXDOMAIN |
 | [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :x: NXDOMAIN |
