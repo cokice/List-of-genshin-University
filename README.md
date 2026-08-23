@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有304个高校）（其中77个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有304个高校）（其中76个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-08-22 12:04 UTC+8）
+## 高校名单（2026-08-23 12:09 UTC+8）
 
 
 状态说明：
@@ -109,7 +109,6 @@
 | [东方原神大学.com](https://www.东方原神大学.com) | 浙江大学 | :white_check_mark:  |
 | [提瓦特科技大学.com](http://www.提瓦特科技大学.com) | 浙江科技学院 | :white_check_mark: Redirect 301 |
 | [浙江原神大学.com](http://www.浙江原神大学.com) | 浙江万里学院 | :white_check_mark: Redirect 301 |
-| [郑州原神大学.com](https://郑州原神大学.com) | 郑州工商学院 | :white_check_mark: Redirect 301 |
 | [河南原神大学.com](https://河南原神大学.com) | 郑州轻工业大学 | :white_check_mark: Redirect 301 |
 | [中国op大学.com](https://中国op大学.com) | 中国海洋大学 | :white_check_mark: Redirect 301 |
 | [玩原神玩的.com](http://玩原神玩的.com) | 中国科学技术大学 | :white_check_mark: Redirect 301 |
@@ -332,6 +331,7 @@
 | [浙江原神大学.cn](https://浙江原神大学.cn) | 浙江理工大学 | :x: NXDOMAIN |
 | [临安原神大学.xyz](http://临安原神大学.xyz) | 浙江农林大学 | :x: NXDOMAIN |
 | [原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 | :x: NXDOMAIN |
+| [郑州原神大学.com](https://郑州原神大学.com) | 郑州工商学院 | :x: Connection error |
 | [山西原神大学.com](http://www.山西原神大学.com) | 中北大学 | :x: NXDOMAIN |
 | [人民原神第一校.fun](https://人民原神第一校.fun) | 中北大学 | :x: NXDOMAIN |
 | [国立原神大学.top](http://国立原神大学.top) | 中国海洋大学 | :x: NXDOMAIN |
