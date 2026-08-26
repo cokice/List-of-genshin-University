@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有304个高校）（其中76个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有304个高校）（其中75个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-08-25 12:08 UTC+8）
+## 高校名单（2026-08-26 12:10 UTC+8）
 
 
 状态说明：
@@ -64,7 +64,6 @@
 | [哈尔滨原神大学.com](http://哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: Redirect 308 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [东北原神大学.top](https://www.东北原神大学.top) | 哈尔滨理工大学 | :white_check_mark:  |
-| [哈尔滨原神大学.cn](https://www.哈尔滨原神大学.cn) | 哈尔滨理工大学 | :white_check_mark: CNAME |
 | [提瓦特大学.com](https://提瓦特大学.com) | 海南大学 | :white_check_mark: Redirect 301 |
 | [河北原神大学.cc.cd](http://河北原神大学.cc.cd) | 河北工程大学 | :white_check_mark: Redirect 302 |
 | [河北原神大学东校区.cc.cd](http://河北原神大学东校区.cc.cd) | 河北工程大学科信学院 | :white_check_mark: Redirect 302 |
@@ -175,6 +174,7 @@
 | [广州原神大学.icu](https://广州原神大学.icu) | 广州南洋理工职业学院 | :x: NXDOMAIN |
 | [原神启动.space](https://www.原神启动.space) | 广州商学院 | :x: NXDOMAIN |
 | [原神理工大学.icu](http://www.原神理工大学.icu) | 桂林理工大学南宁分校 | :x: NXDOMAIN |
+| [哈尔滨原神大学.cn](https://www.哈尔滨原神大学.cn) | 哈尔滨理工大学 | :x: NXDOMAIN |
 | [提瓦特大专.com](http://www.提瓦特大专.com) | 哈尔滨商业大学 | :x: NXDOMAIN |
 | [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :x: NXDOMAIN |
 | [原神医科大学.cn](http://www.原神医科大学.cn) | 海南医科大学 | :x: NXDOMAIN |
@@ -186,7 +186,7 @@
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: NXDOMAIN |
 | [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :x: Connection error |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
-| [璃月黑岩科技大学.cn](https://璃月黑岩科技大学.cn) | 黑龙江科技大学 | :x: NXDOMAIN |
+| [璃月黑岩科技大学.cn](https://璃月黑岩科技大学.cn) | 黑龙江科技大学 | :x: DNS error |
 | [湖北原神大学.xyz](http://湖北原神大学.xyz) | 湖北大学 | :x: NXDOMAIN |
 | [湖北原神大学.xyz](http://湖北原神大学.xyz/原神联合学院) | 湖北大学曼城联合学院 | :x: NXDOMAIN |
 | [原神民族大学.com](http://www.原神民族大学.com) | 湖北民族大学 | :x: NXDOMAIN |
@@ -246,7 +246,7 @@
 | [nku.天津原神大学.icu](https://nku.天津原神大学.icu) | 南开大学 | :x: NXDOMAIN |
 | [genshin.university](http://www.genshin.university) | 南通大学 | :x: NXDOMAIN |
 | [原神农业大学.com](http://原神农业大学.com/) | 内蒙古农业大学 | :x: NXDOMAIN |
-| [www.泥巴原神学院.cn](https://www.泥巴原神学院.cn/) | 宁波工程学院 | :x: NXDOMAIN |
+| [www.泥巴原神学院.cn](https://www.泥巴原神学院.cn/) | 宁波工程学院 | :x: DNS error |
 | [诺丁汉原神大学.xyz](http://诺丁汉原神大学.xyz) | 宁波诺丁汉大学 | :x: NXDOMAIN |
 | [提瓦特中学.top](http://提瓦特中学.top) | 平遥中学 | :x: NXDOMAIN |
 | [玩原神玩的.xyz](https://玩原神玩的.xyz) | 平阴县实验高中 | :x: NXDOMAIN |
