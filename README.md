@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-08-28 23:33 UTC+8）
+## 高校名单（2026-08-29 18:17 UTC+8）
 
 
 状态说明：
@@ -101,7 +101,7 @@
 | [武汉原神大专.com](https://www.武汉原神大专.com) | 武汉工程大学 | :white_check_mark: Redirect 302 |
 | [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark:  |
 | [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
-| [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
+| [tjut.top](http://tjut.top) | 原神 | :question: Connection error |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
 | [博士多托雷研究学院.senwoo.fun](http://博士多托雷研究学院.senwoo.fun) | 云原神大学 | :white_check_mark:  |
@@ -111,7 +111,7 @@
 | [河南原神大学.com](https://河南原神大学.com) | 郑州轻工业大学 | :white_check_mark: Redirect 301 |
 | [中国op大学.com](https://中国op大学.com) | 中国海洋大学 | :white_check_mark: Redirect 301 |
 | [玩原神玩的.com](http://玩原神玩的.com) | 中国科学技术大学 | :white_check_mark: Redirect 301 |
-| [北京原神中学.top](https://www.北京原神中学.top) | 中国人民大学附属中学朝阳学校 | :question: Connection error |
+| [北京原神中学.top](https://www.北京原神中学.top) | 中国人民大学附属中学朝阳学校 | :white_check_mark: Redirect 301 |
 | [舞萌大学.world](https://www.舞萌大学.world) | 中国社会科学院大学 | :white_check_mark: Redirect 301 |
 | [中国原神大学.online](https://中国原神大学.online) | 中国社会科学院大学 | :white_check_mark: Redirect 301 |
 | [沈阳原神大学.hongbot.icu](http://沈阳原神大学.hongbot.icu) | 中国医科大学 | :question: 403 |
@@ -277,7 +277,7 @@
 | [深圳原神高级中学.fun](http://深圳原神高级中学.fun) | 深圳盐田高级中学 | :x: NXDOMAIN |
 | [匹诺康尼工业大学.com](https://www.匹诺康尼工业大学.com) | 沈阳工业大学 | :x: NXDOMAIN |
 | [沈阳原神大学.com](https://沈阳原神大学.com) | 沈阳理工大学 | :x: NXDOMAIN |
-| [原神舱.cn](https://原神舱.cn) | 实验舱 | :x: DNS error |
+| [原神舱.cn](https://原神舱.cn) | 实验舱 | :x: NXDOMAIN |
 | [原神民族学院.cn](http://www.原神民族学院.cn/) | 四川民族学院 | :x: NXDOMAIN |
 | [原神农业大学.cn](https://www.原神农业大学.cn) | 四川农业大学 | :x: NXDOMAIN |
 | [苏州原神大学.cn](https://苏州原神大学.cn) | 苏州城市学院 | :x: NXDOMAIN |
