@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-08-29 18:17 UTC+8）
+## 高校名单（2026-08-30 17:23 UTC+8）
 
 
 状态说明：
@@ -101,7 +101,7 @@
 | [武汉原神大专.com](https://www.武汉原神大专.com) | 武汉工程大学 | :white_check_mark: Redirect 302 |
 | [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark:  |
 | [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
-| [tjut.top](http://tjut.top) | 原神 | :question: Connection error |
+| [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
 | [博士多托雷研究学院.senwoo.fun](http://博士多托雷研究学院.senwoo.fun) | 云原神大学 | :white_check_mark:  |
@@ -184,7 +184,7 @@
 | [河北原神大专.com](https://河北原神大专.com) | 河北师范大学 | :x: NXDOMAIN |
 | [广西原神大学.top](http://广西原神大学.top/) | 河池学院 | :x: NXDOMAIN |
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: NXDOMAIN |
-| [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :x: Connection error |
+| [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :x: NXDOMAIN |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
 | [璃月黑岩科技大学.cn](https://璃月黑岩科技大学.cn) | 黑龙江科技大学 | :x: DNS error |
 | [湖北原神大学.xyz](http://湖北原神大学.xyz) | 湖北大学 | :x: NXDOMAIN |
@@ -290,7 +290,7 @@
 | [原神商学院.top](http://原神商学院.top) | 天津商业大学 | :x: NXDOMAIN |
 | [原神师范大学.online](http://www.原神师范大学.online) | 天津师范大学 | :x: NXDOMAIN |
 | [玩原神考上的.cn](https://玩原神考上的.cn) | 天津医科大学临床医学院 | :x: NXDOMAIN |
-| [威海原神大学.cn](https://www.威海原神大学.cn) | 威海海洋职业学院 | :x: NXDOMAIN |
+| [威海原神大学.cn](https://www.威海原神大学.cn) | 威海海洋职业学院 | :x: DNS error |
 | [无锡原神职业技术学院.xyz](http://无锡原神职业技术学院.xyz) | 无锡商业职业技术学院 | :x: NXDOMAIN |
 | [武汉原神大学.com](https://www.武汉原神大学.com) | 武汉纺织大学 | :x: NXDOMAIN |
 | [武汉原神大学.site](http://武汉原神大学.site) | 武汉工程大学 | :x: NXDOMAIN |
