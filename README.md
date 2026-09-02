@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-09-01 16:49 UTC+8）
+## 高校名单（2026-09-02 16:02 UTC+8）
 
 
 状态说明：
@@ -72,7 +72,7 @@
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 黑龙江大学 | :white_check_mark: Redirect 301 |
 | [道外区原神大学.cn](https://道外区原神大学.cn) | 黑龙江工程学院 | :white_check_mark: Redirect 302 |
 | [湖北原神大学.baby](http://湖北原神大学.baby) | 湖北文理学院 | :white_check_mark: Redirect 301 |
-| [原来你也玩原神.com](http://原来你也玩原神.com) | 华北科技学院 | :question: 404 |
+| [原来你也玩原神.com](http://原来你也玩原神.com) | 华北科技学院 | :question: Connection error |
 | [上海原神大学.com](http://上海原神大学.com) | 华东师范大学 | :white_check_mark: Redirect 301 |
 | [华南原神大学.com](http://www.华南原神大学.com) | 华南理工大学 | :white_check_mark: Redirect 301 |
 | [canada-genshin-university.pages.dev/](http://canada-genshin-university.pages.dev/) | 滑铁卢大学 | :white_check_mark: Redirect 301 |
