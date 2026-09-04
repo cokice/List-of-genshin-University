@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-09-03 16:12 UTC+8）
+## 高校名单（2026-09-04 16:07 UTC+8）
 
 
 状态说明：
@@ -116,7 +116,7 @@
 | [中国原神大学.online](https://中国原神大学.online) | 中国社会科学院大学 | :white_check_mark: Redirect 301 |
 | [沈阳原神大学.hongbot.icu](http://沈阳原神大学.hongbot.icu) | 中国医科大学 | :question: 403 |
 | [中国原神大学.com](http://中国原神大学.com) | 中国原神大学 | :white_check_mark: Redirect 301 |
-| [原神启动.com](https://www.原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
+| [原神启动.com](https://www.原神启动.com) | 中南林业科技大学 | :question: Connection error |
 | [genshin-birmingham.uk](http://genshin-birmingham.uk/) | University of Birmingham | :x: 404 |
 | [伯明翰大学原神学院.top](http://伯明翰大学原神学院.top/) | University of Birmingham | :x: 404 |
 | [universityofgenshin.com](http://www.universityofgenshin.com) | University of Melbourne | :x: NXDOMAIN |
