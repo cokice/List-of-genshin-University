@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有304个高校）（其中75个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有304个高校）（其中74个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-09-04 16:07 UTC+8）
+## 高校名单（2026-09-05 15:48 UTC+8）
 
 
 状态说明：
@@ -46,7 +46,7 @@
 | [universityofgenshin.ca](http://universityofgenshin.ca/) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [加拿大原神大专.com](http://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [原神科技大学.com](https://www.原神科技大学.com) | 澳门科技大学 | :white_check_mark: Meta Refresh |
-| [pku.原神.org](http://pku.原神.org) | 北京大学 | :question: 521 |
+| [pku.原神.org](http://pku.原神.org) | 北京大学 | :question: Connection error |
 | [北京原神大学.world](https://北京原神大学.world/) | 北京工业大学 | :white_check_mark: Redirect 301 |
 | [原神风之翼技术大学.fontlos.com](http://原神风之翼技术大学.fontlos.com) | 北京航空航天大学 | :white_check_mark: Redirect 301 |
 | [北京原神大学.cn](https://北京原神大学.cn) | 北京化工大学 | :white_check_mark: CNAME |
@@ -59,7 +59,7 @@
 | [op.wiki](https://www.op.wiki) | 重庆邮电大学 | :white_check_mark: Redirect 301 |
 | [广东原神大学.com](https://广东原神大学.com) | 东莞理工学院 | :white_check_mark: Redirect 302 |
 | [美国原神学院.com](https://美国原神学院.com) | 俄亥俄州立大学 | :white_check_mark: Redirect 301 |
-| [原神.org](http://原神.org) | 广东药科大学 | :question: 521 |
+| [原神.org](http://原神.org) | 广东药科大学 | :question: Connection error |
 | [世界原神大学.com](http://世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
 | [哈尔滨原神大学.com](http://哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: Redirect 308 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
@@ -82,7 +82,6 @@
 | [江苏省响水中学.02.gold](http://江苏省响水中学.02.gold) | 江苏省响水中学 | :white_check_mark:  |
 | [原神中学.02.gold](http://原神中学.02.gold/) | 江苏省响水中学 | :white_check_mark:  |
 | [云响中.02.gold](http://云响中.02.gold) | 江苏省响水中学 | :white_check_mark:  |
-| [金陵原神学院.com](http://金陵原神学院.com) | 金陵科技学院 | :white_check_mark:  |
 | [玩绝区零玩的.com](http://玩绝区零玩的.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
 | [崩坏星穹铁道.com](https://崩坏星穹铁道.com) | 南昌大学 | :white_check_mark: Redirect 301 |
 | [南京原神大学.com](http://南京原神大学.com) | 南京大学 | :white_check_mark: Redirect 301 |
@@ -213,6 +212,7 @@
 | [江西原神大专.com](http://www.江西原神大专.com) | 江西理工大学 | :x: NXDOMAIN |
 | [原神中医药大学.fun](https://原神中医药大学.fun) | 江西中医药大学 | :x: NXDOMAIN |
 | [胶州市最爱玩原神的中学.com](https://www.胶州市最爱玩原神的中学.com) | 胶州市阜安中学 | :x: NXDOMAIN |
+| [金陵原神学院.com](http://金陵原神学院.com) | 金陵科技学院 | :x: NXDOMAIN |
 | [景德镇原神大学.com](http://www.景德镇原神大学.com) | 景德镇学院 | :x: NXDOMAIN |
 | [江西原神带砖.top](http://www.江西原神带砖.top/) | 井冈山大学 | :x: NXDOMAIN |
 | [北京原神学校.com](https://北京原神学校.com) | 景山学校远洋分校 | :x: NXDOMAIN |
