@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有307个高校）（其中77个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有307个高校）（其中75个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-09-11 16:13 UTC+8）
+## 高校名单（2026-09-12 16:03 UTC+8）
 
 
 状态说明：
@@ -63,7 +63,6 @@
 | [世界原神大学.com](http://世界原神大学.com) | 广西大学 | :white_check_mark: Redirect 301 |
 | [哈尔滨原神大学.com](http://哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: Redirect 308 |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
-| [东北原神大学.top](http://东北原神大学.top) | 哈尔滨理工大学 | :white_check_mark:  |
 | [提瓦特大学.com](https://提瓦特大学.com) | 海南大学 | :white_check_mark: Redirect 301 |
 | [河北原神大学.cc.cd](http://河北原神大学.cc.cd) | 河北工程大学 | :white_check_mark: Redirect 302 |
 | [河北原神大学东校区.cc.cd](http://河北原神大学东校区.cc.cd) | 河北工程大学科信学院 | :white_check_mark: Redirect 302 |
@@ -99,7 +98,6 @@
 | [原神小学.com](https://www.原神小学.com) | 通川区第一小学校 | :question: 412 |
 | [武汉原神大专.com](https://www.武汉原神大专.com) | 武汉工程大学 | :white_check_mark: Redirect 302 |
 | [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark:  |
-| [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
 | [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
@@ -176,6 +174,7 @@
 | [广州原神大学.icu](https://广州原神大学.icu) | 广州南洋理工职业学院 | :x: NXDOMAIN |
 | [原神启动.space](https://www.原神启动.space) | 广州商学院 | :x: NXDOMAIN |
 | [原神理工大学.icu](http://www.原神理工大学.icu) | 桂林理工大学南宁分校 | :x: NXDOMAIN |
+| [东北原神大学.top](http://东北原神大学.top) | 哈尔滨理工大学 | :x: DNS error |
 | [哈尔滨原神大学.cn](https://www.哈尔滨原神大学.cn) | 哈尔滨理工大学 | :x: NXDOMAIN |
 | [提瓦特大专.com](http://www.提瓦特大专.com) | 哈尔滨商业大学 | :x: NXDOMAIN |
 | [玩原神玩傻了.top](http://玩原神玩傻了.top) | 海口实验中学 | :x: NXDOMAIN |
@@ -311,6 +310,7 @@
 | [原神工业大学.icu](http://原神工业大学.icu) | 西北工业大学 | :x: NXDOMAIN |
 | [中国原神大学.org](http://中国原神大学.org) | 西南科技大学 | :x: NXDOMAIN |
 | [厦门原神大学.com](http://www.厦门原神大学.com) | 厦门大学 | :x: NXDOMAIN |
+| [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :x: Connection error |
 | [原神工作室.com](https://原神工作室.com) | 小码王立方工作室 | :x: NXDOMAIN |
 | [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :x: NXDOMAIN |
 | [原神音乐学院.icu](https://原神音乐学院.icu) | 星海音乐学院 | :x: NXDOMAIN |
