@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-09-19 16:12 UTC+8）
+## 高校名单（2026-09-20 16:45 UTC+8）
 
 
 状态说明：
@@ -323,7 +323,7 @@
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :x: NXDOMAIN |
 | [美国原神大学.top](http://美国原神大学.top) | 约翰斯·霍普金斯大学 | :x: NXDOMAIN |
 | [云南原神大学.com](http://云南原神大学.com) | 云南财经大学 | :x: NXDOMAIN |
-| [博士多托雷研究学院.senwoo.fun](http://博士多托雷研究学院.senwoo.fun) | 云原神大学 | :x: Connection error |
+| [博士多托雷研究学院.senwoo.fun](http://博士多托雷研究学院.senwoo.fun) | 云原神大学 | :x: NXDOMAIN |
 | [长垣原神大学.icu](https://长垣原神大学.icu/) | 长垣市烹饪职业技术学院 | :x: NXDOMAIN |
 | [原神怎么你了.com](http://www.原神怎么你了.com) | 浙江财经大学东方学院 | :x: NXDOMAIN |
 | [全球某原神大学.com](http://www.全球某原神大学.com) | 浙江工商大学 | :x: NXDOMAIN |
