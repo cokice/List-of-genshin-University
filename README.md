@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-09-21 17:11 UTC+8）
+## 高校名单（2026-09-22 16:43 UTC+8）
 
 
 状态说明：
@@ -192,7 +192,7 @@
 | [原神民族大学.com](http://www.原神民族大学.com) | 湖北民族大学 | :x: NXDOMAIN |
 | [原神汽砖.fun](http://www.原神汽砖.fun) | 湖北汽车工业学院 | :x: NXDOMAIN |
 | [原神带专.com](https://原神带专.com) | 湖北水利水电职业技术学院 | :x: NXDOMAIN |
-| [我要玩原神.com](http://我要玩原神.com) | 湖北中医药大学 | :x: Connection error |
+| [我要玩原神.com](http://我要玩原神.com) | 湖北中医药大学 | :x: NXDOMAIN |
 | [湖南原神职业技术学院.com](https://www.湖南原神职业技术学院.com) | 湖南城建职业技术学院 | :x: NXDOMAIN |
 | [湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 | :x: NXDOMAIN |
 | [河南怀旧京爷.com](https://www.河南怀旧京爷.com) | 华北水利水电大学 | :x: NXDOMAIN |
