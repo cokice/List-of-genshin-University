@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-09-24 16:38 UTC+8）
+## 高校名单（2026-09-25 17:00 UTC+8）
 
 
 状态说明：
@@ -187,7 +187,7 @@
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: NXDOMAIN |
 | [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :x: NXDOMAIN |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
-| [璃月黑岩科技大学.cn](https://璃月黑岩科技大学.cn) | 黑龙江科技大学 | :x: DNS error |
+| [璃月黑岩科技大学.cn](https://璃月黑岩科技大学.cn) | 黑龙江科技大学 | :x: NXDOMAIN |
 | [湖北原神大学.xyz](http://湖北原神大学.xyz) | 湖北大学 | :x: NXDOMAIN |
 | [湖北原神大学.xyz](http://湖北原神大学.xyz/原神联合学院) | 湖北大学曼城联合学院 | :x: NXDOMAIN |
 | [原神民族大学.com](http://www.原神民族大学.com) | 湖北民族大学 | :x: NXDOMAIN |
