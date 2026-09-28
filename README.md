@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-09-27 17:26 UTC+8）
+## 高校名单（2026-09-28 18:03 UTC+8）
 
 
 状态说明：
@@ -98,7 +98,7 @@
 | [武汉原神大专.com](https://www.武汉原神大专.com) | 武汉工程大学 | :white_check_mark: Redirect 302 |
 | [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark:  |
 | [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
-| [tjut.top](https://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
+| [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
 | [东方原神大学.com](https://www.东方原神大学.com) | 浙江大学 | :white_check_mark:  |
@@ -238,7 +238,7 @@
 | [阿卡林原神大学.top](http://www.阿卡林原神大学.top) | 南昌航空大学 | :x: NXDOMAIN |
 | [南京浦口原神中专.xyz](http://www.南京浦口原神中专.xyz) | 南京工业大学 | :x: NXDOMAIN |
 | [玄武区原神大学.xyz](http://玄武区原神大学.xyz) | 南京林业大学 | :x: NXDOMAIN |
-| [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: DNS error |
+| [南京原神大学.vip](http://www.南京原神大学.vip) | 南京农业大学 | :x: NXDOMAIN |
 | [原神师范大学.live](http://www.原神师范大学.live) | 南京师范大学 | :x: NXDOMAIN |
 | [南京星穹铁道职业技术学院.xyz](http://南京星穹铁道职业技术学院.xyz) | 南京铁道职业技术学院 | :x: NXDOMAIN |
 | [原神师范学院.top](http://原神师范学院.top) | 南京晓庄学院 | :x: NXDOMAIN |
