@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-10-04 17:59 UTC+8）
+## 高校名单（2026-10-05 18:43 UTC+8）
 
 
 状态说明：
@@ -335,7 +335,7 @@
 | [浙江原神大学.cn](https://浙江原神大学.cn) | 浙江理工大学 | :x: NXDOMAIN |
 | [临安原神大学.xyz](http://临安原神大学.xyz) | 浙江农林大学 | :x: NXDOMAIN |
 | [原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) | 浙江水利水电学院 | :x: NXDOMAIN |
-| [郑州原神大学.com](https://郑州原神大学.com) | 郑州工商学院 | :x: Connection error |
+| [郑州原神大学.com](https://郑州原神大学.com) | 郑州工商学院 | :x: NXDOMAIN |
 | [山西原神大学.com](http://www.山西原神大学.com) | 中北大学 | :x: NXDOMAIN |
 | [人民原神第一校.fun](https://人民原神第一校.fun) | 中北大学 | :x: NXDOMAIN |
 | [国立原神大学.top](http://国立原神大学.top) | 中国海洋大学 | :x: NXDOMAIN |
