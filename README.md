@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-10-10 18:02 UTC+8）
+## 高校名单（2026-10-11 18:12 UTC+8）
 
 
 状态说明：
@@ -76,9 +76,9 @@
 | [吉林大学.com](https://吉林大学.com) | 吉林大学 | :white_check_mark:  |
 | [黑龙江原神大学.icu](http://黑龙江原神大学.icu) | 佳木斯大学 | :white_check_mark: Redirect 301 |
 | [加州原神大学.com](https://加州原神大学.com) | 加州大学圣塔芭芭拉分校 | :white_check_mark: Redirect 301 |
-| [江苏省响水中学.02.gold](http://江苏省响水中学.02.gold) | 江苏省响水中学 | :white_check_mark:  |
-| [原神中学.02.gold](http://原神中学.02.gold/) | 江苏省响水中学 | :white_check_mark:  |
-| [云响中.02.gold](http://云响中.02.gold) | 江苏省响水中学 | :white_check_mark:  |
+| [江苏省响水中学.02.gold](http://www.江苏省响水中学.02.gold) | 江苏省响水中学 | :white_check_mark: Redirect 302 |
+| [原神中学.02.gold](http://原神中学.02.gold/) | 江苏省响水中学 | :white_check_mark: Redirect 302 |
+| [云响中.02.gold](http://云响中.02.gold) | 江苏省响水中学 | :question: Connection error |
 | [玩绝区零玩的.com](http://玩绝区零玩的.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
 | [崩坏星穹铁道.com](https://崩坏星穹铁道.com) | 南昌大学 | :white_check_mark: Redirect 301 |
 | [南京原神大学.com](http://南京原神大学.com) | 南京大学 | :white_check_mark: Redirect 301 |
