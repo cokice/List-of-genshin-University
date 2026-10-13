@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有310个高校）（其中77个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有310个高校）（其中78个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-10-13 09:52 UTC+8）
+## 高校名单（2026-10-13 18:51 UTC+8）
 
 
 状态说明：
@@ -45,6 +45,7 @@
 | [加拿大原神大学.com](http://加拿大原神大学.com) | Simon Fraser University | :white_check_mark: Redirect 301 |
 | [universityofgenshin.ca](http://universityofgenshin.ca/) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [加拿大原神大专.com](http://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 301 |
+| [美国奶龙大学.com](http://www.美国奶龙大学.com) | University of Wisconsin-Madison | :white_check_mark: CNAME |
 | [pku.原神.org](http://pku.原神.org) | 北京大学 | :question: Connection error |
 | [北京奶龙大学.com](https://北京奶龙大学.com) | 北京工业大学 | :white_check_mark: Redirect 301 |
 | [北京原神大学.world](https://北京原神大学.world/) | 北京工业大学 | :white_check_mark: Redirect 301 |
@@ -125,7 +126,6 @@
 | [澳洲原神大学.com](https://澳洲原神大学.com) | University of Melbourne | :x: NXDOMAIN |
 | [ugensh.in](https://ugensh.in) | University of Sydney | :x: NXDOMAIN |
 | [ugenshin.ca](http://ugenshin.ca) | University of Toronto | :x: NXDOMAIN |
-| [美国奶龙大学.com](http://www.美国奶龙大学.com) | University of Wisconsin-Madison | :x: NXDOMAIN |
 | [安徽原神大学.icu](http://安徽原神大学.icu) | 安徽大学 | :x: NXDOMAIN |
 | [提瓦特高等师范学院.icu](http://提瓦特高等师范学院.icu) | 安徽师范大学 | :x: NXDOMAIN |
 | [澳门原神大学.cn](http://澳门原神大学.cn) | 澳门城市大学 | :x: NXDOMAIN |
