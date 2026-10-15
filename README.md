@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有310个高校）（其中81个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有312个高校）（其中84个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-10-14 16:55 UTC+8）
+## 高校名单（2026-10-15 15:59 UTC+8）
 
 
 状态说明：
@@ -42,6 +42,7 @@
 
 | 网站 | 大学 | 状态 |
 | --- | --- | --- |
+| [北美奶龙理工学院.com](https://www.北美奶龙理工学院.com) | Rensselaer Polytechnic Institute (RPI) | :white_check_mark: Meta Refresh |
 | [加拿大原神大学.com](http://加拿大原神大学.com) | Simon Fraser University | :white_check_mark: Redirect 301 |
 | [universityofgenshin.ca](http://universityofgenshin.ca/) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [加拿大原神大专.com](http://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 301 |
@@ -82,6 +83,8 @@
 | [江苏省响水中学.02.gold](http://www.江苏省响水中学.02.gold) | 江苏省响水中学 | :white_check_mark:  |
 | [原神中学.02.gold](http://原神中学.02.gold/) | 江苏省响水中学 | :white_check_mark:  |
 | [云响中.02.gold](http://云响中.02.gold) | 江苏省响水中学 | :white_check_mark:  |
+| [江西原神大学.com](http://www.江西原神大学.com) | 江西财经大学 | :white_check_mark: Redirect 301 |
+| [奶蛙大学.site](http://奶蛙大学.site) | 辽宁大学 | :white_check_mark: Redirect 301 |
 | [玩绝区零玩的.com](http://玩绝区零玩的.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
 | [崩坏星穹铁道.com](https://崩坏星穹铁道.com) | 南昌大学 | :white_check_mark: Redirect 301 |
 | [南京原神大学.com](http://南京原神大学.com) | 南京大学 | :white_check_mark: Redirect 301 |
@@ -98,7 +101,7 @@
 | [天津原神大学.top](https://天津原神大学.top) | 天津理工大学 | :white_check_mark: Redirect 301 |
 | [原神启动.top](http://www.原神启动.top) | 天津理工大学中环信息学院 | :white_check_mark: Redirect 302 |
 | [原神小学.com](https://www.原神小学.com) | 通川区第一小学校 | :question: 412 |
-| [武汉原神大专.com](http://武汉原神大专.com) | 武汉工程大学 | :white_check_mark: Redirect 302 |
+| [武汉原神大专.com](https://武汉原神大专.com) | 武汉工程大学 | :white_check_mark: Redirect 302 |
 | [原神职业技术学院.com](https://原神职业技术学院.com) | 五邑大学 | :white_check_mark: Redirect 302 |
 | [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark:  |
 | [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
@@ -217,7 +220,6 @@
 | [加利福尼亚原神大学.com](http://www.加利福尼亚原神大学.com) | 加州大学圣克鲁兹分校 | :x: NXDOMAIN |
 | [江苏原神大学.com](http://www.江苏原神大学.com) | 江苏大学 | :x: NXDOMAIN |
 | [徐州原神大学.com](http://www.徐州原神大学.com) | 江苏师范大学 | :x: NXDOMAIN |
-| [江西原神大学.com](http://www.江西原神大学.com) | 江西财经大学 | :x: NXDOMAIN |
 | [江西原神大专.com](http://www.江西原神大专.com) | 江西理工大学 | :x: NXDOMAIN |
 | [原神中医药大学.fun](https://原神中医药大学.fun) | 江西中医药大学 | :x: NXDOMAIN |
 | [胶州市最爱玩原神的中学.com](https://www.胶州市最爱玩原神的中学.com) | 胶州市阜安中学 | :x: NXDOMAIN |
