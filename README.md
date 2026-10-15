@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-10-15 15:59 UTC+8）
+## 高校名单（2026-10-15 16:30 UTC+8）
 
 
 状态说明：
@@ -101,7 +101,7 @@
 | [天津原神大学.top](https://天津原神大学.top) | 天津理工大学 | :white_check_mark: Redirect 301 |
 | [原神启动.top](http://www.原神启动.top) | 天津理工大学中环信息学院 | :white_check_mark: Redirect 302 |
 | [原神小学.com](https://www.原神小学.com) | 通川区第一小学校 | :question: 412 |
-| [武汉原神大专.com](https://武汉原神大专.com) | 武汉工程大学 | :white_check_mark: Redirect 302 |
+| [武汉原神大专.com](https://www.武汉原神大专.com) | 武汉工程大学 | :white_check_mark: Redirect 302 |
 | [原神职业技术学院.com](https://原神职业技术学院.com) | 五邑大学 | :white_check_mark: Redirect 302 |
 | [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark:  |
 | [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
