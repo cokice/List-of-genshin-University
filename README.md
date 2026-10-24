@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-10-23 16:44 UTC+8）
+## 高校名单（2026-10-24 16:19 UTC+8）
 
 
 状态说明：
@@ -122,7 +122,7 @@
 | [北京原神中学.top](https://www.北京原神中学.top) | 中国人民大学附属中学朝阳学校 | :white_check_mark: Redirect 301 |
 | [舞萌大学.world](https://www.舞萌大学.world) | 中国社会科学院大学 | :white_check_mark: Redirect 301 |
 | [中国原神大学.online](https://中国原神大学.online) | 中国社会科学院大学 | :white_check_mark: Redirect 301 |
-| [沈阳原神大学.hongbot.icu](http://沈阳原神大学.hongbot.icu) | 中国医科大学 | :question: 530 |
+| [沈阳原神大学.hongbot.icu](http://沈阳原神大学.hongbot.icu) | 中国医科大学 | :white_check_mark: Redirect 301 |
 | [中国原神大学.com](http://中国原神大学.com) | 中国原神大学 | :white_check_mark: Redirect 301 |
 | [原神启动.com](https://www.原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [中原原神大学.top](https://中原原神大学.top) | 中原工学院 | :white_check_mark: Redirect 301 |
