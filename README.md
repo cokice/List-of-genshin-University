@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-10-30 18:18 UTC+8）
+## 高校名单（2026-10-31 17:52 UTC+8）
 
 
 状态说明：
@@ -43,7 +43,7 @@
 | 网站 | 大学 | 状态 |
 | --- | --- | --- |
 | [北美奶龙理工学院.com](https://www.北美奶龙理工学院.com) | Rensselaer Polytechnic Institute (RPI) | :white_check_mark: Meta Refresh |
-| [加拿大原神大学.com](http://加拿大原神大学.com) | Simon Fraser University | :white_check_mark: Redirect 301 |
+| [加拿大原神大学.com](http://加拿大原神大学.com) | Simon Fraser University | :white_check_mark:  |
 | [universityofgenshin.ca](http://universityofgenshin.ca/) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [加拿大原神大专.com](http://加拿大原神大专.com) | University of Ottawa | :white_check_mark: Redirect 301 |
 | [美国奶龙大学.com](http://www.美国奶龙大学.com) | University of Wisconsin-Madison | :white_check_mark: Redirect 301 |
@@ -104,8 +104,8 @@
 | [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark:  |
 | [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :white_check_mark: Redirect 301 |
+| [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :white_check_mark:  |
-| [tjut.top](https://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
 | [东方原神大学.com](https://www.东方原神大学.com) | 浙江大学 | :white_check_mark:  |
