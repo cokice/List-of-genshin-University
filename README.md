@@ -1,7 +1,7 @@
 # 原神高校联盟
 
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有312个高校）（其中83个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有314个高校）（其中81个有效），提供一个校园集聚地。
 
 非高校也可添加哟~
 
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-11-06 19:14 UTC+8）
+## 高校名单（2026-11-10 19:29 UTC+8）
 
 
 状态说明：
@@ -77,11 +77,7 @@
 | [华南原神大学.com](http://www.华南原神大学.com) | 华南理工大学 | :white_check_mark: Redirect 301 |
 | [canada-genshin-university.pages.dev/](http://canada-genshin-university.pages.dev/) | 滑铁卢大学 | :white_check_mark: Redirect 301 |
 | [吉林大学.com](https://吉林大学.com) | 吉林大学 | :white_check_mark:  |
-| [黑龙江原神大学.icu](http://黑龙江原神大学.icu) | 佳木斯大学 | :white_check_mark: Redirect 301 |
 | [加州原神大学.com](https://加州原神大学.com) | 加州大学圣塔芭芭拉分校 | :white_check_mark: Redirect 301 |
-| [江苏省响水中学.02.gold](http://江苏省响水中学.02.gold) | 江苏省响水中学 | :white_check_mark:  |
-| [原神中学.02.gold](http://原神中学.02.gold/) | 江苏省响水中学 | :white_check_mark:  |
-| [云响中.02.gold](http://云响中.02.gold) | 江苏省响水中学 | :white_check_mark:  |
 | [江西原神大学.com](http://www.江西原神大学.com) | 江西财经大学 | :white_check_mark: Redirect 301 |
 | [奶蛙大学.site](http://奶蛙大学.site) | 辽宁大学 | :white_check_mark: Redirect 301 |
 | [玩绝区零玩的.com](http://玩绝区零玩的.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
@@ -97,6 +93,8 @@
 | [提瓦特航空航天大学.top](https://提瓦特航空航天大学.top) | 沈阳航空航天大学 | :white_check_mark: Redirect 302 |
 | [usts.原友聚集地.top](http://usts.原友聚集地.top) | 苏州科技大学 | :white_check_mark: Meta Refresh |
 | [世界原神中学.com](http://世界原神中学.com/) | 苏州中学 | :white_check_mark:  |
+| [天津奶龙大学.com](https://天津奶龙大学.com) | 天津大学 | :white_check_mark: Meta Refresh |
+| [天津提瓦特大学.cc.cd](https://天津提瓦特大学.cc.cd) | 天津大学 | :white_check_mark: Redirect 301 |
 | [天津原神大学.top](https://天津原神大学.top) | 天津理工大学 | :white_check_mark: Redirect 301 |
 | [原神启动.top](http://www.原神启动.top) | 天津理工大学中环信息学院 | :white_check_mark: Redirect 302 |
 | [原神小学.com](https://www.原神小学.com) | 通川区第一小学校 | :question: 412 |
@@ -191,7 +189,7 @@
 | [河北原神大学.com](https://河北原神大学.com) | 河北科技大学 | :x: NXDOMAIN |
 | [原神科技学院.lol](https://原神科技学院.lol) | 河北农业大学现代科技学院 | :x: NXDOMAIN |
 | [河北原神大专.com](https://河北原神大专.com) | 河北师范大学 | :x: NXDOMAIN |
-| [广西原神大学.top](http://广西原神大学.top/) | 河池学院 | :x: Connection error |
+| [广西原神大学.top](http://广西原神大学.top/) | 河池学院 | :x: NXDOMAIN |
 | [合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院 | :x: NXDOMAIN |
 | [河南原神大学.net](http://河南原神大学.net) | 河南大学 | :x: NXDOMAIN |
 | [开封原神师专.fun](https://www.开封原神师专.fun) | 河南大学 | :x: NXDOMAIN |
@@ -215,10 +213,14 @@
 | [原神学院.com](http://www.原神学院.com) | 黄淮学院 | :x: Connection error |
 | [东北原神大学.com](http://www.东北原神大学.com) | 吉林大学 | :x: Connection error |
 | [广东原神公益大学.com](http://www.广东原神公益大学.com) | 暨南大学 | :x: NXDOMAIN |
+| [黑龙江原神大学.icu](http://黑龙江原神大学.icu) | 佳木斯大学 | :x: Connection error |
 | [嘉兴第一原神中学.com](https://www.嘉兴第一原神中学.com) | 嘉兴市第一中学 | :x: NXDOMAIN |
 | [加州原神工业大学.club](https://加州原神工业大学.club) | 加州大学伯克利分校 | :x: NXDOMAIN |
 | [加利福尼亚原神大学.com](http://www.加利福尼亚原神大学.com) | 加州大学圣克鲁兹分校 | :x: NXDOMAIN |
 | [江苏原神大学.com](http://www.江苏原神大学.com) | 江苏大学 | :x: NXDOMAIN |
+| [江苏省响水中学.02.gold](http://江苏省响水中学.02.gold) | 江苏省响水中学 | :x: NXDOMAIN |
+| [原神中学.02.gold](http://原神中学.02.gold/) | 江苏省响水中学 | :x: NXDOMAIN |
+| [云响中.02.gold](http://云响中.02.gold) | 江苏省响水中学 | :x: NXDOMAIN |
 | [徐州原神大学.com](http://www.徐州原神大学.com) | 江苏师范大学 | :x: NXDOMAIN |
 | [江西原神大专.com](http://www.江西原神大专.com) | 江西理工大学 | :x: NXDOMAIN |
 | [原神中医药大学.fun](https://原神中医药大学.fun) | 江西中医药大学 | :x: NXDOMAIN |
