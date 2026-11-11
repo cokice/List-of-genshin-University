@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-11-10 19:29 UTC+8）
+## 高校名单（2026-11-11 19:18 UTC+8）
 
 
 状态说明：
@@ -83,7 +83,7 @@
 | [玩绝区零玩的.com](http://玩绝区零玩的.com) | 辽宁科技大学 | :white_check_mark: Redirect 301 |
 | [崩坏星穹铁道.com](https://崩坏星穹铁道.com) | 南昌大学 | :white_check_mark: Redirect 301 |
 | [南京原神大学.com](http://南京原神大学.com) | 南京大学 | :white_check_mark: Redirect 301 |
-| [原神中学.com](http://原神中学.com) | 宁夏长庆高级中学 | :white_check_mark: Redirect 302 |
+| [原神中学.com](https://原神中学.com) | 宁夏长庆高级中学 | :white_check_mark: Redirect 302 |
 | [美国原神大学.com](https://www.美国原神大学.com) | 纽约大学 | :white_check_mark: Redirect 301 |
 | [玩原神玩的.xyz](https://玩原神玩的.xyz) | 平阴县实验高中 | :white_check_mark:  |
 | [tsinghua.原神.org](http://www.tsinghua.原神.org) | 清华大学 | :question: SSLError |
