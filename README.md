@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2026-11-15 19:20 UTC+8）
+## 高校名单（2026-11-16 19:51 UTC+8）
 
 
 状态说明：
@@ -69,7 +69,7 @@
 | [提瓦特大学.com](https://提瓦特大学.com) | 海南大学 | :white_check_mark: Redirect 301 |
 | [河北原神大学.cc.cd](http://河北原神大学.cc.cd) | 河北工程大学 | :white_check_mark: Redirect 302 |
 | [河北原神大学东校区.cc.cd](http://河北原神大学东校区.cc.cd) | 河北工程大学科信学院 | :white_check_mark: Redirect 302 |
-| [河北原神学院.com](http://河北原神学院.com) | 河北金融学院 | :white_check_mark: Redirect 301 |
+| [河北原神学院.com](http://河北原神学院.com) | 河北金融学院 | :question: Connection error |
 | [中国原神中学.com](http://中国原神中学.com) | 合肥八中 | :white_check_mark: Redirect 302 |
 | [黑龙江原神大学.com](http://www.黑龙江原神大学.com) | 黑龙江大学 | :white_check_mark: Redirect 301 |
 | [道外区原神大学.cn](https://道外区原神大学.cn) | 黑龙江工程学院 | :white_check_mark: Redirect 302 |
@@ -103,7 +103,7 @@
 | [厦门原神高中.com](https://厦门原神高中.com/) | 厦门市华师希平双语学校 | :white_check_mark:  |
 | [厦门原神学校.com](http://厦门原神学校.com/) | 厦门市华师希平双语学校/厦门外国语学校 | :white_check_mark:  |
 | [四川原神大学.com](http://四川原神大学.com) | 宜宾学院 | :white_check_mark: Redirect 301 |
-| [tjut.top](http://tjut.top) | 原神 | :white_check_mark: Redirect 301 |
+| [tjut.top](http://tjut.top) | 原神 | :question: Connection error |
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :white_check_mark:  |
 | [云原神.cn](http://云原神.cn) | 云南大学 | :white_check_mark: Redirect 301 |
 | [庆云顶.top](https://庆云顶.top) | 云南大学 | :white_check_mark: Redirect 301 |
