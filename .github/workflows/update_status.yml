@@ -23,6 +23,7 @@ on:
       - 'README.md'
       - '.github/workflows/update_status.yml'
       - 'verify-url.py'
+      - 'tests/**'
       - 'new/**'
       - 'whitelist.json'
 
@@ -53,6 +54,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install dnspython requests pypinyin
+
+      - name: Run verification tests
+        run: python -m unittest discover -s tests -v
 
       - name: Prepare Proxy
         run: |
